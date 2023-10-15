@@ -8,17 +8,22 @@ tags:
   - sem1
 subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 ---
+
 # Literatura
+
 - Bielański: Podstawy chemii nieorganicznej. PWN, Warszawa 2002
 - K. Gawęcka, A. Mironowicz: Chemia nieorganiczna –ćwiczenia Wydawnictwo AR W-w 2006
 - C. Wawrzeńczyk: Chemia organiczna Wydawnictwo AR W-w, 2006.
 - K. Gawęcka, A. Mironowicz: Chemia organiczna Wydawnictwo UP W-w, 2010
+
 ---
+
 # Zaliczenie
 
 ## Ćwiczenia
 
 Sprawozdania z ćwiczeń (w grupach)
+
 ## Wykłady
 
 Mikro-kolokwia / Jedno duże kolokwium
@@ -27,6 +32,4 @@ Mikro-kolokwia / Jedno duże kolokwium
 
 ## Ćwiczenia 1 (14.10.23r.)
 
-
 ## Wykład 1 (14.10.23r.)
-

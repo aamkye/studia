@@ -9,18 +9,27 @@ tags:
 subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 elearning: https://www.ckno.upwr.edu.pl/c21l/course/view.php?id=1096
 ---
+
 ---
+
 # Literatura
+
 - Mierzwa D.: Mikro- i makroekonomia. Kurs podstawowy. Wydawnictwo Uniwersytetu Przyrodniczego, Wrocław 2010.
+
 ---
+
 # Zaliczenie
+
 Zaliczenia e-learningowe oraz zaliczenie finalne - kolokwium
 
 ---
+
 # Daty
+
 04.02.24r. - Kolokwium
 
 ---
+
 # Tematy
 
 ## E-Learning

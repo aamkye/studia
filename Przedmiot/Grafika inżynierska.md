@@ -8,12 +8,19 @@ tags:
   - sem1
 subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 ---
+
 # Literatura
+
 - BRAK.
+
 ---
+
 # Zaliczenie
+
 TBD
+
 # Tematy
 
 ## Wykład 1 (15.10.23r.)
+
 BRAK.
