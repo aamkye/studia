@@ -82,10 +82,10 @@ jobs:
       - uses: docker://pandoc/latex:latest
         with:
           args: >-
-            --output=output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf
+            --output="output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
             --from=markdown
             --to=pdf
-            ${{ matrix.file }}
+            "${{ matrix.file }}"
       - uses: actions/upload-artifact@v3
         with:
           name: ${{ steps.file_without_path_end_extension.outputs.value }}.pdf

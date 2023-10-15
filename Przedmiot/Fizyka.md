@@ -133,26 +133,3 @@ $$
 #### Styczne
 
 ---
-
-test
-test2
-test3
-Test3
-test4
-Test5
-test5
-Test6
-test7
-Test8
-Test9
-Test10
-Test11
-Test12
-Test12
-Test13
-test14
-Test16
-Test17
-Test19
-Test20
-Test21
