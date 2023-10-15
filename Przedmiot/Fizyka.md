@@ -49,7 +49,7 @@ Kolokwium / potencjalne wejściówki
 
 # Daty
 
-TBD
+TBD.
 
 ---
 
