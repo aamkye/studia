@@ -55,7 +55,7 @@ jobs:
         with:
           args: >-
             --output="output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
-            --from=markdown
+            --from=markdown_mmd
             --to=pdf
             "${{ matrix.file }}"
       - uses: actions/upload-artifact@v3
