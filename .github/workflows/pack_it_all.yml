@@ -56,6 +56,8 @@ jobs:
     strategy:
       matrix:
         file: ${{ fromJson(needs.get_files.outputs.files) }}
+    env:
+      FILE: ${{ matrix.file }}
     steps:
       - uses: mad9000/actions-find-and-replace-string@3
         id: path
@@ -85,7 +87,7 @@ jobs:
             --output="output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
             --from=markdown
             --to=pdf
-            "${{ matrix.file }}"
+            "$FILE"
       - uses: actions/upload-artifact@v3
         with:
           name: ${{ steps.file_without_path_end_extension.outputs.value }}.pdf
