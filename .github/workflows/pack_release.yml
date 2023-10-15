@@ -1,4 +1,4 @@
-name: Pack it all
+name: Pack Release
 
 on:
   push:
@@ -55,7 +55,7 @@ jobs:
         with:
           args: >-
             --output="output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
-            --from=markdown_mmd
+            --from=markdown
             --to=pdf
             "${{ matrix.file }}"
       - uses: actions/upload-artifact@v3

@@ -1,0 +1,12 @@
+name: Pack PR
+
+on:
+  pull_request:
+    paths:
+      - 'Przedmiot/**.md'
+
+jobs:
+  temp:
+    runs-on: ubuntu-latest
+    steps:
+      - run: test
