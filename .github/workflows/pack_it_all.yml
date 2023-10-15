@@ -29,7 +29,38 @@ jobs:
         id: files_list
         run: echo "matrix=$(ls Przedmiot/*.md | jq -R -s -c 'split("\n")[:-1]')" >> $GITHUB_OUTPUT
 
-  list_files:
+  # list_files:
+  #   needs: get_files
+  #   runs-on: ubuntu-latest
+  #   strategy:
+  #     matrix:
+  #       file: ${{ fromJson(needs.get_files.outputs.files) }}
+  #   steps:
+  #     - uses: mad9000/actions-find-and-replace-string@3
+  #       id: path
+  #       with:
+  #         source: ${{ matrix.file }}
+  #         find: '/.*'
+  #         replace: ''
+  #     - uses: mad9000/actions-find-and-replace-string@3
+  #       id: file_without_path
+  #       with:
+  #         source: ${{ matrix.file }}
+  #         find: 'Przedmiot/'
+  #         replace: ''
+  #     - uses: mad9000/actions-find-and-replace-string@3
+  #       id: file_without_path_end_extension
+  #       with:
+  #         source: ${{ steps.file_without_path.outputs.value }}
+  #         find: '.md'
+  #         replace: ''
+  #     - name: list files
+  #       run: |
+  #         echo "${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
+
+# -----------------------------------------------------------------------------
+
+  convert_via_pandoc:
     needs: get_files
     runs-on: ubuntu-latest
     strategy:
@@ -54,35 +85,21 @@ jobs:
           source: ${{ steps.file_without_path.outputs.value }}
           find: '.md'
           replace: ''
-      - name: list files
-        run: |
-          echo "${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
+      - uses: actions/checkout@v3
+      - uses: docker://pandoc/latex:latest
+        with:
+          args: >-
+            --output=output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf
+            --from=markdown
+            --to=pdf
+            ${{ matrix.file }}
 
-# -----------------------------------------------------------------------------
-
-  # convert_via_pandoc:
-  #   needs: get_files
-  #   runs-on: ubuntu-latest
-  #   strategy:
-  #     matrix:
-  #       file: ${{ fromJson(needs.get_files.outputs.files) }}
-  #   env:
-  #     path: ${{ matrix.file }}
-  #   steps:
-  #     - uses: actions/checkout@v3
-  #     - uses: docker://pandoc/latex:latest
-  #       with:
-  #         args: >-
-  #           --output=output/${env.file}.pdf
-  #           --from=markdown
-  #           --to=pdf
-  #           ${env.path}/${env.file}
-
-  # pack:
-  #   needs: convert_via_pandoc
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/upload-artifact@v3
-  #       with:
-  #         name: output
-  #         path: output
+  pack:
+    needs: convert_via_pandoc
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/upload-artifact@v3
+        with:
+          name: ${{ github.ref }}
+          path: output
+          if-no-files-found: error
