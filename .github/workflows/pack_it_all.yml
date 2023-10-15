@@ -73,12 +73,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: tree .
+      # Ugly hacks...
       - uses: actions/download-artifact@v3
         with:
-          path: output
-      - run: mv output/**/*.pdf output
-      - run: tree .
-      - run: rmdir output/**
+          path: output-tmp
+      - run: mkdir output && mv output-tmp/**/*.pdf output
       - run: tree .
       - uses: ncipollo/release-action@v1
         with:
