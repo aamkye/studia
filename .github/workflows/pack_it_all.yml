@@ -45,12 +45,12 @@ jobs:
       - uses: mad9000/actions-find-and-replace-string@3
         id: without_extension
         with:
-          source: ${{ steps.without_path.outputs.result }}
+          source: ${{ steps.without_path.outputs.value }}
           find: '.md'
           replace: ''
       - name: list files
         run: |
-          echo "${{ steps.without_path.outputs.result }}.pdf"
+          echo "${{ steps.without_path.outputs.value }}.pdf"
 
 # -----------------------------------------------------------------------------
 
