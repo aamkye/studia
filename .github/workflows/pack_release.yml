@@ -57,6 +57,7 @@ jobs:
             --output="output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
             --from=markdown
             --to=pdf
+            --resource-path=.:Obrazki:Obrazki/*:Przedmiot:Przedmiot/*
             "${{ matrix.file }}"
       - uses: actions/upload-artifact@v3
         with:
