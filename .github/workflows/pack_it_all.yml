@@ -50,6 +50,7 @@ jobs:
       - id: prepare_output
         run: |
           mkdir -p output
+      - run: tree .
       - uses: docker://pandoc/latex:latest
         with:
           args: >-
@@ -71,9 +72,7 @@ jobs:
       - uses: actions/checkout@v3
       - run: tree .
       - uses: actions/download-artifact@v3
-        with:
-          name: ${{ steps.file_without_path_end_extension.outputs.value }}.pdf
-          path: output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf
+      - run: tree .
       - uses: ncipollo/release-action@v1
         with:
           name: Release ${{ github.ref }}
