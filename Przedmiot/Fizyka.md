@@ -22,10 +22,84 @@ Sprawozdania z ćwiczeń
 
 ---
 # Daty
-
+TBD
 
 ---
 # Tematy
 ## Ćwiczenia 1 (14.10.23r.)
+
+### Wektory
+- Dodawanie wektorów
+- Odejmowanie wektorów
+- Mnożenie wektorów
+- Mnożenie wektorów przez skalary
+
 ## Wykład 1 (14.10.23r.)
 
+### Zjawisko fizyczne
+
+### Wielkości fizyczne
+- podstawowe i pochodne
+- skalarne i wektorowe
+
+### [Układ SI](https://pl.wikipedia.org/wiki/Uk%C5%82ad_SI)
+| Nazwa                                                         | Symbol | Mierzona wielość                                                                                |
+| ------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------- |
+| [metr](https://pl.wikipedia.org/wiki/Metr "Metr")             | m      | [długość](https://pl.wikipedia.org/wiki/D%C5%82ugo%C5%9B%C4%87_fizyczna "Długość fizyczna")     |
+| [kilogram](https://pl.wikipedia.org/wiki/Kilogram "Kilogram") | kg     | [masa](https://pl.wikipedia.org/wiki/Masa_(fizyka) "Masa (fizyka)")                             |
+| [sekunda](https://pl.wikipedia.org/wiki/Sekunda "Sekunda")    | s      | [czas](https://pl.wikipedia.org/wiki/Czas "Czas")                                               |
+| [amper](https://pl.wikipedia.org/wiki/Amper "Amper")          | A      | [prąd elektryczny](https://pl.wikipedia.org/wiki/Pr%C4%85d_elektryczny "Prąd elektryczny")      |
+| [kelwin](https://pl.wikipedia.org/wiki/Kelwin "Kelwin")       | K      | [temperatura](https://pl.wikipedia.org/wiki/Temperatura "Temperatura")                          |
+| [mol](https://pl.wikipedia.org/wiki/Mol "Mol")                | mol    | [liczność materii](https://pl.wikipedia.org/wiki/Liczno%C5%9B%C4%87_materii "Liczność materii") |
+| [kandela](https://pl.wikipedia.org/wiki/Kandela "Kandela")    | cd     | [światłość](https://pl.wikipedia.org/wiki/%C5%9Awiat%C5%82o%C5%9B%C4%87 "Światłość")            |
+
+### Mechanika
+- Kinematyka (jak coś się porusza)
+- Dynamika (dlaczego coś się porusza)
+
+### Ruch postępowy
+- Prostolinijny
+- Krzywolinijny
+
+### Wektor położenia (godzący)
+
+### Ruch krzywoliniowy
+$$
+\vert\Delta \overrightarrow{r}\vert < S
+$$
+
+### Ruch prostolinijny
+$$
+\vert\Delta \overrightarrow{r}\vert = S
+$$
+
+### Prędkość liniowa
+$$
+\overrightarrow{V}_{śr} = \left\lvert \frac{\Delta \overrightarrow{r}}{\Delta t} \right\rvert \le \frac{S}{\Delta t} \left[\frac{m}{s} \right]
+$$
+
+#### Prędkość chwilowa
+$$
+\Delta t \to 0
+$$
+$$
+\overrightarrow{V}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \overrightarrow{r}}{\Delta t} = \frac{d\overrightarrow{r}}{dt}
+$$
+
+#### Granica
+
+#### Sieczna
+
+### Przyspieszenie
+$$
+\frac{\Delta \overrightarrow{v}}{\Delta t} \left[\frac{\frac{m}{s}}{s} = \frac{m}{s^2}\right]
+$$
+
+#### Chwilowe
+$$
+\overrightarrow{a}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \overrightarrow{v}}{\Delta t} = \frac{d\overrightarrow{v}}{dt}
+$$
+
+#### Holograf prędkości
+
+#### Styczne

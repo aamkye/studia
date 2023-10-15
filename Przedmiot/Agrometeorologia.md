@@ -17,16 +17,16 @@ subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 ---
 # Zaliczenie
 
-Zaliczenie pisemne - kolokwium
+Zaliczenie pisemne — kolokwium
 
 ---
 # Daty
-04.02.24r. - kolokwium
+04.02.24 r. - kolokwium
 
 ---
 # Tematy
 
-## Wykład 1 (15.10.23r.)
+## Wykład 1 (15.10.23 r.)
 
 ### Agrometeorologia
 
@@ -38,31 +38,31 @@ Zaliczenie pisemne - kolokwium
 ### Agroklimatologia
 
 ### Meteorologia
-- Meteorologia dynamiczna
-- Meteorologia synoptyczna
-- Meteorologia fizyczna
+- Dynamiczna
+- Synoptyczna
+- Fizyczna
 - Aktynometria (promieniowanie)
 
 ### Klimatologia
-- norma z 30lat, pomiary od roku 01 do roku 00, np od 1991 do 2000
+- Norma z 30 lat, pomiary od roku 01 do roku 00, np. od 1991 do 2000
 
 ### Mikroklimatologia
-- przygruntowa
-- pomiary dobowe od 7.00 do 7.00 nast. dnia.
-- pomiar temperatury: 7.00, 19:00, extrema
+- Przygruntowa
+- Pomiary dobowe od 7:00 do 7:00 następnego dnia.
+- Pomiar temperatury: 7:00, 19:00, ekstrema
 
 ### Pogoda
-- tu i teraz
+- Tu i teraz
 
 ### Klimat
-- całokształt stanów pogody w danym miejscu
+- Całokształt stanów pogody w danym miejscu
 
 ### Rytm dobowy / rytm roczny
 
 ### Zadania meteorologii
 - Obserwacje
 - Eksperymenty
-- Analizy statytstyczno-matematyczne
+- Analizy statystyczno-matematyczne
 - Analizy matematyczno-fizyczne
 
 ### Zasady obserwacji:
