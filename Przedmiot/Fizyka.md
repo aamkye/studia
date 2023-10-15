@@ -133,7 +133,3 @@ $$
 #### Styczne
 
 ---
-
-test
-
-test 2

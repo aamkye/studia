@@ -27,6 +27,7 @@ jobs:
       matrix:
         file: ${{ fromJson(needs.get_files.outputs.files) }}
     steps:
+      - uses: actions/checkout@v3
       - run: tree .
       - uses: mad9000/actions-find-and-replace-string@3
         id: path
@@ -67,7 +68,12 @@ jobs:
     needs: convert_via_pandoc
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - run: tree .
+      - uses: actions/download-artifact@v3
+        with:
+          name: ${{ steps.file_without_path_end_extension.outputs.value }}.pdf
+          path: output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf
       - uses: ncipollo/release-action@v1
         with:
           name: Release ${{ github.ref }}
