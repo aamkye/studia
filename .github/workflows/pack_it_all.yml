@@ -6,8 +6,8 @@ on:
       - 'Przedmiot/**.md'
     branches:
       - master
-    # tags:
-    #   - '*'
+    tags:
+      - '*'
 
 jobs:
   get_files:
@@ -91,3 +91,6 @@ jobs:
           name: ${{ steps.file_without_path_end_extension.outputs.value }}.pdf
           path: output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf
           if-no-files-found: error
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "output/*.pdf"
