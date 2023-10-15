@@ -17,9 +17,55 @@ subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 ---
 # Zaliczenie
 
-TBD
+Zaliczenie pisemne - kolokwium
 
+---
+# Daty
+04.02.24r. - kolokwium
+
+---
 # Tematy
 
 ## Wykład 1 (15.10.23r.)
 
+### Agrometeorologia
+
+- Klimatologia
+- Ekonomika rolnictwa
+- Uprawa roli i roślin
+- Gleboznawstwo
+
+### Agroklimatologia
+
+### Meteorologia
+- Meteorologia dynamiczna
+- Meteorologia synoptyczna
+- Meteorologia fizyczna
+- Aktynometria (promieniowanie)
+
+### Klimatologia
+- norma z 30lat, pomiary od roku 01 do roku 00, np od 1991 do 2000
+
+### Mikroklimatologia
+- przygruntowa
+- pomiary dobowe od 7.00 do 7.00 nast. dnia.
+- pomiar temperatury: 7.00, 19:00, extrema
+
+### Pogoda
+- tu i teraz
+
+### Klimat
+- całokształt stanów pogody w danym miejscu
+
+### Rytm dobowy / rytm roczny
+
+### Zadania meteorologii
+- Obserwacje
+- Eksperymenty
+- Analizy statytstyczno-matematyczne
+- Analizy matematyczno-fizyczne
+
+### Zasady obserwacji:
+- Porównywalność miejsca
+- Porównywalność czasu (względem czasu UTC)
+- Porównywalność metod pomiarowych

@@ -17,6 +17,10 @@ elearning: https://www.ckno.upwr.edu.pl/c21l/course/view.php?id=1096
 Zaliczenia e-learningowe oraz zaliczenie finalne - kolokwium
 
 ---
+# Daty
+04.02.24r. - Kolokwium
+
+---
 # Tematy
 
 ## E-Learning
