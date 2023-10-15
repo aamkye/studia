@@ -76,7 +76,7 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           path: output
-      - run: mv output/**/*(.D) output
+      - run: mv output/**/*.pdf output
       - run: tree .
       - run: rmdir output/**
       - run: tree .
