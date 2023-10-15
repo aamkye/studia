@@ -64,6 +64,7 @@ jobs:
           name: ${{ steps.file_without_path_end_extension.outputs.value }}.pdf
           path: output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf
           if-no-files-found: error
+          retention-days: 1
       - run: tree .
 
   release:
