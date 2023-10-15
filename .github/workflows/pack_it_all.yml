@@ -20,7 +20,7 @@ jobs:
       - name: get file list
         id: files_list
         run: |
-          echo "files=$(printf '"%s" ' ./Przedmiot/**.md)" > $GITHUB_OUTPUT
+          echo "files=$(printf '"%s" ' ./Przedmiot/*.md)" > $GITHUB_OUTPUT
 
   list_files:
     needs: get_files
