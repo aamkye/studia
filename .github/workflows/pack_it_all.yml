@@ -1,4 +1,4 @@
-name: Advanced Usage
+name: Pack it all
 
 on:
   push:
@@ -39,7 +39,7 @@ jobs:
     steps:
       - name: list files
         run: |
-          echo "${{ file }}"
+          echo "${{ matrix.file }}"
 
   # convert_via_pandoc:
   #   needs: get_files
