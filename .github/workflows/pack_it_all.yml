@@ -76,6 +76,9 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           path: output
+      - run: mv output/**/*(.D) output
+      - run: tree .
+      - run: rmdir output/**
       - run: tree .
       - uses: ncipollo/release-action@v1
         with:
