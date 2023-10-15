@@ -5,7 +5,7 @@ on:
     paths:
       - 'Przedmioty/**.md'
     branches:
-      - main
+      - master
     # tags:
     #   - '*'
 
