@@ -37,20 +37,26 @@ jobs:
         file: ${{ fromJson(needs.get_files.outputs.files) }}
     steps:
       - uses: mad9000/actions-find-and-replace-string@3
-        id: without_path
+        id: path
+        with:
+          source: ${{ matrix.file }}
+          find: '/.*'
+          replace: ''
+      - uses: mad9000/actions-find-and-replace-string@3
+        id: file_without_path
         with:
           source: ${{ matrix.file }}
           find: 'Przedmiot/'
           replace: ''
       - uses: mad9000/actions-find-and-replace-string@3
-        id: without_extension
+        id: file_without_path_end_extension
         with:
-          source: ${{ steps.without_path.outputs.value }}
+          source: ${{ steps.file_without_path.outputs.value }}
           find: '.md'
           replace: ''
       - name: list files
         run: |
-          echo "${{ steps.without_path.outputs.value }}.pdf"
+          echo "${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
 
 # -----------------------------------------------------------------------------
 
