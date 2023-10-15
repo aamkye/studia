@@ -20,7 +20,7 @@ jobs:
       - name: get file list
         id: files_list
         run: |
-          echo "files=$(printf '"%s" ' ./Przedmiot/*.md)" > $GITHUB_OUTPUT
+          echo "files=$(printf '"%s" ' ./Przedmiot/*.md)" >> "$GITHUB_OUTPUT"
 
   list_files:
     needs: get_files
@@ -28,7 +28,7 @@ jobs:
     steps:
       - name: list files
         run: |
-          echo "${{ steps.files_list.outputs.files }}"
+          echo "${{ needs.get_files.outputs.files }}"
 
   # convert_via_pandoc:
   #   needs: get_files
