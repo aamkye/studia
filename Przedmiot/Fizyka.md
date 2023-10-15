@@ -82,6 +82,7 @@ $$
 $$
 \Delta t \to 0
 $$
+
 $$
 \overrightarrow{V}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \overrightarrow{r}}{\Delta t} = \frac{d\overrightarrow{r}}{dt}
 $$
@@ -92,7 +93,8 @@ $$
 
 ### Przyspieszenie
 $$
-\frac{\Delta \overrightarrow{v}}{\Delta t} \left[\frac{\frac{m}{s}}{s} = \frac{m}{s^2}\right]
+\frac{\Delta \overrightarrow{v}}{\Delta t} 
+\left[\frac{\frac{m}{s}}{s} = \frac{m}{s^2}\right]
 $$
 
 #### Chwilowe
