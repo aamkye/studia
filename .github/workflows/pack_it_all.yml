@@ -6,8 +6,8 @@ on:
       - 'Przedmiot/**.md'
     branches:
       - master
-    tags:
-      - '*'
+    # tags:
+    #   - '*'
 
 jobs:
   get_files:
@@ -75,7 +75,6 @@ jobs:
           source: ${{ steps.file_without_path.outputs.value }}
           find: '.md'
           replace: ''
-      - uses: actions/checkout@v3
       - id: prepare_output
         run: |
           mkdir -p output
@@ -91,6 +90,12 @@ jobs:
           name: ${{ steps.file_without_path_end_extension.outputs.value }}.pdf
           path: output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf
           if-no-files-found: error
+
+  release:
+    needs: convert_via_pandoc
+    runs-on: ubuntu-latest
+    steps:
       - uses: ncipollo/release-action@v1
         with:
+          name: Release ${{ github.ref }}
           artifacts: "output/*.pdf"
