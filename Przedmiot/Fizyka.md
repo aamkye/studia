@@ -28,7 +28,7 @@ Kolokwium / potencjalne wejściówki
 
 ## Ćwiczenia
 
-![Plań cwiczeń labolatoryjnych](../Obrazki/fizyka/plan-ćwiczeń-labolatoryjnych.png)
+![Plań cwiczeń labolatoryjnych](./Obrazki/fizyka/plan-ćwiczeń-labolatoryjnych.png)
 
 ### Wykaz cwiczeń
 
