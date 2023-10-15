@@ -7,6 +7,7 @@ email: tomasz.pilawka@upwr.edu.pl
 tags:
   - sem1
 subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
+geometry: margin=1.5cm
 ---
 
 # Literatura
