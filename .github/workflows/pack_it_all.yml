@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-          file: ${{ fromJson(needs.get_files.outputs.files) }}
+        file: ${{ fromJson(needs.get_files.outputs.files) }}
     steps:
       - name: list files
         run: |
