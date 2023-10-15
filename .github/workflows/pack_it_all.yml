@@ -19,7 +19,7 @@ jobs:
         id: files_list
         run: |
           mkdir output  # create output dir
-          echo "files=$(printf '"%s" ' Przedmioty/**.md)" > $GITHUB_OUTPUT
+          echo "files=$(printf '"%s" ' Przedmiot/**.md)" > $GITHUB_OUTPUT
 
   # convert_via_pandoc:
   #   needs: get_files
