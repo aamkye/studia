@@ -1,3 +1,5 @@
 - [Sylabus](https://sylabus.upwr.edu.pl/pl/6/2/4/5/41)
 - [IRK](https://irk.upwr.edu.pl/pl/profile/)
 - [CKNO](https://www.ckno.upwr.edu.pl/c21l)
+- [LaTeX](https://www.overleaf.com/learn)
+- 

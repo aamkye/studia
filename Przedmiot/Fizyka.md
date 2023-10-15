@@ -93,7 +93,7 @@ $$
 
 ### Przyspieszenie
 $$
-\frac{\Delta \overrightarrow{v}}{\Delta t} 
+\frac{\Delta \overrightarrow{v}}{\Delta t}
 \left[\frac{\frac{m}{s}}{s} = \frac{m}{s^2}\right]
 $$
 
@@ -105,3 +105,5 @@ $$
 #### Holograf prędkości
 
 #### Styczne
+
+---
