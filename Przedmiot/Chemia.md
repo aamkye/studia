@@ -1,14 +1,15 @@
 ---
-teacher: dr inż. Jacek Łyczko
-teacher_usos: https://usos.upwr.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=52859
-teacher_researchgate: https://www.researchgate.net/profile/Jacek-Lyczko
-teacher_orcid: https://orcid.org/0000-0002-8423-7296
-email: jacek.lyczko@upwr.edu.pl
-tags:
-  - sem1
-subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 geometry: margin=1.5cm
 ---
+
+# Chemia
+
+- teacher: dr inż. Jacek Łyczko
+- teacher_usos: https://usos.upwr.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=52859
+- teacher_researchgate: https://www.researchgate.net/profile/Jacek-Lyczko
+- teacher_orcid: https://orcid.org/0000-0002-8423-7296
+- email: jacek.lyczko@upwr.edu.pl
+- subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 
 # Literatura
 

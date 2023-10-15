@@ -79,9 +79,12 @@ jobs:
           path: output-tmp
       - run: mkdir output && mv output-tmp/**/*.pdf output
       - run: tree .
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%d-%m-%Y')" >> $GITHUB_OUTPUT
       - uses: ncipollo/release-action@v1
         with:
-          name: Release ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }} / ${{ steps.date.outputs.date }}
           artifacts: "output/*.pdf"
           tag: ${{ github.ref_name }}
           commit: ${{ github.sha }}

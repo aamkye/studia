@@ -1,14 +1,15 @@
 ---
-teacher: dr inż. Tomasz Pilawka
-teacher_usos: https://usos.upwr.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=16967
-teacher_researchgate: https://www.researchgate.net/profile/Tomasz-Pilawka-3
-teacher_orcid: https://orcid.org/0000-0003-3368-1941
-email: tomasz.pilawka@upwr.edu.pl
-tags:
-  - sem1
-subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 geometry: margin=1.5cm
 ---
+
+# Polityka i prawo rolne
+
+- teacher: dr inż. Tomasz Pilawka
+- email: tomasz.pilawka@upwr.edu.pl
+- teacher_usos: https://usos.upwr.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=16967
+- teacher_researchgate: https://www.researchgate.net/profile/Tomasz-Pilawka-3
+- teacher_orcid: https://orcid.org/0000-0003-3368-1941
+- subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 
 # Literatura
 

@@ -1,17 +1,16 @@
 ---
-teacher: dr inż. Adam Luberański
-teacher_usos: https://usos.upwr.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=16532
-teacher_researchgate: https://www.researchgate.net/profile/Adam-Luberanski
-teacher_orcid: https://orcid.org/0000-0002-6902-7645
-email: adam.luberanski@upwr.edu.pl
-tags:
-  - sem1
-subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
-elearning: https://www.ckno.upwr.edu.pl/c21l/course/view.php?id=865&section=0#module-63278
 geometry: margin=1.5cm
 ---
 
----
+# Technologia informacyjna
+
+- teacher: dr inż. Adam Luberański
+- email: adam.luberanski@upwr.edu.pl
+- teacher_usos: https://usos.upwr.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=16532
+- teacher_researchgate: https://www.researchgate.net/profile/Adam-Luberanski
+- teacher_orcid: https://orcid.org/0000-0002-6902-7645
+- subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
+- elearning: https://www.ckno.upwr.edu.pl/c21l/course/view.php?id=865&section=0#module-63278
 
 # Literatura
 
