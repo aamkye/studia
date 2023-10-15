@@ -3,7 +3,7 @@ name: Advanced Usage
 on:
   push:
     paths:
-      - 'Przedmioty/**.md'
+      - 'Przedmiot/**.md'
     branches:
       - master
     # tags:
