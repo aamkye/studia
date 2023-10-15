@@ -77,3 +77,5 @@ jobs:
         with:
           name: Release ${{ github.ref }}
           artifacts: "output/*.pdf"
+          tag: ${{ github.ref }}
+          commit: ${{ github.sha }}
