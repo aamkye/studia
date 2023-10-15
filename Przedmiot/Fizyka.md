@@ -28,7 +28,22 @@ Kolokwium / potencjalne wejściówki
 
 ## Ćwiczenia
 
-Sprawozdania z ćwiczeń
+![Plań cwiczeń labolatoryjnych](/Obrazki/fizyka/plan-ćwiczeń-labolatoryjnych.png)
+
+### Wykaz cwiczeń
+
+- Ćw. 2: Wyznaczanie gęstości i ciężaru właściwego ciał stałych
+- Ćw. 16: Sprawdzenie prawa Hooke'a oraz wyznaczenie modułu Younga
+- Ćw. 7: Badanie przepływu cieczy przez poziome rurki
+- Ćw. 9: Wyznaczanie współczynnika przewodności wodnej
+- Ćw. 11: Pomiar współczynnika napięcia powierzchniowego
+- Ćw. 14: Wyznaczanie współczynnika lepkości
+- Ćw. 19: Wyznaczanie ciepła właściwego ciał stałych
+- Ćw. 23: Pomiar zmiany entropii w procesie samorzutnym
+- Ćw. 24: Wyznaczanie linii ekwipotencjalnych pola elektrostatycznego
+- Ćw. 25: Wyznaczanie oporu przewodnika
+- Ćw. 35: Badanie widm pierwiastków za pomocą spektroskopu
+- Ćw. 37: Badanie zjawisk fotoelektrycznych zewnętrznych
 
 ---
 

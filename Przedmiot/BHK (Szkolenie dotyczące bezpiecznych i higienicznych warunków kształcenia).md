@@ -5,10 +5,10 @@ geometry: margin=1.5cm
 # BKH
 
 - teacher: dr inż. Aleksander Drobny
+- email: aleksander.drobny@upwr.edu.pl
 - teacher_usos: https://usos.upwr.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=105133
 - teacher_researchgate: none
 - teacher_orcid: https://orcid.org/0000-0002-7956-4348
-- email: aleksander.drobny@upwr.edu.pl
 - subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 - elearning: https://www.ckno.upwr.edu.pl/c21l/course/view.php?id=1099
 

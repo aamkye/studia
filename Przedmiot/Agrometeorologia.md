@@ -5,10 +5,10 @@ geometry: margin=1.5cm
 # Agrometeorologia
 
 - teacher: dr hab. inż. Małgorzata Biniak-Pieróg
+- email: malgorzata.biniak-pierog@upwr.edu.pl
 - teacher_usos: https://usos.upwr.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=16802
 - teacher_researchgate: https://www.researchgate.net/profile/Malgorzata-Biniak-Pierog
 - teacher_orcid: https://orcid.org/0000-0001-8704-5532
-- email: malgorzata.biniak-pierog@upwr.edu.pl
 - subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 
 # Literatura
