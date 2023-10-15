@@ -36,31 +36,41 @@ jobs:
       matrix:
         file: ${{ fromJson(needs.get_files.outputs.files) }}
     steps:
+      - uses: mad9000/actions-find-and-replace-string@3
+        id: without_path
+        with:
+          source: ${{ matrix.file }}
+          find: 'Przedmiot/'
+          replace: ''
+      - uses: mad9000/actions-find-and-replace-string@3
+        id: without_extension
+        with:
+          source: ${{ steps.without_path.outputs.result }}
+          find: '.md'
+          replace: ''
       - name: list files
         run: |
-          echo "${{ matrix.file }}"
+          echo "${{ steps.without_path.outputs.result }}.pdf"
 
 # -----------------------------------------------------------------------------
 
-  convert_via_pandoc:
-    needs: get_files
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        file: ${{ fromJson(needs.get_files.outputs.files) }}
-    env:
-      path: ${{ matrix.file | replace("/.*", "") }}
-      file: ${{ matrix.file | replace(".*/", "") }}
-      file_without_ext: ${{ matrix.file | replace(".md", "") | replace(".*/", "") }}
-    steps:
-      - uses: actions/checkout@v3
-      - uses: docker://pandoc/latex:latest
-        with:
-          args: >-
-            --output=output/${env.file_without_ext}.pdf
-            --from=markdown
-            --to=pdf
-            ${env.path}/${env.file}
+  # convert_via_pandoc:
+  #   needs: get_files
+  #   runs-on: ubuntu-latest
+  #   strategy:
+  #     matrix:
+  #       file: ${{ fromJson(needs.get_files.outputs.files) }}
+  #   env:
+  #     path: ${{ matrix.file }}
+  #   steps:
+  #     - uses: actions/checkout@v3
+  #     - uses: docker://pandoc/latex:latest
+  #       with:
+  #         args: >-
+  #           --output=output/${env.file}.pdf
+  #           --from=markdown
+  #           --to=pdf
+  #           ${env.path}/${env.file}
 
   # pack:
   #   needs: convert_via_pandoc
