@@ -8,6 +8,7 @@ tags:
   - sem1
 subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 elearning: https://www.ckno.upwr.edu.pl/c21l/course/view.php?id=1099
+geometry: margin=1.5cm
 ---
 
 ---
