@@ -1,0 +1,44 @@
+name: Advanced Usage
+
+on:
+  push:
+    paths:
+      - 'Przedmioty/**.md'
+    branches:
+      - main
+    # tags:
+    #   - '*'
+
+jobs:
+  list-manifests:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: create file list
+        id: files_list
+        run: |
+          mkdir output  # create output dir
+          echo "files=$(printf '"%s" ' Przedmioty/**.md)" > $GITHUB_OUTPUT
+
+  # convert_via_pandoc:
+  #   needs: get_files
+  #   runs-on: ubuntu-latest
+  #   strategy:
+  #       matrix:
+  #           manifest: ${{ fromJson(needs.get_files.outputs.matrix) }}
+  #   steps:
+  #     - uses: docker://pandoc/latex:2.9
+  #       with:
+  #         args: >-
+  #           --output=output/result.pdf ${{ steps.files_list.outputs.files }}
+  #           Przedmiot/Fizyka.md -o fizyka.pdf --from=markdown --to=pdf
+
+  # pack:
+  #   needs: convert_via_pandoc
+  #   runs-on: ubuntu-22.04
+  #   steps:
+  #     - uses: actions/upload-artifact@v3
+  #       with:
+  #         name: output
+  #         path: output

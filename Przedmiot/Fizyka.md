@@ -7,28 +7,44 @@ email: anna.mozrzymas@upwr.edu.pl
 tags:
   - sem1
 subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
+geometry: margin=1.5cm
 ---
+
+# Fizyka
+
 # Literatura
-- S. Przestalski: Elementy fizyki, biofizyki i agrofizyki, Wydawnictwo Uniwersytetu Wrocławskiego, Wrocław 2001
-- H. Kleszczyńska, M. Kilian, J. Kuczera (red): Laboratorium fizyki, biofizyki i agrofizyki, Wyd. UP, Wrocław, 2008
-- R. Resnik, D. Halliday „Fizyka” tom I i II, PWN, Warszawa 1999
+
+- S. Przestalski: Elementy fizyki, biofizyki i agrofizyki, Wydawnictwo Uniwersytetu Wrocławskiego, Wrocław 2001
+- H. Kleszczyńska, M. Kilian, J. Kuczera (red): Laboratorium fizyki, biofizyki i agrofizyki, Wyd. UP, Wrocław, 2008
+- R. Resnik, D. Halliday „Fizyka” tom I i II, PWN, Warszawa 1999
 - R. Resnick, D. Halliday, J. Walker: Podstawy Fizyki, Tom I-V, PWN, Warszawa, 2019
+
 ---
+
 # Zaliczenie
+
 ## Wykład
+
 Kolokwium / potencjalne wejściówki
+
 ## Ćwiczenia
+
 Sprawozdania z ćwiczeń
 
 ---
+
 # Daty
+
 TBD
 
 ---
+
 # Tematy
+
 ## Ćwiczenia 1 (14.10.23r.)
 
 ### Wektory
+
 - Dodawanie wektorów
 - Odejmowanie wektorów
 - Mnożenie wektorów
@@ -39,12 +55,14 @@ TBD
 ### Zjawisko fizyczne
 
 ### Wielkości fizyczne
+
 - podstawowe i pochodne
 - skalarne i wektorowe
 
 ### [Układ SI](https://pl.wikipedia.org/wiki/Uk%C5%82ad_SI)
-| Nazwa                                                         | Symbol | Mierzona wielość                                                                                |
-| ------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------- |
+
+| Nazwa | Symbol | Mierzona wielość |
+| -- | -- | -- |
 | [metr](https://pl.wikipedia.org/wiki/Metr "Metr")             | m      | [długość](https://pl.wikipedia.org/wiki/D%C5%82ugo%C5%9B%C4%87_fizyczna "Długość fizyczna")     |
 | [kilogram](https://pl.wikipedia.org/wiki/Kilogram "Kilogram") | kg     | [masa](https://pl.wikipedia.org/wiki/Masa_(fizyka) "Masa (fizyka)")                             |
 | [sekunda](https://pl.wikipedia.org/wiki/Sekunda "Sekunda")    | s      | [czas](https://pl.wikipedia.org/wiki/Czas "Czas")                                               |
@@ -54,31 +72,37 @@ TBD
 | [kandela](https://pl.wikipedia.org/wiki/Kandela "Kandela")    | cd     | [światłość](https://pl.wikipedia.org/wiki/%C5%9Awiat%C5%82o%C5%9B%C4%87 "Światłość")            |
 
 ### Mechanika
+
 - Kinematyka (jak coś się porusza)
 - Dynamika (dlaczego coś się porusza)
 
 ### Ruch postępowy
+
 - Prostolinijny
 - Krzywolinijny
 
 ### Wektor położenia (godzący)
 
 ### Ruch krzywoliniowy
+
 $$
 \vert\Delta \overrightarrow{r}\vert < S
 $$
 
 ### Ruch prostolinijny
+
 $$
 \vert\Delta \overrightarrow{r}\vert = S
 $$
 
 ### Prędkość liniowa
+
 $$
 \overrightarrow{V}_{śr} = \left\lvert \frac{\Delta \overrightarrow{r}}{\Delta t} \right\rvert \le \frac{S}{\Delta t} \left[\frac{m}{s} \right]
 $$
 
 #### Prędkość chwilowa
+
 $$
 \Delta t \to 0
 $$
@@ -92,12 +116,14 @@ $$
 #### Sieczna
 
 ### Przyspieszenie
+
 $$
 \frac{\Delta \overrightarrow{v}}{\Delta t}
 \left[\frac{\frac{m}{s}}{s} = \frac{m}{s^2}\right]
 $$
 
 #### Chwilowe
+
 $$
 \overrightarrow{a}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \overrightarrow{v}}{\Delta t} = \frac{d\overrightarrow{v}}{dt}
 $$
