@@ -29,8 +29,6 @@ jobs:
         id: files_list
         run: echo "matrix=$(ls Przedmiot/*.md | jq -R -s -c 'split("\n")[:-1]')" >> $GITHUB_OUTPUT
 
-# -----------------------------------------------------------------------------
-
   list_files:
     needs: get_files
     runs-on: ubuntu-latest
@@ -42,18 +40,27 @@ jobs:
         run: |
           echo "${{ matrix.file }}"
 
-  # convert_via_pandoc:
-  #   needs: get_files
-  #   runs-on: ubuntu-latest
-  #   strategy:
-  #       matrix:
-  #           file: ${{ fromJson(needs.get_files.outputs.files) }}
-  #   steps:
-  #     - uses: docker://pandoc/latex:2.9
-  #       with:
-  #         args: >-
-  #           --output=output/result.pdf ${{ matrix.file }}
-  #           Przedmiot/Fizyka.md -o fizyka.pdf --from=markdown --to=pdf
+# -----------------------------------------------------------------------------
+
+  convert_via_pandoc:
+    needs: get_files
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        file: ${{ fromJson(needs.get_files.outputs.files) }}
+    env:
+      path: ${{ matrix.file | replace("/.*", "") }}
+      file: ${{ matrix.file | replace(".*/", "") }}
+      file_without_ext: ${{ matrix.file | replace(".md", "") | replace(".*/", "") }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: docker://pandoc/latex:latest
+        with:
+          args: >-
+            --output=output/${env.file_without_ext}.pdf
+            --from=markdown
+            --to=pdf
+            ${env.path}/${env.file}
 
   # pack:
   #   needs: convert_via_pandoc
