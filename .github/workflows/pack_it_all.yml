@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: prepare_output
     outputs:
-      files: ${{ steps.files_list.outputs.files }}
+      files: ${{ steps.files_list.outputs.matrix }}
     steps:
       - name: get file list
         id: files_list
