@@ -39,6 +39,10 @@ TBD
 
 # Tematy
 
-## Wykład 1 (15.10.23r.)
+## Cwiczenia 1 (15.10.23r.)
 
-BRAK.
+## Cwiczenia 2 (22.10.23r.)
+
+### Prawdopodobne zadanie nr. 1
+
+![Cwiczenia 1](../Obrazki/grafika_inzynierska/cwiczenia-1.png)<br>
