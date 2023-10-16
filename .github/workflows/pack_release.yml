@@ -93,10 +93,10 @@ jobs:
         run: echo "changed_files=$(git diff --name-only -r HEAD^1 HEAD | xargs)" >> $GITHUB_OUTPUT
 
       - run: |
-          echo -e "# Zmienione pliki\n\n" > body.md
+          echo -e "# Zmienione pliki\n" > body.md
           for changed_file in ${{ steps.files.outputs.changed_files }}; do
-            if [[ ${changed_file} == "*.md" ]]; then
-              echo -e "- ${changed_file}\n" >> body.md
+            if [[ ${changed_file} == Przedmiot/*.md ]]; then
+              echo -e "- ${changed_file}\n"
             fi
           done
 
