@@ -97,7 +97,7 @@ jobs:
           echo -e "# Zmienione pliki\n" > body.md
           for changed_file in ${{ steps.files.outputs.changed_files }}; do
             if [[ ${changed_file} == Przedmiot/*.md ]]; then
-              echo -e "- ${changed_file}\n"
+              echo -e "- ${changed_file}\n" >> body.md
             fi
           done
 
