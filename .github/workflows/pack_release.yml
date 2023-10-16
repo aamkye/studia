@@ -86,15 +86,18 @@ jobs:
       - uses: montudor/action-zip@v1
       - run: zip -qq -r wszystko-${{ github.ref_name }}-${{ steps.date.outputs.date }}.zip ./*
         working-directory: output
+
       - id: files
-        uses: jitterbit/get-changed-files@v1
+        run: echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
+
       - run: |
           echo "# Zmienione pliki\n\n" > body.md
-          for changed_file in ${{ steps.files.outputs.all }}; do
+          for changed_file in ${{ steps.files.outputs.changed_files }}; do
             if [[ ${changed_file} == "*.md" ]]; then
               echo "- ${changed_file}\n" >> body.md
             fi
           done
+
       - uses: ncipollo/release-action@v1
         with:
           name: Release ${{ github.ref_name }} / ${{ steps.date.outputs.date }}
