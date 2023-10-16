@@ -93,6 +93,7 @@ jobs:
         run: echo "changed_files=$(git diff --name-only -r HEAD^1 HEAD | xargs)" >> $GITHUB_OUTPUT
 
       - run: |
+          shopt -s extglob
           echo -e "# Zmienione pliki\n" > body.md
           for changed_file in ${{ steps.files.outputs.changed_files }}; do
             if [[ ${changed_file} == Przedmiot/*.md ]]; then
