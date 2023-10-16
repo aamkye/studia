@@ -2,8 +2,8 @@ name: Pack Release
 
 on:
   push:
-    paths:
-      - 'Przedmiot/**.md'
+    # paths:
+    #   - 'Przedmiot/**.md'
     # branches:
     #   - master
     tags:
@@ -81,12 +81,24 @@ jobs:
           path: output-tmp
       - run: mkdir output && mv output-tmp/**/*.pdf output
       - run: tree .
-      - name: Get current date
-        id: date
+      - id: date
         run: echo "date=$(date +'%d-%m-%Y')" >> $GITHUB_OUTPUT
+      - uses: montudor/action-zip@v1
+      - run: zip -qq -r wszystko-${{ github.ref_name }}-${{ steps.date.outputs.date }}.zip ./*
+        working-directory: output
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+      - run: |
+          echo "# Zmienione pliki\n\n" > body.md
+          for changed_file in ${{ steps.files.outputs.all }}; do
+            if [[ ${changed_file} == "*.md" ]]; then
+              echo "- ${changed_file}\n" >> body.md
+            fi
+          done
       - uses: ncipollo/release-action@v1
         with:
           name: Release ${{ github.ref_name }} / ${{ steps.date.outputs.date }}
-          artifacts: "output/*.pdf"
+          artifacts: "output/*"
           tag: ${{ github.ref_name }}
           commit: ${{ github.sha }}
+          body-path: body.md
