@@ -104,4 +104,4 @@ jobs:
           artifacts: "output/*"
           tag: ${{ github.ref_name }}
           commit: ${{ github.sha }}
-          body-path: body.md
+          bodyFile: body.md
