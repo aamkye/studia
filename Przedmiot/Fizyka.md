@@ -67,27 +67,25 @@ TBD
 
 - Dodawanie wektorów
   $$
-  \overrightarrow{a} + \overrightarrow{b} = \overrightarrow{c}
+  \vec{a} + \vec{b} = \vec{c}
   $$
 
   - Metoda trójkąta
   - Metoda rombu
 - Odejmowanie wektorów
   $$
-  \overrightarrow{a} - \overrightarrow{b} = \overrightarrow{a} + (-\overrightarrow{b})
+  \vec{a} - \vec{b} = \vec{a} + (-\vec{b})
   $$
 
   - Metoda trójkąta
   - Metoda rombu
 - Mnożenie wektorów
   $$
-  \overrightarrow{a} \cdot \overrightarrow{b} = \overrightarrow{c}
+  \vec{a} \cdot \vec{b} = \vec{c}
   $$
 - Mnożenie wektorów przez skalary
   $$
-  \begin{equation*}
-  \vec{F} = m\vec{a} = 2\ \text{kg}\cdot [5{,}1]\ \text{m}/\text{s}^2 = [10{,}2]\ \text{N}
-  \end{equation*}
+  \vec{F} = m\cdot\vec{a} = 2kg\cdot 5{,}1\ \frac{m}{s^2} = [10{,}2]\ N
   $$
 
 ## Wykład 1 (14.10.23r.)
@@ -126,19 +124,19 @@ TBD
 ### Ruch krzywoliniowy
 
 $$
-\vert\Delta \overrightarrow{r}\vert < S
+\vert\Delta \vec{r}\vert < S
 $$
 
 ### Ruch prostolinijny
 
 $$
-\vert\Delta \overrightarrow{r}\vert = S
+\vert\Delta \vec{r}\vert = S
 $$
 
 ### Prędkość liniowa
 
 $$
-\overrightarrow{V}_{śr} = \left\lvert \frac{\Delta \overrightarrow{r}}{\Delta t} \right\rvert \le \frac{S}{\Delta t} \left[\frac{m}{s} \right]
+\vec{V}_{śr} = \left\lvert \frac{\Delta \vec{r}}{\Delta t} \right\rvert \le \frac{S}{\Delta t} \left[\frac{m}{s} \right]
 $$
 
 #### Prędkość chwilowa
@@ -148,7 +146,7 @@ $$
 $$
 
 $$
-\overrightarrow{V}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \overrightarrow{r}}{\Delta t} = \frac{d\overrightarrow{r}}{dt}
+\vec{V}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \vec{r}}{\Delta t} = \frac{d\vec{r}}{dt}
 $$
 
 #### Granica
@@ -158,14 +156,14 @@ $$
 ### Przyspieszenie
 
 $$
-\frac{\Delta \overrightarrow{v}}{\Delta t}
+\frac{\Delta \vec{v}}{\Delta t}
 \left[\frac{\frac{m}{s}}{s} = \frac{m}{s^2}\right]
 $$
 
 #### Chwilowe
 
 $$
-\overrightarrow{a}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \overrightarrow{v}}{\Delta t} = \frac{d\overrightarrow{v}}{dt}
+\vec{a}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \vec{v}}{\Delta t} = \frac{d\vec{v}}{dt}
 $$
 
 #### Holograf prędkości
