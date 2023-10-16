@@ -17,6 +17,22 @@ geometry: margin=1.5cm
 
 ---
 
+## Wymagania dotyczące uczestnictwa w zajęciach
+
+- Ołówek zwykły i automatyczny 0,5 HB
+- Gumka
+- Linijka 30-40cm
+- Ekierka
+  - 45°x45°x90°
+  - 30°x60°x90°
+- Cyrkiel
+- Temperówka
+- Taśma klejąca
+- Nożyczki
+- Arkusz, brystol A2/A1/A0
+
+---
+
 # Zaliczenie
 
 TBD

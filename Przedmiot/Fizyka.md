@@ -20,6 +20,12 @@ geometry: margin=1.5cm
 
 ---
 
+## Wymagania dotyczące uczestnictwa w zajęciach
+
+- Znajomośc tematu który jest na cwiczeniach - bez tego nie można uczestniczyc w ćwiczeniach.
+
+---
+
 # Zaliczenie
 
 ## Wykład
@@ -57,12 +63,32 @@ TBD
 
 ## Ćwiczenia 1 (14.10.23r.)
 
-### Wektory
+### [Wektory](https://teoriaelektryki.pl/wielkosci-wektorowe-i-skalarne/)
 
 - Dodawanie wektorów
+  $$
+  \overrightarrow{a} + \overrightarrow{b} = \overrightarrow{c}
+  $$
+
+  - Metoda trójkąta
+  - Metoda rombu
 - Odejmowanie wektorów
+  $$
+  \overrightarrow{a} - \overrightarrow{b} = \overrightarrow{a} + (-\overrightarrow{b})
+  $$
+
+  - Metoda trójkąta
+  - Metoda rombu
 - Mnożenie wektorów
+  $$
+  \overrightarrow{a} \cdot \overrightarrow{b} = \overrightarrow{c}
+  $$
 - Mnożenie wektorów przez skalary
+  $$
+  \begin{equation*}
+  \vec{F} = m\vec{a} = 2\ \text{kg}\cdot [5{,}1]\ \text{m}/\text{s}^2 = [10{,}2]\ \text{N}
+  \end{equation*}
+  $$
 
 ## Wykład 1 (14.10.23r.)
 

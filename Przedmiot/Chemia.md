@@ -20,6 +20,12 @@ geometry: margin=1.5cm
 
 ---
 
+## Wymagania dotyczące uczestnictwa w zajęciach
+
+- Fartuch labolatoryjny
+
+---
+
 # Zaliczenie
 
 ## Ćwiczenia
