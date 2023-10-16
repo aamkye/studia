@@ -94,7 +94,7 @@ jobs:
 
       - run: |
           shopt -s extglob
-          echo -e "# Zmienione pliki\n" > body.md
+          echo -e "# Zmienione pliki względem poprzedniej wersji\n" > body.md
           for changed_file in ${{ steps.files.outputs.changed_files }}; do
             if [[ ${changed_file} == Przedmiot/*.md ]]; then
               echo -e "- ${changed_file}\n" >> body.md
