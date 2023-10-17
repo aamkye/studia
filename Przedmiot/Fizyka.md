@@ -63,7 +63,13 @@ TBD
 
 ## Ćwiczenia 1 (14.10.23r.)
 
-### [Wektory](https://teoriaelektryki.pl/wielkosci-wektorowe-i-skalarne/)
+### Wektory
+
+- http://www.daktik.rubikon.pl/podstawy_punkt_mat/wektory_wstep.htm
+- https://teoriaelektryki.pl/wielkosci-wektorowe-i-skalarne/
+- http://www.daktik.rubikon.pl/podstawy_punkt_mat/wektory_dodawanie_graficzne.htm
+- http://www.daktik.rubikon.pl/podstawy_punkt_mat/wektory_odejmowanie_graficzne.htm
+-
 
 - Dodawanie wektorów
   $$
@@ -71,7 +77,11 @@ TBD
   $$
 
   - Metoda trójkąta
+    ![Metoda trójkąta](../Obrazki/fizyka/dodawanie-wektorow-trojkat.png)
+
   - Metoda rombu
+    ![Metoda rombu](../Obrazki/fizyka/dodawanie-wektorow-romb.jpg)<br>
+
 - Odejmowanie wektorów
   $$
   \vec{a} - \vec{b} = \vec{a} + (-\vec{b})
@@ -79,6 +89,7 @@ TBD
 
   - Metoda trójkąta
   - Metoda rombu
+
 - Mnożenie wektorów
   $$
   \vec{a} \cdot \vec{b} = \vec{c}
@@ -92,34 +103,46 @@ TBD
 
 ### Zjawisko fizyczne
 
+- https://pl.wikipedia.org/wiki/Zjawisko_fizyczne
+
 ### Wielkości fizyczne
 
 - podstawowe i pochodne
 - skalarne i wektorowe
 
-### [Układ SI](https://pl.wikipedia.org/wiki/Uk%C5%82ad_SI)
+### Układ SI
 
-| Nazwa | Symbol | Mierzona wielość |
-| -- | -- | -- |
-| [metr](https://pl.wikipedia.org/wiki/Metr "Metr")             | m      | [długość](https://pl.wikipedia.org/wiki/D%C5%82ugo%C5%9B%C4%87_fizyczna "Długość fizyczna")     |
-| [kilogram](https://pl.wikipedia.org/wiki/Kilogram "Kilogram") | kg     | [masa](https://pl.wikipedia.org/wiki/Masa_(fizyka) "Masa (fizyka)")                             |
-| [sekunda](https://pl.wikipedia.org/wiki/Sekunda "Sekunda")    | s      | [czas](https://pl.wikipedia.org/wiki/Czas "Czas")                                               |
-| [amper](https://pl.wikipedia.org/wiki/Amper "Amper")          | A      | [prąd elektryczny](https://pl.wikipedia.org/wiki/Pr%C4%85d_elektryczny "Prąd elektryczny")      |
-| [kelwin](https://pl.wikipedia.org/wiki/Kelwin "Kelwin")       | K      | [temperatura](https://pl.wikipedia.org/wiki/Temperatura "Temperatura")                          |
-| [mol](https://pl.wikipedia.org/wiki/Mol "Mol")                | mol    | [liczność materii](https://pl.wikipedia.org/wiki/Liczno%C5%9B%C4%87_materii "Liczność materii") |
-| [kandela](https://pl.wikipedia.org/wiki/Kandela "Kandela")    | cd     | [światłość](https://pl.wikipedia.org/wiki/%C5%9Awiat%C5%82o%C5%9B%C4%87 "Światłość")            |
+- https://pl.wikipedia.org/wiki/Uk%C5%82ad_SI
+- http://www.daktik.rubikon.pl/jednostki/jednostki_podstawowe_si.htm
+
+| Nazwa     | Symbol  | Mierzona wielość  |
+| --        | --      |                -- |
+| metr      | m       | długość           |
+| kilogram  | kg      | masa              |
+| sekunda   | s       | czas              |
+| amper     | A       | prąd elektryczny  |
+| kelwin    | K       | temperatura       |
+| mol       | mol     | liczność materii  |
+| kandela   | cd      | światłość         |
 
 ### Mechanika
 
 - Kinematyka (jak coś się porusza)
+  - http://www.daktik.rubikon.pl/kinematyka/spis_kinematyka.htm
 - Dynamika (dlaczego coś się porusza)
+  - http://www.daktik.rubikon.pl/dynamika/spis_dynamika.htm
 
 ### Ruch postępowy
 
+- https://pl.wikipedia.org/wiki/Ruch_(fizyka)
+
 - Prostolinijny
+  - https://pl.wikipedia.org/wiki/Ruch_jednostajny_prostoliniowy?wprov=srpw1_0
 - Krzywolinijny
 
-### Wektor położenia (godzący)
+### Wektor położenia (wodzący)
+
+- http://www.daktik.rubikon.pl/podstawy_punkt_mat/pm_3_wektor_wodzacy.htm
 
 ### Ruch krzywoliniowy
 
@@ -141,6 +164,8 @@ $$
 
 #### Prędkość chwilowa
 
+- http://www.daktik.rubikon.pl/kinematyka/predkosc_chwilowa.htm
+
 $$
 \Delta t \to 0
 $$
@@ -151,9 +176,15 @@ $$
 
 #### Granica
 
+- https://pl.wikipedia.org/wiki/Granica_funkcji
+
 #### Sieczna
 
+- https://pl.wikipedia.org/wiki/Sieczna
+
 ### Przyspieszenie
+
+- http://www.daktik.rubikon.pl/kinematyka/przyspieszenie.htm#PrzyspieszenieCzyliZmianyPr%C4%99dko%C5%9Bci
 
 $$
 \frac{\Delta \vec{v}}{\Delta t}
@@ -166,8 +197,12 @@ $$
 \vec{a}_{chwil} = \lim_{\Delta t\to 0} \frac{\Delta \vec{v}}{\Delta t} = \frac{d\vec{v}}{dt}
 $$
 
-#### Holograf prędkości
+#### Hodograf prędkości
+
+- https://pl.wikipedia.org/wiki/Hodograf
 
 #### Styczne
+
+- https://pl.wikipedia.org/wiki/Styczna?wprov=srpw1_3
 
 ---
