@@ -124,24 +124,24 @@ d. $10^{-2} hg$ (hektogram)
 
 ### Zadanie 2
 
-Współczynnik lepkości $η\ [Pa\cdot s]$ może być wyrażony wzorem:
+Współczynnik lepkości $\eta\ [Pa\cdot s]$ może być wyrażony wzorem:
 
 $$
-η = \frac{2 \cdot r^2 (p - p_c) \cdot g \cdot t}{9 \cdot h}
+\eta = \frac{2 \cdot r^2 (p - p_c) \cdot g \cdot t}{9 \cdot h}
 $$
 
 gdzie: $r [m]$, $p$ i $p_c [kg/m^3]$, $g [m/s^2]$, $t [s]$, $h [m]$.
 
-Pokazac ze $η$ jest wyrazone w $[Pa\cdot s]$.
+Pokazac ze $\eta$ jest wyrazone w $[Pa\cdot s]$.
 
 - $[Pa] = \frac{[kg]}{[m\cdot s^2]}$
 - $[s] = [s]$
 - $$
-  η [Pa\cdot s] = \frac{[kg]}{[m\cdot s^2]} \cdot [s] = \frac{[kg]}{[m\cdot s]}
+  \eta [Pa\cdot s] = \frac{[kg]}{[m\cdot s^2]} \cdot [s] = \frac{[kg]}{[m\cdot s]}
   $$
 - $$
   \begin{align}
-  η & = \frac{2 \cdot r^2 (p - p_c) \cdot g \cdot t}{9 \cdot h} \\
+  \eta & = \frac{2 \cdot r^2 (p - p_c) \cdot g \cdot t}{9 \cdot h} \\
   & = \frac{[m^2] \cdot \frac{[kg]}{[m^3]} \cdot \frac{[m]}{[s^2]} \cdot [s]}{[m]} \\
   & = \frac{[m \cdot m] \cdot [\frac{kg}{m\cdot m \cdot m}] \cdot [\frac{m}{s \cdot s}]\cdot [s]}{[m]} \\
   & = [m] \cdot [\frac{kg}{m \cdot m \cdot m}] \cdot [\frac{m}{s \cdot s}]\cdot [s] \\
