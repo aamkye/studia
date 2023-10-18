@@ -105,21 +105,20 @@ TBD
 Zapisać w podstawowych jednostkach układu SI:
 
 a. $1015 mm^3$
-
   - $1\ mm^3 = 10^{-9}\ m^3$
 
 b. $25 km/h$
-    - $1\ km = 1000\ m$<br>
-    - $1\ h = 3600\ s$<br>
-    - $25\ km/h = 25\ \frac{km}{h} = 25\ \frac{1000\ m}{3600\ s} = 6\frac{25}{36}\ \frac{m}{s} = 6{,}94\ \frac{m}{s}$
+  - $1\ km = 1000\ m$
+  - $1\ h = 3600\ s$
+  - $25\ km/h = 25\ \frac{km}{h} = 25\ \frac{1000\ m}{3600\ s} = 6\frac{25}{36}\ \frac{m}{s} = 6{,}94\ \frac{m}{s}$
 
 c. $7\frac{g}{cm \cdot s}$
-  - $1\ g = 10^{-3}\ kg$<br>
-  - $1\ cm = 10^{-2}\ m$<br>
+  - $1\ g = 10^{-3}\ kg$
+  - $1\ cm = 10^{-2}\ m$
   - $7\frac{g}{cm \cdot s} = 7\frac{10^{-3}\ kg}{10^{-2}\ m\cdot s} = 0{,}7\frac{kg}{m\cdot s}$
 
 d. $10^{-2} hg$ (hektogram)
-  - $1\ hg = 10^{-1}\ kg$<br>
+  - $1\ hg = 10^{-1}\ kg$
   - $10^{-2} hg = 10^{-2}\cdot 10^{-1}\ kg = 10^{-3}\ kg$
 
 ### Zadanie 2
@@ -140,7 +139,7 @@ Pokazac ze $\eta$ jest wyrazone w $[Pa\cdot s]$.
   \eta [Pa\cdot s] = \frac{[kg]}{[m\cdot s^2]} \cdot [s] = \frac{[kg]}{[m\cdot s]}
   $$
 - $$
-  \begin{align}
+  \begin{aligned}
   \eta &= \frac{2 \cdot r^2 (p - p_c) \cdot g \cdot t}{9 \cdot h} \\
   &= \frac{[m^2] \cdot \frac{[kg]}{[m^3]} \cdot \frac{[m]}{[s^2]} \cdot [s]}{[m]} \\
   &= \frac{[m \cdot m] \cdot [\frac{kg}{m\cdot m \cdot m}] \cdot [\frac{m}{s \cdot s}]\cdot [s]}{[m]} \\
@@ -148,7 +147,7 @@ Pokazac ze $\eta$ jest wyrazone w $[Pa\cdot s]$.
   &= [\frac{kg}{m \cdot m}] \cdot [\frac{m}{s^2}]\cdot [s] \\
   &= [\frac{kg}{m \cdot m}] \cdot [\frac{m}{s}] \\
   &= \frac{[kg]}{[m\cdot s]}
-  \end{align}
+  \end{aligned}
   $$
 
 ### Zadanie 3
@@ -161,14 +160,12 @@ się pływak. Proszę podać wartość i przedstawić graficznie układ prędko�
 - $v_1 = 0{,}3\ \frac{m}{s}$
 - $v_2 = 0{,}4\ \frac{m}{s}$
 - $$
-  \begin{align}
+  \begin{aligned}
   v_3 &= v_2 - v_1 \\
   &= 0{,}4\ \frac{m}{s} - 0{,}3\ \frac{m}{s} \\
   &= 0{,}1\ \frac{m}{s}
-  \end{align}
+  \end{aligned}
   $$
-
-
 
 ### Zadanie 4
 
@@ -179,7 +176,7 @@ prędkość do wartości $v = 20 m/s$. Przebył w tym czasie drogę $S = 300m$. 
 - $v_1 = 20\ \frac{m}{s}$
 - $S = 300\ m$
 - $$
-  \begin{align}
+  \begin{aligned}
   S &= \frac{v_1^2 - v_0^2}{2a} \\
   S \cdot 2a &= v_1^2 - v_0^2 \\
   2a &= \frac{v_1^2 - v_0^2}{S} \\
@@ -187,16 +184,16 @@ prędkość do wartości $v = 20 m/s$. Przebył w tym czasie drogę $S = 300m$. 
   &= \frac{\frac{400-100}{300}}{2} \\
   &= \frac{\frac{300}{300}}{2} \\
   &= \frac{1}{2} [\frac{m}{s^2}]
-  \end{align}
+  \end{aligned}
   $$
 - $$
-  \begin{align}
+  \begin{aligned}
   t &= \frac{v_1 - v_0}{a} \\
   &= \frac{20 - 10}{\frac{1}{2}} \\
   &= \frac{10}{\frac{1}{2}} \\
   &= 10 \cdot 2 \\
   &= 20s
-  \end{align}
+  \end{aligned}
   $$
 
 ### Zadanie 5
@@ -215,13 +212,15 @@ układzie: `lampa - sznur - sufit`. (Masę sznura zaniedbujemy).
 - $Q = m\cdot g$
 - $m = 1\ kg$
 - $g = 9{,}81\ \frac{m}{s^2}$
+
 - $$
-  \begin{align}
+  \begin{aligned}
   Q &= m\cdot g \\
   &= 1\ kg \cdot 9{,}81\ \frac{m}{s^2} \\
-  &= 9{,}81\ N
-  \end{align}
+  &= 9{,}81N
+  \end{aligned}
   $$
+
 - Na sufit działają: siła grawitacji oraz $F_{ab}$.
 - Na sznur działają siły znoszące (siła grawitacji $Q$ i $F_{ba}$) oraz $F_{bc}$.
 - Na lampę działają siłī znoszące (siła grawitacji $Q$ i $F_{cb}$).
@@ -236,11 +235,11 @@ wypadkowej. Ile wynosi przyspieszenie tego ciała?
 - $\vec{F_1} = 4\ N$
 - $\vec{F_2} = 3\ N$
 - $$
-  \begin{align}
+  \begin{aligned}
   F_{w} &= \vec{F_1} + (-\vec{F_2}) \\
   &= 4\ N + -3\ N \\
   &= 1\ N \\
-  \end{align}
+  \end{aligned}
   $$
 
 ## Wykład 1 (14.10.23r.)
