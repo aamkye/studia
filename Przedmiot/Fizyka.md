@@ -141,13 +141,13 @@ Pokazac ze $\eta$ jest wyrazone w $[Pa\cdot s]$.
   $$
 - $$
   \begin{align}
-  \eta & = \frac{2 \cdot r^2 (p - p_c) \cdot g \cdot t}{9 \cdot h} \\
-  & = \frac{[m^2] \cdot \frac{[kg]}{[m^3]} \cdot \frac{[m]}{[s^2]} \cdot [s]}{[m]} \\
-  & = \frac{[m \cdot m] \cdot [\frac{kg}{m\cdot m \cdot m}] \cdot [\frac{m}{s \cdot s}]\cdot [s]}{[m]} \\
-  & = [m] \cdot [\frac{kg}{m \cdot m \cdot m}] \cdot [\frac{m}{s \cdot s}]\cdot [s] \\
-  & = [\frac{kg}{m \cdot m}] \cdot [\frac{m}{s^2}]\cdot [s] \\
-  & = [\frac{kg}{m \cdot m}] \cdot [\frac{m}{s}] \\
-  & = \frac{[kg]}{[m\cdot s]} \\
+  \eta &= \frac{2 \cdot r^2 (p - p_c) \cdot g \cdot t}{9 \cdot h} \\
+  &= \frac{[m^2] \cdot \frac{[kg]}{[m^3]} \cdot \frac{[m]}{[s^2]} \cdot [s]}{[m]} \\
+  &= \frac{[m \cdot m] \cdot [\frac{kg}{m\cdot m \cdot m}] \cdot [\frac{m}{s \cdot s}]\cdot [s]}{[m]} \\
+  &= [m] \cdot [\frac{kg}{m \cdot m \cdot m}] \cdot [\frac{m}{s \cdot s}]\cdot [s] \\
+  &= [\frac{kg}{m \cdot m}] \cdot [\frac{m}{s^2}]\cdot [s] \\
+  &= [\frac{kg}{m \cdot m}] \cdot [\frac{m}{s}] \\
+  &= \frac{[kg]}{[m\cdot s]}
   \end{align}
   $$
 
@@ -162,9 +162,9 @@ się pływak. Proszę podać wartość i przedstawić graficznie układ prędko�
 - $v_2 = 0{,}4\ \frac{m}{s}$
 - $$
   \begin{align}
-  v_3 & = v_2 - v_1 \\
-  & = 0{,}4\ \frac{m}{s} - 0{,}3\ \frac{m}{s} \\
-  & = 0{,}1\ \frac{m}{s} \\
+  v_3 &= v_2 - v_1 \\
+  &= 0{,}4\ \frac{m}{s} - 0{,}3\ \frac{m}{s} \\
+  &= 0{,}1\ \frac{m}{s}
   \end{align}
   $$
 
@@ -180,19 +180,22 @@ prędkość do wartości $v = 20 m/s$. Przebył w tym czasie drogę $S = 300m$. 
 - $S = 300\ m$
 - $$
   \begin{align}
-  & S = \frac{v_1^2 - v_0^2}{2a} \\
-  & S \cdot 2a = v_1^2 - v_0^2 \\
-  & 2a = \frac{v_1^2 - v_0^2}{S} \\
-  a & = \frac{\frac{v_1^2 - v_0^2}{S}}{2} \\
-  & = \frac{\frac{400-100}{300}}{2} \\
-  & = \frac{\frac{300}{300}}{2} \\
-  & = \frac{1}{2} [\frac{m}{s^2}] \\
-  t & = \frac{v_1 - v_0}{a} \\
-  & = \frac{20 - 10}{\frac{1}{2}} \\
-  & = \frac{10}{\frac{1}{2}} \\
-  & = 10 \cdot 2 \\
-  & = 20s \\
-
+  S &= \frac{v_1^2 - v_0^2}{2a} \\
+  S \cdot 2a &= v_1^2 - v_0^2 \\
+  2a &= \frac{v_1^2 - v_0^2}{S} \\
+  a &= \frac{\frac{v_1^2 - v_0^2}{S}}{2} \\
+  &= \frac{\frac{400-100}{300}}{2} \\
+  &= \frac{\frac{300}{300}}{2} \\
+  &= \frac{1}{2} [\frac{m}{s^2}]
+  \end{align}
+  $$
+- $$
+  \begin{align}
+  t &= \frac{v_1 - v_0}{a} \\
+  &= \frac{20 - 10}{\frac{1}{2}} \\
+  &= \frac{10}{\frac{1}{2}} \\
+  &= 10 \cdot 2 \\
+  &= 20s
   \end{align}
   $$
 
@@ -216,7 +219,7 @@ układzie: `lampa - sznur - sufit`. (Masę sznura zaniedbujemy).
   \begin{align}
   Q &= m\cdot g \\
   &= 1\ kg \cdot 9{,}81\ \frac{m}{s^2} \\
-  &= 9{,}81\ N \\
+  &= 9{,}81\ N
   \end{align}
   $$
 - Na sufit działają: siła grawitacji oraz $F_{ab}$.
