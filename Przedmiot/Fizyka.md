@@ -105,7 +105,8 @@ TBD
 Zapisać w podstawowych jednostkach układu SI:
 
 a. $1015 mm^3$
-  - $1\ mm^3 = 10^{-9}\ m^3$
+  - $1mm^3 = 10^{-9}\ m^3$
+  - $1015mm^3 = 1015 \cdot 10^{-9}\ m^3 = 1{,}015 \cdot 10^{-6}\ m^3$
 
 b. $25 km/h$
   - $1\ km = 1000\ m$
@@ -236,9 +237,11 @@ wypadkowej. Ile wynosi przyspieszenie tego ciała?
 - $\vec{F_2} = 3\ N$
 - $$
   \begin{aligned}
-  F_{w} &= \vec{F_1} + (-\vec{F_2}) \\
-  &= 4\ N + -3\ N \\
-  &= 1\ N \\
+  F_{w} &= \sqrt{F_1^2 + F_2^2} \\
+  &= \sqrt{4^2 + 3^2} \\
+  &= \sqrt{16 + 9} \\
+  &= \sqrt{25} \\
+  &= 5\ N
   \end{aligned}
   $$
 
