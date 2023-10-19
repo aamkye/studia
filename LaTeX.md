@@ -1,10 +1,11 @@
-#idea #mathjax #links 
+#idea #mathjax #links
 
-https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+- https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+- http://detexify.kirelabs.org/classify.html
 
 ## Formulas
 
-For inline formulas, enclose the formula in `$`…`$`. 
+For inline formulas, enclose the formula in `$`…`$`.
 For displayed formulas, use `$$`…`$$`.
 
 - These render differently. For example, type the following to show _inline_ mode: `$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$` to $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
@@ -22,7 +23,7 @@ For **Greek letters**, use `\alpha`, `\beta`, ..., `\omega`: $\alpha$, $\b
 
 ## Superscripts and subscripts
 
-For **superscripts and subscripts**, use `^` and `_`. 
+For **superscripts and subscripts**, use `^` and `_`.
 For example, `x_i^2`: $x_i^2$, `\log_2 x`: $\log_2 x$.
 
 ## Groups
@@ -37,7 +38,7 @@ Superscripts, subscripts, and other operations apply only to the next “group�
 Ordinary symbols `()[]` make parentheses and brackets $(2+3)[4+4]$. Use `\{` and `\}` for curly braces $\{\}$.
 
 - These do _not_ scale with the formula in between, so if you write `(\frac{\sqrt x}{y^3})` the parentheses will be too small: $(\frac{\sqrt x}{y^3})$. Using `\left(`...`\right)` will make the sizes adjust automatically to the formula they enclose: `\left(\frac{\sqrt x}{y^3}\right)` is $\left(\frac{\sqrt x}{y^3}\right)$.
-    
+
 - `\left` and`\right` apply to all the following sorts of parentheses: 
 	- `(` and `)` $(x)$
 	- `[` and `]` $[𝑥]$
@@ -59,7 +60,7 @@ Ordinary symbols `()[]` make parentheses and brackets $(2+3)[4+4]$. Use `\{`
 ## Fractions
 
 There are [three ways to make fractions](https://math.meta.stackexchange.com/questions/12978/should-dfrac-be-edited-in). `\frac ab` applies to the next two groups, and produces $\frac ab$; for more complicated numerators and denominators use `{`…`}`: `\frac{a+1}{b+1}` is $\frac{a+1}{b+1}$.
-    
+
 - If the numerator and denominator are complicated, you may prefer `\over`, which splits up the group that it is in: `{a+1\over b+1}` is ${a+1\over b+1}$.
 - For continued fractions, [use `\cfrac` instead of `\frac`](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference/5058#5058).
 
@@ -108,7 +109,7 @@ There are a very large number of **special symbols and notations**, too many to
 ## Spaces
 
 MathJax usually decides for itself how to space formulas, using a complex set of rules. Putting extra literal spaces into formulas will not change the amount of space MathJax puts in: `a b` and `a    b` are both $a    b$. To add more space, use `\,` for a thin space $a\,b$; `\;` for a wider space $a\;b$. `\quad` and `\qquad` are large spaces: $a\quad b$, $a\qquad b$.
-    
+
 To set plain text, use `\text{…}`: $\{x \in s | \text{is extra large}\}$. You can nest `$…$` inside `\text{…}`, for example, to access spaces.
 
 ## Accents and diacritical marks
@@ -182,13 +183,13 @@ $$
 $$
 is produced by:
 ```
-$$ 
+$$
 \left[
 \begin{array}{cc|c}
   1&2&3\\
   4&5&6
 \end{array}
-\right] 
+\right]
 $$
 ```
 The `cc|c` is the crucial part here; it says that there are three centred columns, with a vertical bar between the second and third.
@@ -229,20 +230,20 @@ For example,
 $$
 \begin{align}
 \sqrt{37} & = \sqrt{\frac{73^2-1}{12^2}} \\
- & = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\ 
- & = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\
- & = \frac{73}{12}\sqrt{1 - \frac{1}{73^2}} \\ 
- & \approx \frac{73}{12}\left(1 - \frac{1}{2\cdot73^2}\right)
+& = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\
+& = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\
+& = \frac{73}{12}\sqrt{1 - \frac{1}{73^2}} \\
+& \approx \frac{73}{12}\left(1 - \frac{1}{2\cdot73^2}\right)
 \end{align}
 $$
 is produced by:
 ```
 \begin{align}
 \sqrt{37} & = \sqrt{\frac{73^2-1}{12^2}} \\
- & = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\ 
- & = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\
- & = \frac{73}{12}\sqrt{1 - \frac{1}{73^2}} \\ 
- & \approx \frac{73}{12}\left(1 - \frac{1}{2\cdot73^2}\right)
+& = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\
+& = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\
+& = \frac{73}{12}\sqrt{1 - \frac{1}{73^2}} \\
+& \approx \frac{73}{12}\left(1 - \frac{1}{2\cdot73^2}\right)
 \end{align}
 ```
 
@@ -401,10 +402,10 @@ e^{i\frac{\pi}2} \quad e^{\frac{i\pi}2}& e^{i\pi/2} \\
 $$
 The `|` symbol has the wrong spacing when it is used as a divider, for example in set comprehensions. Use `\mid` instead:
 $$
-\begin{array}{cc} 
-\mathrm{Bad} & \mathrm{Better} \\ 
-\hline \\ 
-\{x|x^2\in\Bbb Z\} & \{x\mid x^2\in\Bbb Z\} \\ 
+\begin{array}{cc}
+\mathrm{Bad} & \mathrm{Better} \\
+\hline \\
+\{x|x^2\in\Bbb Z\} & \{x\mid x^2\in\Bbb Z\} \\
 \end{array}
 $$
 When using stretchable delimiters (i.e. with `\left` and `\right`), it may be preferable to use `\,\middle|\,`. This produces a stretchable vertical bar with a little bit of space around it. Another alternative is to use a colon instead.
@@ -528,4 +529,3 @@ You can use these together too. You can type $X \overset{a}{\underset{b}{\to}} 
 ## Arc over points
 
 `\overset{ \huge\frown}{PQ}`: $\overset{ \huge\frown}{PQ}$ denotes the arc over points $P$ and $Q$.
-
