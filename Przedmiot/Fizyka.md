@@ -162,11 +162,14 @@ się pływak. Proszę podać wartość i przedstawić graficznie układ prędko�
 - $v_2 = 0{,}4\ \frac{m}{s}$
 - $$
   \begin{aligned}
-  v_3 &= v_2 - v_1 \\
-  &= 0{,}4\ \frac{m}{s} - 0{,}3\ \frac{m}{s} \\
-  &= 0{,}1\ \frac{m}{s}
+  v_3 &= \sqrt{v_1^2 + v_2^2} \\
+  &= \sqrt{0{,}3^2 + 0{,}4^2} \\
+  &= \sqrt{0{,}09 + 0{,}16} \\
+  &= \sqrt{0{,}25} \\
+  &= 0{,}5\ \frac{m}{s}
   \end{aligned}
   $$
+- ![rozwiazanie](../Obrazki/fizyka/cw2-zad3.png)<br>
 
 ### Zadanie 4
 
@@ -207,8 +210,8 @@ układzie: `lampa - sznur - sufit`. (Masę sznura zaniedbujemy).
 - http://www.daktik.rubikon.pl/dynamika/dyn_trzecia_zas_dynamiki_newtona.htm
 
 - $F_{sufit} = F_a$
-- $F_{lapma} = F_b$
-- $F_{lina} = F_c$
+- $F_{sznur} = F_b$
+- $F_{lapma} = F_c$
 
 - $Q = m\cdot g$
 - $m = 1\ kg$
@@ -221,10 +224,11 @@ układzie: `lampa - sznur - sufit`. (Masę sznura zaniedbujemy).
   &= 9{,}81N
   \end{aligned}
   $$
+- ![rozwiazanie](../Obrazki/fizyka/cw2-zad5.png)<br>
 
-- Na sufit działają: siła grawitacji oraz $F_{ab}$.
-- Na sznur działają siły znoszące (siła grawitacji $Q$ i $F_{ba}$) oraz $F_{bc}$.
-- Na lampę działają siłī znoszące (siła grawitacji $Q$ i $F_{cb}$).
+- Na sufit działają siły:  siła grawitacji $Q$ oraz $F_{ab}$.
+- Na sznur działają siły: siła grawitacji $Q$, $F_{ba}$ i $F_{bc}$.
+- Na lampę działają siły: siła grawitacji $Q$ i $F_{cb}$.
 
 ### Zadanie 6
 
@@ -233,17 +237,18 @@ wartościach $F_1 = 4 N$ i $F_2 = 3N$. Wyznacz konstrukcyjnie i rachunkowo wekto
 wypadkowej. Ile wynosi przyspieszenie tego ciała?
 
 - $m = 1\ kg$
-- $\vec{F_1} = 4\ N$
-- $\vec{F_2} = 3\ N$
+- $\vec{F_1} = 4N$
+- $\vec{F_2} = 3N$
 - $$
   \begin{aligned}
   F_{w} &= \sqrt{F_1^2 + F_2^2} \\
   &= \sqrt{4^2 + 3^2} \\
   &= \sqrt{16 + 9} \\
   &= \sqrt{25} \\
-  &= 5\ N
+  &= 5N
   \end{aligned}
   $$
+- ![rozwiazanie](../Obrazki/fizyka/cw2-zad6.png)<br>
 
 ## Wykład 1 (14.10.23r.)
 
