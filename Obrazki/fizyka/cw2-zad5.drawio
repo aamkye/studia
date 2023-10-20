@@ -1,13 +1,13 @@
 <mxfile host="65bd71144e">
     <diagram id="Oc5hEGJwFDGYbtyAbuxa" name="Page-1">
-        <mxGraphModel dx="486" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+        <mxGraphModel dx="651" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="12" value="&lt;div style=&quot;font-family: &amp;quot;FiraCode Nerd Font&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;$$F_{sufit} = F_a$$&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
                     <mxGeometry x="40" y="40" width="280" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="&lt;div style=&quot;font-family: &amp;quot;FiraCode Nerd Font&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;$$F_{lapma} = F_b$$&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+                <mxCell id="13" value="&lt;div style=&quot;font-family: &amp;quot;FiraCode Nerd Font&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;$$F_{lapma} = F_c$$&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
                     <mxGeometry x="80" y="180" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1">
@@ -17,9 +17,9 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="20" value="$$F_{lina} = F_c$$" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;html=1;labelBackgroundColor=default;" vertex="1" connectable="0" parent="14">
+                <mxCell id="20" value="$$F_{sznur} = F_b$$" style="edgeLabel;align=center;verticalAlign=middle;resizable=1;points=[];fontColor=default;html=1;labelBackgroundColor=default;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="14">
                     <mxGeometry x="-0.2002" relative="1" as="geometry">
-                        <mxPoint x="-40" y="-10" as="offset"/>
+                        <mxPoint x="-40" y="-20" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
@@ -29,8 +29,8 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="$$\vec{Q}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="130" y="140" width="90" height="30" as="geometry"/>
+                <mxCell id="17" value="$$\vec{Q}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="150" width="40" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
@@ -39,8 +39,8 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="19" value="$$\vec{Q}$$" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="90" y="260" width="90" height="30" as="geometry"/>
+                <mxCell id="19" value="$$\vec{Q}$$" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="270" width="40" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontColor=default;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
@@ -77,17 +77,14 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="$$\vec{Q}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="250" y="140" width="90" height="30" as="geometry"/>
+                <mxCell id="29" value="$$\vec{Q}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="90" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="$$\vec{Q}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="250" y="80" width="90" height="30" as="geometry"/>
+                <mxCell id="30" value="$$\vec{F_{ba}}$$" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="110" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="$$\vec{F_{ca}}$$" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="125" y="110" width="110" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="31" value="$$\vec{F_{bc}}$$" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-                    <mxGeometry y="150" width="110" height="30" as="geometry"/>
+                <mxCell id="31" value="$$\vec{F_{cb}}$$" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="150" width="40" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontColor=default;endArrow=classic;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
@@ -96,8 +93,8 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="33" value="$$\vec{F_{ac}}$$" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="125" y="80" width="110" height="30" as="geometry"/>
+                <mxCell id="33" value="$$\vec{F_{ab}}$$" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="90" width="40" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontColor=default;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
@@ -105,6 +102,12 @@
                         <mxPoint x="120" y="180" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="Rysunek zawiera uproszczenie, &lt;br&gt;wszystkie działające siły &lt;br&gt;zachodzą na styku ciał: $$F_{sufit} - F_{sznur}$$ oraz $$F_{sznur} - F_{lampa}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="40" width="180" height="135" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="$$\vec{F_{bc}}$$" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="135" y="145" width="110" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
