@@ -104,9 +104,9 @@ TBD
 
 Zapisać w podstawowych jednostkach układu SI:
 
-a. $1015 mm^3$
+a. $10^{15} mm^3$
   - $1mm^3 = 10^{-9}\ m^3$
-  - $1015mm^3 = 1015 \cdot 10^{-9}\ m^3 = 1{,}015 \cdot 10^{-6}\ m^3$
+  - $10^{15}mm^3 = 10^{15}\cdot 10^{-9}\ = 10^6\ m^3$
 
 b. $25 km/h$
   - $1\ km = 1000\ m$
