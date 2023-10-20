@@ -248,6 +248,13 @@ wypadkowej. Ile wynosi przyspieszenie tego ciała?
   &= 5N
   \end{aligned}
   $$
+- $$
+  \begin{aligned}
+  a &= \frac{F_w}{m} \\
+  &= \frac{5}{1} \\
+  &= 5\ \frac{m}{s^2}
+  \end{aligned}
+  $$
 - ![rozwiazanie](../Obrazki/fizyka/cw2-zad6.png)<br>
 
 ## Wykład 1 (14.10.23r.)
