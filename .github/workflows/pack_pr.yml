@@ -3,7 +3,7 @@ name: Pack PR
 on:
   pull_request:
     paths:
-      - 'Przedmiot/**.md'
+      - 'przedmiot/**.md'
 
 jobs:
   temp:

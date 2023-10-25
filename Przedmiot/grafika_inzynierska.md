@@ -11,7 +11,7 @@ geometry: margin=1.5cm
 - teacher_orcid: none
 - subject_link: https://sylabus.upwr.edu.pl/pl/6/2/4/5/41
 - tel: 713205714 (gabinet); 666988949 (kom); 8:00-20:00
-- jak ktoś się spóźni to ma niewchodzic na zajecia, moze za to dołaczyc na zajecia z druga grupa
+- jak ktoś się spóźni to ma nie wchodzic na zajecia, moze za to dołaczyc na zajecia z druga grupa
 
 # Literatura
 
@@ -67,11 +67,11 @@ Jeden Rysunek do odrobienia na extra zajęciach:
 
 ### Przygotowanie papieru:
 
-![cwiczenia-2-wymiary.png](../Obrazki/grafika_inzynierska/cwiczenia-2-wymiary.png)<br>
+![cwiczenia-2-wymiary.png](../obrazki/grafika_inzynierska/cwiczenia-2-wymiary.png)<br>
 
 ### Tabliczka projektowa
 
-![cwiczenia-2-tabliczka](../Obrazki/grafika_inzynierska/cwiczenia-2-tabliczka.png)<br>
+![cwiczenia-2-tabliczka](../obrazki/grafika_inzynierska/cwiczenia-2-tabliczka.png)<br>
 
 ### Rodzaje linii
 
@@ -97,4 +97,6 @@ Jeden Rysunek do odrobienia na extra zajęciach:
 
 ### Cwiczenia z rzutowania
 
-![cwiczenia-2-przygotowanie-do-rzutowania](../Obrazki/grafika_inzynierska/cwiczenia-2-przygotowanie-do-rzutowania.png)
+![cwiczenia-2-przygotowanie-do-rzutowania](../obrazki/grafika_inzynierska/cwiczenia-2-przygotowanie-do-rzutowania.png)<br>
+
+Przy pokazywaniu lewej strony i prawej strony rysunku, robimy lustrzane odbicie horyzontalne i zamieniamy wewnętrzne linie miejscami - to co było linią ciągłą, zamienia się w linię przerywaną a to co było przerywaną, zamienia się w ciągłą.

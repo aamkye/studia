@@ -75,7 +75,7 @@ się pływak. Proszę podać wartość i przedstawić graficznie układ prędko�
   &= 0{,}5\ \frac{m}{s}
   \end{aligned}
   $$
-- ![rozwiazanie](../Obrazki/fizyka/cw2-zad3.png)<br>
+- ![rozwiazanie](../obrazki/fizyka/cw2-zad3.png)<br>
 
 ### Zadanie 4
 
@@ -130,7 +130,7 @@ układzie: `lampa - sznur - sufit`. (Masę sznura zaniedbujemy).
   &= 9{,}81N
   \end{aligned}
   $$
-- ![rozwiazanie](../Obrazki/fizyka/cw2-zad5.png)<br>
+- ![rozwiazanie](../obrazki/fizyka/cw2-zad5.png)<br>
 
 - Na sufit działają siły:  siła grawitacji $Q$ oraz $F_{ab}$.
 - Na sznur działają siły: siła grawitacji $Q$, $F_{ba}$ i $F_{bc}$.
@@ -161,4 +161,4 @@ wypadkowej. Ile wynosi przyspieszenie tego ciała?
   &= 5\ \frac{m}{s^2}
   \end{aligned}
   $$
-- ![rozwiazanie](../Obrazki/fizyka/cw2-zad6.png)<br>
+- ![rozwiazanie](../obrazki/fizyka/cw2-zad6.png)<br>

@@ -3,7 +3,7 @@ name: Pack Release
 on:
   push:
     # paths:
-    #   - 'Przedmiot/**.md'
+    #   - 'przedmiot/**.md'
     # branches:
     #   - master
     tags:
@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: files_list
-        run: echo "matrix=$(ls Przedmiot/*.md | jq -R -s -c 'split("\n")[:-1]')" >> $GITHUB_OUTPUT
+        run: echo "matrix=$(ls przedmiot/*.md | jq -R -s -c 'split("\n")[:-1]')" >> $GITHUB_OUTPUT
       - run: tree .
 
   pandoc:
@@ -39,7 +39,7 @@ jobs:
         id: file_without_path
         with:
           source: ${{ matrix.file }}
-          find: 'Przedmiot/'
+          find: 'przedmiot/'
           replace: ''
       - uses: mad9000/actions-find-and-replace-string@3
         id: file_without_path_end_extension
@@ -57,7 +57,7 @@ jobs:
             --output="output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf"
             --from=markdown
             --to=pdf
-            --resource-path=.:Obrazki:Obrazki/*:Przedmiot:Przedmiot/*
+            --resource-path=.:obrazki:obrazki/*:przedmiot:przedmiot/*
             "${{ matrix.file }}"
       - uses: actions/upload-artifact@v3
         with:
@@ -90,15 +90,21 @@ jobs:
         working-directory: output
 
       - id: files
-        run: echo "changed_files=$(git diff --name-only -r HEAD^1 HEAD | xargs)" >> $GITHUB_OUTPUT
+        run: echo "changed_files=$(git diff --name-only -r $(git describe --tags --abbrev=0)..HEAD | xargs)" >> $GITHUB_OUTPUT
+      - id: commits
+        run: echo "commits=$(git log --pretty=format:'%s' --no-merges --oneline $(git describe --tags --abbrev=0)..HEAD)" >> $GITHUB_OUTPUT
 
       - run: |
           shopt -s extglob
           echo -e "# Zmienione pliki względem poprzedniej wersji\n" > body.md
           for changed_file in ${{ steps.files.outputs.changed_files }}; do
-            if [[ ${changed_file} == Przedmiot/*.md ]]; then
+            if [[ ${changed_file} == przedmiot/*.md ]]; then
               echo -e "- ${changed_file}\n" >> body.md
             fi
+          done
+          echo -e "# Zmiany względem poprzedniej wersji\n" >> body.md
+          for commit in ${{ steps.commits.outputs.commits }}; do
+            echo -e "- ${commit}\n" >> body.md
           done
 
       - uses: ncipollo/release-action@v1
