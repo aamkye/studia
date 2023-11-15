@@ -257,6 +257,67 @@ wypadkowej. Ile wynosi przyspieszenie tego ciała?
   $$
 - ![rozwiazanie](../Obrazki/fizyka/cw2-zad6.png)<br>
 
+## Ćwiczenia 3 (18.11.23r.)
+
+### Toeria
+
+#### Definicja gęstości
+
+- https://pl.wikipedia.org/wiki/G%C4%99sto%C5%9B%C4%87
+
+Gęstość, masa właściwa - stosunek masy pewnej ilości substancji do zajmowanej przez nią objętości.
+
+$$\rho = \frac{m}{V}$$
+
+$$ [\rho] = \frac{kg}{m^3} $$
+
+#### Definicja ciężaru właściwego
+
+- https://pl.wikipedia.org/wiki/Ci%C4%99%C5%BCar_w%C5%82a%C5%9Bciwy
+
+Ciężar właściwy - stosunek ciężaru ciała do jego objętości.
+
+$$\gamma = \frac{G}{V}$$
+
+$$ [\gamma] = \frac{N}{m^3} $$
+
+#### Skalarny związek ciężaru właściwego z gęstością
+
+Z definicji wynika zależność ciężaru właściwego od gęstości danego ciała:
+
+$$\gamma = \frac{G}{V} = \frac{m\cdot g}{V} = \frac{m}{V}\cdot g = \rho\cdot g$$
+
+#### Prawo Archimedesa
+
+- https://pl.wikipedia.org/wiki/Prawo_Archimedesa
+
+Prawo hydro- i aerostatyki określające siłę wyporu płynu, odkryte przez Archimedesa z Syrakuz. Prawo Archimedesa głosi, że na ciało (częściowo lub całkowicie) zanurzone w płynie (cieczy, gazie lub plazmie) działa pionowa, skierowana ku górze siła wyporu $F_{w}$, której wartość jest równa ciężarowi płynu wypartego przez to ciało.
+
+$$F_{w} = \rho_{p}\cdot V_{w}\cdot g$$
+
+gdzie:
+
+- $F_{w}$ - siła wyporu
+- $\rho_{p}$ - gęstość płynu
+- $V_{w}$ - objętość płynu wypartego przez ciało
+- $g$ - przyspieszenie ziemskie
+
+#### Zasady dynamiki Newtona
+
+- https://pl.wikipedia.org/wiki/Zasady_dynamiki_Newtona
+
+##### I zasada dynamiki Newtona - zasada bezwładności
+
+W inercjalnym układzie odniesienia, jeśli na ciało nie działa żadna siła lub siły działające równoważą się, to ciało pozostaje w spoczynku lub porusza się ruchem jednostajnym prostoliniowym.
+
+##### II zasada dynamiki Newtona - zasada dynamiki
+
+W inercjalnym układzie odniesienia jeśli siły działające na ciało nie równoważą się (czyli wypadkowa sił $\vec{F_{w}}$ jest różna od zera), to ciało porusza się z przyspieszeniem wprost proporcjonalnym do siły wypadkowej, a odwrotnie proporcjonalnym do masy ciała.
+
+##### III zasada dynamiki Newtona - zasada wzajemności oddziaływań
+
+Oddziaływania ciał są zawsze wzajemne. W inercjalnym układzie odniesienia siły wzajemnego oddziaływania dwóch ciał mają takie same wartości, taki sam kierunek, przeciwne zwroty i różne punkty przyłożenia (każda działa na inne ciało).
+
 ## Wykład 1 (14.10.23r.)
 
 ### Zjawisko fizyczne
