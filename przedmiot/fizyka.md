@@ -318,6 +318,27 @@ W inercjalnym układzie odniesienia jeśli siły działające na ciało nie rów
 
 Oddziaływania ciał są zawsze wzajemne. W inercjalnym układzie odniesienia siły wzajemnego oddziaływania dwóch ciał mają takie same wartości, taki sam kierunek, przeciwne zwroty i różne punkty przyłożenia (każda działa na inne ciało).
 
+### Ćwiczenie 2.1
+
+#### Jednostki
+
+- $m [kg]$ - masa ciała
+- $a [m]; b [m]; c [m]$ - wymiary ciała
+- $r [m]$ - promień kuli
+- $V [m^3]$ - objętość ciała
+- $\rho [\frac{kg}{m^3}]$ - gęstość ciała
+- $\gamma [\frac{N}{m^3}]$ - ciężar właściwy ciała
+
+### Ćwiczenie 2.2
+
+#### Jednostki
+
+- $m [kg]$ - masa ciała
+- $m_w [kg]$ - masa wody
+- $\rho_w [\frac{kg}{m^3}]$ - gęstość wody
+- $\rho_st [\frac{kg}{m^3}]$ - gęstość substancji
+- $\gamma_st [\frac{N}{m^3}]$ - ciężar właściwy substancji
+
 ## Wykład 1 (14.10.23r.)
 
 ### Zjawisko fizyczne
