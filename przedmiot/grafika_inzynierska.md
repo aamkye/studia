@@ -97,6 +97,6 @@ Jeden Rysunek do odrobienia na extra zajęciach:
 
 ### Cwiczenia z rzutowania
 
-![cwiczenia-2-przygotowanie-do-rzutowania](../obrazki/grafika_inzynierskacwiczenia-2_przygotowanie_do_rzutowania.png)<br>
+![cwiczenia-2-przygotowanie-do-rzutowania](../obrazki/grafika_inzynierska/cwiczenia_2_przygotowanie_do_rzutowania.png)<br>
 
 Przy pokazywaniu lewej strony i prawej strony rysunku, robimy lustrzane odbicie horyzontalne i zamieniamy wewnętrzne linie miejscami - to co było linią ciągłą, zamienia się w linię przerywaną a to co było przerywaną, zamienia się w ciągłą.
