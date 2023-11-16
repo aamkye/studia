@@ -67,11 +67,11 @@ Jeden Rysunek do odrobienia na extra zajęciach:
 
 ### Przygotowanie papieru:
 
-![cwiczenia-2-wymiary.png](..obrazkigrafika_inzynierska/cwiczenia_2_wymiary.png)<br>
+![cwiczenia-2-wymiary.png](../obrazki/grafika_inzynierska/cwiczenia_2_wymiary.png)<br>
 
 ### Tabliczka projektowa
 
-![cwiczenia-2-tabliczka](..obrazkigrafika_inzynierska/cwiczenia_2_tabliczka.png)<br>
+![cwiczenia-2-tabliczka](../obrazki/grafika_inzynierska/cwiczenia_2_tabliczka.png)<br>
 
 ### Rodzaje linii
 
@@ -97,6 +97,6 @@ Jeden Rysunek do odrobienia na extra zajęciach:
 
 ### Cwiczenia z rzutowania
 
-![cwiczenia-2-przygotowanie-do-rzutowania](..obrazkigrafika_inzynierskacwiczenia-2_przygotowanie_do_rzutowania.png)<br>
+![cwiczenia-2-przygotowanie-do-rzutowania](../obrazki/grafika_inzynierskacwiczenia-2_przygotowanie_do_rzutowania.png)<br>
 
 Przy pokazywaniu lewej strony i prawej strony rysunku, robimy lustrzane odbicie horyzontalne i zamieniamy wewnętrzne linie miejscami - to co było linią ciągłą, zamienia się w linię przerywaną a to co było przerywaną, zamienia się w ciągłą.
