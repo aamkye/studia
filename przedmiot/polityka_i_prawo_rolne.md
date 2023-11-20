@@ -29,3 +29,61 @@ TBD
 ## Wykład 1 (15.10.23r.)
 
 BRAK.
+
+## Wykłąd 3 (19.11.23r)
+
+### Interwencjonizm państwowy w rolnictwie
+
+#### Przyczyny
+
+- biologiczny
+- udział 3 czynników, praca, kapitał, ziemia
+- specyficzny charakter popytu rynkowego na produkty zywnosciowe
+
+#### Aspekty
+
+- Finansowy
+- Protekcjonistyczny
+- Regulacyjny
+
+#### Instrumenty rynkowe
+
+- Regulowanie podazy
+  - Gromadzenie zapasow buforowych
+  - kwoty rynkowe
+  - limity obszarow upraw
+  - ograniczanie terminow skupow
+  - kkontraktacja
+  - standaryzacja
+  - finansowanie gromadzenie zapasow
+  - protekcjonizm w handlu zagranicznym
+    - cła
+    - opłaty wyrównawcze
+    - podatki importowe
+    - ilosciowe ograniczenia importowe
+    - licencje importowe
+
+- regulowanie popytu
+  - subwencjonowanie knsumpcji zywnosci
+  - regulacje eksportowe
+    - sybsydia
+    - kontyngenty eksportowe
+    - cła i obnizenia fiskalne
+  - ceny gwarantowane - nie ksztaltowane przez rynek
+    - system cen gwarancyjnych
+    - system cen kierunkowych
+
+- instrumenty pozarynkowe
+  - sybsydiowanie bezposrednie
+  - sybsydiowanieposrednie
+  - kredyty preferencyjne
+
+#### Rodzaje
+
+#### Miary
+
+- Miary globalne
+- Miary jednostkowe
+- Miary procentowe
+
+PSE (producer support equivalent)

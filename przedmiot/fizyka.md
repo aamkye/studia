@@ -339,6 +339,138 @@ Oddziaływania ciał są zawsze wzajemne. W inercjalnym układzie odniesienia si
 - $\rho_st [\frac{kg}{m^3}]$ - gęstość substancji
 - $\gamma_st [\frac{N}{m^3}]$ - ciężar właściwy substancji
 
+### Cwiczenia wlasciwe
+
+#### Wzory
+
+Gestosc $\rho = \frac{m}{V} [\frac{kg}{m^3}]$
+
+ciezar wlasciwy $\vec{\gamma} = \frac{\vec{G}}{V} [\frac{N}{m^3}]$
+
+zwiazek gestowci z ciezarem wlasciwym $\gamma = \frac{G}{V} = \frac{m \cdot g}{V} = \frac{m}{V} \cdot \frac{g}{1} = \rho \cdot g$
+
+prawo archimedesa $F_w = m_{wc} * g = V_{wc} * \rho_c * g$
+
+#### Gęstość ciała stałego w wodzie
+
+$\rho_{ciała\space stałego} = \frac{m}{m-m_w} \cdot \rho_w$
+
+- $m$ - masa ciała stałego
+- $m_w$ - masa ciała stałego w wodzie
+- $\rho_w$ - gęstość wody
+
+##### Wyprowadzenie
+
+![Obrazek 1](../obrazki/fizyka/cw3-cw2-wzor1.png)<br>
+
+$$
+\begin{aligned}
+& {\color{red}\vec{G_w}} = {\color{green}\vec{G}} + {\color{blue}\vec{F_w}} \\
+& {\color{red}G_w} = {\color{green}G} - {\color{blue}F_w} \\
+& {\color{red}m_w \cdot g} = {\color{green}m \cdot g} - {\color{blue}\rho_w \cdot g \cdot V} \\
+& {\color{blue}\rho_w \cdot g \cdot V} = {\color{green}m \cdot g} - {\color{red}m_w \cdot g} \\
+& {\color{blue}\rho_w \cdot g \cdot V} = g \cdot ({\color{green}m} - {\color{red}m_w}) \\
+& {\color{blue}\rho_w \cdot V} = {\color{green}m} - {\color{red}m_w} \\
+& {\color{blue}V} = \frac{{\color{green}m} - {\color{red}m_w}}{{\color{blue}\rho_w}} \\
+\end{aligned}
+$$
+
+Gdzie:
+- ${\color{red}\vec{G_w}}$ - Ciężar pozorny
+- ${\color{green}\vec{G}}$ - Ciężar właściwy
+- ${\color{blue}\vec{F_w}}$ - Siła wyporu
+- ${\color{green}m}$ - masa ciała stałego
+- ${\color{red}m_w}$ - masa pozorna ciała stałego w wodzie
+
+##### Wyprowadzenie cd.
+$$
+\begin{aligned}
+& {\color{yellow}\rho_{st}} = \frac{{\color{green}m}}{\color{blue}V} \\
+& {\color{yellow}\rho_{st}} = \frac{{\color{green}m}}{\frac{{\color{green}m} - {\color{red}m_w}}{{\color{blue}\rho_w}}} \\
+& {\color{yellow}\rho_{st}} = \frac{{\color{green}m} \cdot {\color{blue}\rho_w}}{{\color{green}m} - {\color{red}m_w}} \\
+& {\color{yellow}\rho_{st}} = \frac{{\color{green}m}}{{\color{green}m} - {\color{red}m_w}} \cdot {\color{blue}\rho_w} \\
+\end{aligned}
+$$
+
+Gdzie:
+- ${\color{yellow}\rho_{st}}$ - gęstość ciała stałego
+- ${\color{blue}\rho_w}$ - gęstość wody
+- ${\color{green}m}$ - masa ciała stałego
+- ${\color{red}m_w}$ - masa pozorna ciała stałego w wodzie
+
+## Cwiczenia 4 (25.11.23r.)
+
+### Kolokwium
+
+#### Zadanie 1
+
+##### Gestość
+
+Gestosc jest to stosunek masy pewnej ilości substancji do zajmowanej przez nią objętości.
+
+$$\rho = \frac{m}{V} [\frac{kg}{m^3}]$$
+
+##### moduł Younga
+
+Moduł sprężystości wzdłużnej (elastic modulus) zwany również jako moduł Younga jest ilorazem naprężenia normalnego ($\sigma$) i odkształcenia linowego ($\epsilon$) w danych warunkach. W prawie Hooke`a stanowi współczynnik proporcjonalności pomiędzy odkształceniem a naprężeniem.
+
+$$E = \frac{\sigma}{\epsilon} [\text{GPa}]$$
+
+##### prawo Hooke'a
+
+http://www.fizykon.org/statyka_osr_ciagle/sprezystosc_prawo_hooke.htm
+
+![prawo Hooke'a](/obrazki/fizyka/cw3-cw16-wzor1.gif)<br>
+
+Prawo Hooke'a mówi, że odkształcenie ciała jest wprost proporcjonalne do przyłożonej siły.
+
+$${\color{yellow}\Delta l} = {\color{blue}K} \cdot \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S}}$$
+
+Gdzie:
+- ${\color{yellow}\Delta l}$ - wydłużenie (ogólnie odkształcenie), czyli zmiana długości pręta (w układzie SI w metrach: $N$)
+- ${\color{blue}K}$ - współczynnik charakteryzujący materiał (w układzie SI w: $m \cdot s^2/kg$)
+- ${\color{green}F}$ - siła powodująca odkształcenie (w układzie SI w niutonach: $N = kg \cdot m/s^2$)
+- ${\color{red}l_0}$ - początkowa (bez działania siły) długość pręta (w układzie SI w metrach: $m$)
+- ${\color{pink}S}$ - pole przekroju poprzecznego (w układzie SI w metrach kwadratowych: $m^2$)
+
+#### zadanie 2 (prawdopodobnie mierzenie gęstości ciała stałego za pomocą wagi hydrostatycznej)
+
+Pomiar gęstości ciała stałego za pomocą wagi hydrostatycznej polega na pomiarze siły wyporności, jaką ciało doświadcza podczas zanurzania w cieczy, i porównaniu jej z wagą ciała stałego. Dzięki temu można obliczyć gęstość ciała stałego.
+
+#### zadanie 3
+
+Pociag, który poruszał się początkowo z prędkością $v_0 = 10 m/s$ zwiększył swą
+prędkość do wartości $v = 20 m/s$. Przebył w tym czasie drogę $S = 300m$. Oblicz czas ruchu $t$ i przyspieszenie $a$.
+
+- Prędkośc 1: $v_0 = 10\ \frac{m}{s}$
+- Prędkośc 2: $v_1 = 20\ \frac{m}{s}$
+- Droga przyspieszenia: $S = 300\ m$
+
+Obliczenie przyśpieszenia z drogi i prędkości:
+
+$$
+\begin{aligned}
+S &= \frac{v_1^2 - v_0^2}{2a} \\
+S \cdot 2a &= v_1^2 - v_0^2 \\
+2a &= \frac{v_1^2 - v_0^2}{S} \\
+a &= \frac{\frac{v_1^2 - v_0^2}{S}}{2} \\
+&= \frac{\frac{400-100}{300}}{2} \\
+&= \frac{\frac{300}{300}}{2} \\
+&= \frac{1}{2} [\frac{m}{s^2}]
+\end{aligned}
+$$
+
+Obliczenie czasu z prędkości i przyśpieszenia:
+$$
+\begin{aligned}
+t &= \frac{v_1 - v_0}{a} \\
+&= \frac{20 - 10}{\frac{1}{2}} \\
+&= \frac{10}{\frac{1}{2}} \\
+&= 10 \cdot 2 \\
+&= 20s
+\end{aligned}
+$$
+
 ## Wykład 1 (14.10.23r.)
 
 ### Zjawisko fizyczne
@@ -446,3 +578,64 @@ $$
 - https://pl.wikipedia.org/wiki/Styczna?wprov=srpw1_3
 
 ---
+
+## Wykład 1 (14.10.23r.)
+
+## Kolokwium na wykladnie 3
+
+### Zadanie 1
+
+podac definicje i tresc prawa
+
+### zadanie 2
+
+wyjanic zjawisko lub opisac sile lub opisac metode pomiaru
+
+### zadanie 3
+
+zadanie rachunkowe z danymi wartosciami liczbowymi lub wyprowadzenie wzoru cw 2 lub 16
+
+## III zasada dynamiki Newtona
+
+## Akcja reakcja
+
+- sila dosrodkowa
+- sila odsrodkowa
+
+- moment bezwładności
+$$
+I = \sum_i  r_i^2\Delta m_i \space [kg \cdot m^2]
+$$
+
+$$
+I = \int_{m} r^2dm
+$$
+
+$$
+\vec{L} = \vec{r} \cdot \vec{p} = \vec{r} \cdot m \cdot \vec{v} = m \cdot [\vec{r} \cdot (\vec{\omega} \cdot \vec{r})] \\
+
+\vec{A} \cdot (\vec{B} \cdot \vec{C}) = B * (A * C) - C * (A * B)
+
+$$
+
+- pierwsza zasada dynamiki newtona
+- druga zasada dynamiki newtona
+- trzecia zasada dynamiki newtona
+-
+Przyspieszenie kątowe
+
+## Układ nieinercialny
+
+## Układ inercialny
+
+## Zasada d'Alemberta
+
+Cialo spoczywa w ukladzie nieinercialnycm gdy suma wszystkich sil dzialajacych lacznie z sila bezwladnosci rowna sie zeru
+
+$$ \vec{F}_b + \vec{F}_w = 0$$
+
+## Sila odsrodkowa bezwladnosci
+
+## sila bezwladnosci Coriolisa
+
+## Sila sprezystosci

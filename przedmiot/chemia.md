@@ -244,6 +244,86 @@ $$
 
 - https://www.ckno.upwr.edu.pl/erepozytoria/mod/resource/view.php?id=6593
 
+### Dysocjacja elektrolityczna oraz mocne i słabe elektrolity
+
+Elektrolit - co to jest,
+  - przewodzą prąd elektryczny
+  - kwasy, zasady i sole
+  - Ulegają dysocjacji
+
+Dysocjacja - elektrolity w wodzie w większym lub mniejszym stopniu rozpadają się na jony (proces odwracalny, pod wpływem rozpuszczalnika)
+
+Dysocjacja elektrolityczna (wiązania jonowe)
+  - Kationy
+  - Aniony
+
+Polarnośc czasteczek
+
+Hexan (czasteczka niepolarna)
+Woda (czasteczka polarna)
+
+- Jony
+  - Anion (-)
+  - Kationy (+)
+
+- Stopień dysocjacji $\Alpha$ (Alfa)
+  - $\Alpha = \frac{n}{N}$
+  - słaby elektrolit (kwas octowy) - dzieje się cały czas (Dwie strzałki)
+  - mocny elektrolit (sol kuchenna) - jest skończona (Jedna strzałka)
+
+- Stała dysocjacja (Nawias kwadratowy - stęzenie )
+  - (kwas) $K_a = \frac{[H^+][A^-]}{HA}$
+  - (zasada) $K_b = \frac{[OH^-][Me^+]}{[MOH]}$
+
+### Prawo rozcieńczeń Ostwalda
+
+- Istnieje zalenoś pomiędzy stałą dysocjacji oraz stopniem dysocjacji dla słabych kwasów i słabych zasad w roztworach wodnych.
+- $K_a = \frac{\alpha^2xC_o}{1-\alpha}$
+
+### Stopien dysocjacji
+
+- Mocne $\alpha >= 0.3$ (większa przewodnosc)
+  - Wiekszosc soli
+  - kwasy nieorganiczne
+  - Wodorotleniki metali
+- Słabe $\alpha <= 0.05$ (mniejsza przewodnosc)
+  - Czesc kwasow nieorganicznych
+  - Kwasy organiczne
+  - Amoniak i zasady organiczne
+  - Halogenki
+
+### Od czego zalezy dysocjacja elektrolityczna
+
+- natura rozpuszczalnika
+- natura elektrolitu
+- ilosc rozpuszczalnika / stezenie substancji
+- temperatura
+- inne elektrolity w roztworze
+
+Stała dysocjacji zalezna jest od temperatury
+
+### Auto dysocjacja wody
+
+- $2H_2O \iff H_3O^+ + OH^-$
+- $H_2O \iff 2H^+ + OH^-$ (nielegane)
+
+### Hydroliza soli
+
+Zjawisko zwiazane z reakcją jonow powstalych podczas dysocjacji soli
+
+$HCl + NaOH \to NaCl + H_2O$
+
+| rodzaj soli | odczyn roztworu soli | rodzaj hydrolizy |
+| - | - | - |
+| m kwas + m zasada | obojetny | brak |
+| m kwas + s zasada | kwasowy | kationowa |
+| s kwas + m zasada | zasadowy | anionowa |
+| s kwas + s zasada | s zasadowy / s kwasowy / obojetny | kationowo-zasadowa |
+
+### pH zalezy od jonów wodorowych (wiecej kwasowy, mniej zasadowy)
+
+- korektory pH
+
 ## Wykład 4 (25.11.23r.)
 
 - https://www.ckno.upwr.edu.pl/erepozytoria/mod/resource/view.php?id=6594

@@ -17,6 +17,8 @@ For displayed formulas, use `$$`…`$$`.
 
 For **Greek letters**, use `\alpha`, `\beta`, ..., `\omega`: $\alpha$, $\beta$, ..., $\omega$.
 
+# TODO greek lethers.
+
 - For uppercase letters, use `\Gamma`, `\Delta`, ..., `\Omega`: $\Gamma$, $\Delta$, ..., $\Omega$.
 - For other Greek capital letters, use Latin `A`, `B`, `E` and so on: $A$, $B$, $E$.
 - Some Greek letters have variant forms: `\epsilon \varepsilon` $\epsilon, \varepsilon$, `\phi \varphi` $\phi, \varphi$, and others.
