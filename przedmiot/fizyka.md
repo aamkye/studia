@@ -424,7 +424,7 @@ $$E = \frac{\sigma}{\epsilon} [\frac{N}{m^2} = Pa]$$
 - https://pl.wikipedia.org/wiki/Prawo_Hooke%E2%80%99a
 - http://www.fizykon.org/statyka_osr_ciagle/sprezystosc_prawo_hooke.htm
 
-![prawo Hooke'a](/obrazki/fizyka/cw3_cw16_wzor1.gif)<br>
+![prawo Hooke'a](/obrazki/fizyka/cw3_cw16_wzor1.png)<br>
 
 Prawo Hooke'a mówi, że odkształcenie ciała jest wprost proporcjonalne do przyłożonej siły.
 
