@@ -412,13 +412,17 @@ $$\rho = \frac{m}{V} [\frac{kg}{m^3}]$$
 
 ##### moduł Younga
 
+- https://pl.wikipedia.org/wiki/Modu%C5%82_Younga
+- https://tenslab.pl/modul-younga
+
 Moduł sprężystości wzdłużnej (elastic modulus) zwany również jako moduł Younga jest ilorazem naprężenia normalnego ($\sigma$) i odkształcenia linowego ($\epsilon$) w danych warunkach. W prawie Hooke`a stanowi współczynnik proporcjonalności pomiędzy odkształceniem a naprężeniem.
 
-$$E = \frac{\sigma}{\epsilon} [\text{GPa}]$$
+$$E = \frac{\sigma}{\epsilon} [\frac{N}{m^2} = Pa]$$
 
 ##### prawo Hooke'a
 
-http://www.fizykon.org/statyka_osr_ciagle/sprezystosc_prawo_hooke.htm
+- https://pl.wikipedia.org/wiki/Prawo_Hooke%E2%80%99a
+- http://www.fizykon.org/statyka_osr_ciagle/sprezystosc_prawo_hooke.htm
 
 ![prawo Hooke'a](/obrazki/fizyka/cw3-cw16-wzor1.gif)<br>
 
