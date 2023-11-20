@@ -616,16 +616,16 @@ I = \int_{m} r^2dm
 $$
 
 $$
-\vec{L} = \vec{r} \cdot \vec{p} = \vec{r} \cdot m \cdot \vec{v} = m \cdot [\vec{r} \cdot (\vec{\omega} \cdot \vec{r})] \\
-
-\vec{A} \cdot (\vec{B} \cdot \vec{C}) = B * (A * C) - C * (A * B)
-
+\begin{aligned}
+& \vec{L} = \vec{r} \cdot \vec{p} = \vec{r} \cdot m \cdot \vec{v} = m \cdot [\vec{r} \cdot (\vec{\omega} \cdot \vec{r})] \\
+& \vec{A} \cdot (\vec{B} \cdot \vec{C}) = B * (A * C) - C * (A * B)
+\end{aligned}
 $$
 
 - pierwsza zasada dynamiki newtona
 - druga zasada dynamiki newtona
 - trzecia zasada dynamiki newtona
--
+
 Przyspieszenie kątowe
 
 ## Układ nieinercialny
@@ -636,7 +636,7 @@ Przyspieszenie kątowe
 
 Cialo spoczywa w ukladzie nieinercialnycm gdy suma wszystkich sil dzialajacych lacznie z sila bezwladnosci rowna sie zeru
 
-$$ \vec{F}_b + \vec{F}_w = 0$$
+$$\vec{F}_b + \vec{F}_w = 0$$
 
 ## Sila odsrodkowa bezwladnosci
 
