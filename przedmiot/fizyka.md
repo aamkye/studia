@@ -376,6 +376,7 @@ $$
 $$
 
 Gdzie:
+
 - ${\color{red}\vec{G_w}}$ - Ciężar pozorny
 - ${\color{green}\vec{G}}$ - Ciężar właściwy
 - ${\color{blue}\vec{F_w}}$ - Siła wyporu
@@ -383,16 +384,18 @@ Gdzie:
 - ${\color{red}m_w}$ - masa pozorna ciała stałego w wodzie
 
 ##### Wyprowadzenie cd.
+
 $$
 \begin{aligned}
 & {\color{yellow}\rho_{st}} = \frac{{\color{green}m}}{\color{blue}V} \\
 & {\color{yellow}\rho_{st}} = \frac{{\color{green}m}}{\frac{{\color{green}m} - {\color{red}m_w}}{{\color{blue}\rho_w}}} \\
-& {\color{yellow}\rho_{st}} = \frac{{\color{green}m} \cdot {\color{blue}\rho_w}}{{\color{green}m} - {\color{red}m_w}} \\
+& {\color{yellow}\rho_{st}} = \frac{ {\color{green}m} \cdot {\color{blue}\rho_w} }{ {\color{green}m} - {\color{red}m_w} } \\
 & {\color{yellow}\rho_{st}} = \frac{{\color{green}m}}{{\color{green}m} - {\color{red}m_w}} \cdot {\color{blue}\rho_w} \\
 \end{aligned}
 $$
 
 Gdzie:
+
 - ${\color{yellow}\rho_{st}}$ - gęstość ciała stałego
 - ${\color{blue}\rho_w}$ - gęstość wody
 - ${\color{green}m}$ - masa ciała stałego
@@ -402,15 +405,15 @@ Gdzie:
 
 ### Kolokwium
 
-#### Zadanie 1
+#### Zadanie 1 Gestość
 
-##### Gestość
+- https://pl.wikipedia.org/wiki/G%C4%99sto%C5%9B%C4%87
 
 Gestosc jest to stosunek masy pewnej ilości substancji do zajmowanej przez nią objętości.
 
 $$\rho = \frac{m}{V} [\frac{kg}{m^3}]$$
 
-##### moduł Younga
+#### Zadanie 1 moduł Younga
 
 - https://pl.wikipedia.org/wiki/Modu%C5%82_Younga
 - https://tenslab.pl/modul-younga
@@ -419,7 +422,7 @@ Moduł sprężystości wzdłużnej (elastic modulus) zwany również jako moduł
 
 $$E = \frac{\sigma}{\epsilon} [\frac{N}{m^2} = Pa]$$
 
-##### prawo Hooke'a
+#### Zadanie 1 prawo Hooke'a
 
 - https://pl.wikipedia.org/wiki/Prawo_Hooke%E2%80%99a
 - http://www.fizykon.org/statyka_osr_ciagle/sprezystosc_prawo_hooke.htm
@@ -428,9 +431,12 @@ $$E = \frac{\sigma}{\epsilon} [\frac{N}{m^2} = Pa]$$
 
 Prawo Hooke'a mówi, że odkształcenie ciała jest wprost proporcjonalne do przyłożonej siły.
 
-$${\color{yellow}\Delta l} = {\color{blue}K} \cdot \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S}}$$
+$$
+{\color{yellow}\Delta l} = {\color{blue}K} \cdot \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S}}
+$$
 
 Gdzie:
+
 - ${\color{yellow}\Delta l}$ - wydłużenie (ogólnie odkształcenie), czyli zmiana długości pręta (w układzie SI w metrach: $N$)
 - ${\color{blue}K}$ - współczynnik charakteryzujący materiał (w układzie SI w: $m \cdot s^2/kg$)
 - ${\color{green}F}$ - siła powodująca odkształcenie (w układzie SI w niutonach: $N = kg \cdot m/s^2$)
