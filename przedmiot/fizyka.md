@@ -34,7 +34,7 @@ Kolokwium / potencjalne wejściówki
 
 ## Ćwiczenia
 
-![Plań cwiczeń labolatoryjnych](../obrazki/fizyka/plan-cwiczen-labolatoryjnych.png)<br>
+![Plań cwiczeń labolatoryjnych](../obrazki/fizyka/plan_cwiczen_labolatoryjnych.png)<br>
 
 ### Wykaz cwiczeń
 
@@ -76,10 +76,10 @@ TBD
   $$
 
   - Metoda trójkąta
-    ![Metoda trójkąta](../obrazki/fizyka/dodawanie-wektorow-trojkat.png)
+    ![Metoda trójkąta](../obrazki/fizyka/dodawanie_wektorow_trojkat.png)
 
   - Metoda rombu
-    ![Metoda rombu](../obrazki/fizyka/dodawanie-wektorow-romb.jpg)<br>
+    ![Metoda rombu](../obrazki/fizyka/dodawanie_wektorow_romb.jpg)<br>
 
 - Odejmowanie wektorów
   $$
@@ -361,7 +361,7 @@ $\rho_{ciała\space stałego} = \frac{m}{m-m_w} \cdot \rho_w$
 
 ##### Wyprowadzenie
 
-![Obrazek 1](../obrazki/fizyka/cw3-cw2-wzor1.png)<br>
+![Obrazek 1](../obrazki/fizyka/cw3_cw2_wzor1.png)<br>
 
 $$
 \begin{aligned}
