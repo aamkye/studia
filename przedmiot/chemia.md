@@ -266,8 +266,8 @@ Woda (czasteczka polarna)
   - Anion (-)
   - Kationy (+)
 
-- Stopień dysocjacji $\Alpha$ (Alfa)
-  - $\Alpha = \frac{n}{N}$
+- Stopień dysocjacji $\alpha$ (Alfa)
+  - $\alpha = \frac{n}{N}$
   - słaby elektrolit (kwas octowy) - dzieje się cały czas (Dwie strzałki)
   - mocny elektrolit (sol kuchenna) - jest skończona (Jedna strzałka)
 
