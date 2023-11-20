@@ -449,35 +449,34 @@ Pomiar gęstości ciała stałego za pomocą wagi hydrostatycznej polega na pomi
 
 #### zadanie 3
 
-Pociag, który poruszał się początkowo z prędkością $v_0 = 10 m/s$ zwiększył swą
-prędkość do wartości $v = 20 m/s$. Przebył w tym czasie drogę $S = 300m$. Oblicz czas ruchu $t$ i przyspieszenie $a$.
+Pociag, który poruszał się początkowo z prędkością $v_0 = 0 m/s$ zwiększył swą prędkość do wartości $v = 20 m/s$. Zrobił to w czasie $200\ s$. Oblicz drogę $S$ i przyspieszenie $a$.
 
-- Prędkośc 1: $v_0 = 10\ \frac{m}{s}$
+- Prędkośc 1: $v_0 = 0\ \frac{m}{s}$
 - Prędkośc 2: $v_1 = 20\ \frac{m}{s}$
-- Droga przyspieszenia: $S = 300\ m$
+- Czas przyspieszenia: $\Delta t = 200\ s$
 
-Obliczenie przyśpieszenia z drogi i prędkości:
+Obliczanie przyspieszenia z prędkości i czasu:
 
 $$
 \begin{aligned}
-S &= \frac{v_1^2 - v_0^2}{2a} \\
-S \cdot 2a &= v_1^2 - v_0^2 \\
-2a &= \frac{v_1^2 - v_0^2}{S} \\
-a &= \frac{\frac{v_1^2 - v_0^2}{S}}{2} \\
-&= \frac{\frac{400-100}{300}}{2} \\
-&= \frac{\frac{300}{300}}{2} \\
-&= \frac{1}{2} [\frac{m}{s^2}]
+& a = \frac{\Delta v}{\Delta t} \\
+& a = \frac{v_k - v_p}{\Delta t} \\
+& a = \frac{20 - 0}{200} \\
+& a = \frac{20}{200} \\
+& a = 0{,}1\ \frac{m}{s^2}
 \end{aligned}
 $$
 
-Obliczenie czasu z prędkości i przyśpieszenia:
+Obliczanie drogi z przyśpieszenia i czasu:
+
 $$
 \begin{aligned}
-t &= \frac{v_1 - v_0}{a} \\
-&= \frac{20 - 10}{\frac{1}{2}} \\
-&= \frac{10}{\frac{1}{2}} \\
-&= 10 \cdot 2 \\
-&= 20s
+& S = V_p \cdot t + \frac{a \cdot \Delta t^2}{2} \\
+& S = 0 \cdot 200 + \frac{0{,}1 \cdot 200^2}{2} \\
+& S = \frac{0{,}1 \cdot 40000}{2} \\
+& S = \frac{4000}{2} \\
+& S = 2000 \\
+& S = 2000\ m
 \end{aligned}
 $$
 
