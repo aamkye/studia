@@ -437,7 +437,7 @@ $$
 
 Gdzie:
 
-- ${\color{yellow}\Delta l}$ - wydłużenie (ogólnie odkształcenie), czyli zmiana długości pręta (w układzie SI w metrach: $N$)
+- ${\color{yellow}\Delta l}$ - wydłużenie (ogólnie odkształcenie), czyli zmiana długości pręta (w układzie SI w metrach: $M$)
 - ${\color{blue}K}$ - współczynnik charakteryzujący materiał (w układzie SI w: $m \cdot s^2/kg$)
 - ${\color{green}F}$ - siła powodująca odkształcenie (w układzie SI w niutonach: $N = kg \cdot m/s^2$)
 - ${\color{red}l_0}$ - początkowa (bez działania siły) długość pręta (w układzie SI w metrach: $m$)
