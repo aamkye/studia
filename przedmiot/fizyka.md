@@ -443,6 +443,19 @@ Gdzie:
 - ${\color{red}l_0}$ - początkowa (bez działania siły) długość pręta (w układzie SI w metrach: $m$)
 - ${\color{pink}S}$ - pole przekroju poprzecznego (w układzie SI w metrach kwadratowych: $m^2$)
 
+Im większy jest współczynnik $K$, tym łatwiej materiał poddaje się odkształceniom.
+
+W tablicach materiałów rzadko podaje się współczynnik $K$; zamiast niego można znaleźć liczbę nazywaną modułem Younga (oznaczaną przez $E$), która jest odwrotnością $K$. Moduł Younga charakteryzuje twardość materiału (rozumianą jako oporność na odkształcenia sprężyste, a nie na rozbicie czy rozerwanie).
+
+- $E = \frac{1}{K}$
+
+Po podstawieniu do wzoru na prawo Hooke'a otrzymujemy:
+
+$$
+{\color{yellow}\Delta l} = \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S}} \cdot \frac{1}{{\color{blue}K}}
+$$
+
+
 #### zadanie 2 (prawdopodobnie mierzenie gęstości ciała stałego za pomocą wagi hydrostatycznej)
 
 Pomiar gęstości ciała stałego za pomocą wagi hydrostatycznej polega na pomiarze siły wyporności, jaką ciało doświadcza podczas zanurzania w cieczy, i porównaniu jej z wagą ciała stałego. Dzięki temu można obliczyć gęstość ciała stałego.
