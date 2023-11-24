@@ -413,23 +413,14 @@ Gestosc jest to stosunek masy pewnej ilości substancji do zajmowanej przez nią
 
 $$\rho = \frac{m}{V} [\frac{kg}{m^3}]$$
 
-#### Zadanie 1 moduł Younga
-
-- https://pl.wikipedia.org/wiki/Modu%C5%82_Younga
-- https://tenslab.pl/modul-younga
-
-Moduł sprężystości wzdłużnej (elastic modulus) zwany również jako moduł Younga jest ilorazem naprężenia normalnego ($\sigma$) i odkształcenia linowego ($\epsilon$) w danych warunkach. W prawie Hooke`a stanowi współczynnik proporcjonalności pomiędzy odkształceniem a naprężeniem.
-
-$$E = \frac{\sigma}{\epsilon} [\frac{N}{m^2} = Pa]$$
-
 #### Zadanie 1 prawo Hooke'a
 
 - https://pl.wikipedia.org/wiki/Prawo_Hooke%E2%80%99a
 - http://www.fizykon.org/statyka_osr_ciagle/sprezystosc_prawo_hooke.htm
 
-![prawo Hooke'a](../obrazki/fizyka/cw3_cw16_wzor1.png)<br>
-
 Prawo Hooke'a mówi, że odkształcenie ciała jest wprost proporcjonalne do przyłożonej siły.
+
+![prawo Hooke'a](../obrazki/fizyka/cw3_cw16_wzor1.png)<br>
 
 $$
 {\color{yellow}\Delta l} = {\color{blue}K} \cdot \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S}}
@@ -452,9 +443,27 @@ W tablicach materiałów rzadko podaje się współczynnik $K$; zamiast niego mo
 Po podstawieniu do wzoru na prawo Hooke'a otrzymujemy:
 
 $$
-{\color{yellow}\Delta l} = \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S}} \cdot \frac{1}{{\color{blue}K}}
+{\color{yellow}\Delta l} = \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S} \cdot {\color{blue}E}}
 $$
 
+#### Zadanie 1 moduł Younga
+
+- https://pl.wikipedia.org/wiki/Modu%C5%82_Younga
+- https://tenslab.pl/modul-younga
+
+Moduł sprężystości wzdłużnej (elastic modulus) zwany również jako moduł Younga jest ilorazem naprężenia normalnego ($\sigma$) i odkształcenia linowego ($\epsilon$) w danych warunkach. W prawie Hooke`a stanowi współczynnik proporcjonalności pomiędzy odkształceniem a naprężeniem.
+
+$$E = \frac{\sigma}{\epsilon} [\frac{N}{m^2} = Pa]$$
+
+Do obliczenia modułu Younga wystarczy przekształcić wzór na prawo Hooke'a:
+
+$$
+\begin{aligned}
+{\color{yellow}\Delta l} &= \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S} \cdot {\color{blue}E}} | \cdot {\color{blue}E}\\
+{\color{yellow}\Delta l} \cdot {\color{blue}E} &= \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S}} | :{\color{yellow}\Delta l} \\
+{\color{blue}E} &= \frac{{\color{green}F} \cdot {\color{red}l_0}}{{\color{pink}S} \cdot {\color{yellow}\Delta l}}
+\end{aligned}
+$$
 
 #### zadanie 2 (prawdopodobnie mierzenie gęstości ciała stałego za pomocą wagi hydrostatycznej)
 
