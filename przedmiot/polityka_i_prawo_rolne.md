@@ -87,3 +87,12 @@ BRAK.
 - Miary procentowe
 
 PSE (producer support equivalent)
+
+## Wykład
+
+### Wspólna polityka rolna
+
+- traktat rzymski
+- wpływa WTO na reformy WPR
+- Trakat z Maastricht
+-

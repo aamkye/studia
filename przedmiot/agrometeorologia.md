@@ -163,3 +163,60 @@ adwekcja (napływające masy powietrza)
 - przymrozek wysoki
 
 ## Slajd 45
+
+## Budowa termometru
+
+## Klatka meteoroligiczna
+
+Mikro klimat
+Fito klimat
+
+## Klimatologiczne pory roku (6)
+
+## Okresy rolnicze (6)
+
+- Gospodarczy >2.5*C
+- Wegetacyjny >5*C
+- Aktywnego wzrostu roślin >10*C
+- Dojrzewania >15*C
+
+## Dni charakterystyczne
+
+- Przymrozkowe t_min < 0
+- Mroźne t_max < 0
+- bardzo mroźne t_min < -10
+- Gorące t_max > 25
+- Bardzo gorące t_max > 30
+
+## Odczuwanie zimna w zależności od temperatury powietrza i prędkości wiatru
+
+## Obieg wody w przyrodzie
+
+### Wilgotnośc powietrza
+
+### Wilgotnośc bezwzględna powietrza
+
+### Maksymalna prężnośc pary wodnej w atm
+
+### Aktualna prężnośc lub zawartośc pary wodnej w powietrzu
+
+### Względna wilgotnośc powietrza
+
+### Niedosyt wilgotności powietrza
+
+### Temperatura punktu rosy
+
+## Parowanie
+
+### Zasoby wodne ziemi
+
+### Światowe zasoby wodne
+
+### Rok hydologiczny (od listopada do października)
+
+### Stany skupienia
+
+ ciepło utajone parowania
+ ciepło utajone topnienia
+
+### Slajd 7

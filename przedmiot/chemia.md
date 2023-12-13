@@ -328,6 +328,85 @@ $HCl + NaOH \to NaCl + H_2O$
 
 - https://www.ckno.upwr.edu.pl/erepozytoria/mod/resource/view.php?id=6594
 
+### Elektrolity
+
+przewodzi prąd
+kwasy zasady sole
+ulegaja dysocjacji
+
+### pH roztworów
+
+pH: ujemny logarytm stężenia jonó∑ wodorowych
+
+$\text{pH} = -log_{10}[H^+]$
+
+0 - HCL (kwas, czerwony)
+7 - Neutralne
+14 - NaOH (zasada, niebieski)
+
+### Sposoby poiaru pH
+
+- barwne wskazniki
+- pH metr
+- metoda wskaznikowa
+- metoda instrumentalna
+- metoda obliczeniowa
+- metoda potencjometryczna
+
+### Teorie
+
+- Teoria Arrheniusa (easy)
+  - Kwas w wodzie dysocjuje do jonu wodorowego $H^+$
+  - Zasada w wodzie dysocjuje do jonu hydroksylowego $OH^-$
+  - Woda jest kwasem i zasadą jednocześnie
+- Teoria Bronsteda-Lowry'ego
+  - Kwas moze odda jod wodorowy $H^+$
+  - Zasada moze przyją jon wodorowy $H^+$
+- Teoria Lewisa (hard)
+  - Kwas moze przyjac parę elektronową
+  - Zasada ma wolną parę elektronową
+
+### Roztwory buforowe
+
+- Roztwory wodne slabych soli albo zasad i odpowiadajacych im soli.
+- Zachowują stałe pH nawet podczas dodatku kwasów i zasad.
+- Pojemnoś buforowa
+
+### Wzory
+
+- $pH = pK_a + log\frac{[A^-]}{[HA]}$
+
+### Hydroksosole
+
+### Obliczanie pH
+
+1. Jakie jest pH 0.02 molowego kwasy?
+   1. $M_{H_2SO_4} = 0.02\frac{mol}{dm^3}$
+   2. $H_2SO_4 => 2H^+ SO_4^{2-}$
+   3. $[H^+] = 0.02; log_{10}0.02 \approx 1.7$
+2. Jakie jest stężenie jonów wodorotlenkowych $[OH^-]$ w roztworze, którego pH wynosi 9.5?
+   1. $pH = 9.5$
+   2. $pOH = 14 - 9.5 = 4.5$
+   3. $pOH = -log_{10}[OH^-]$
+   4. $[OH^-] = 10^{-pOH}$
+   5. $10^{-4.5}$
+   6. $3.16 \cdot 10^{-5} \frac{mol}{dm^3}$
+3. Jakie jest pH roztworu o pOH 6.2?
+   1. pH = 14 - pOH
+   2. pH = 14 - 6.2 = 7.8
+4. Jakie jest pH 0.1 molowego kwasu octowego? $K_a = 1.8 \cdot 10^{-5}$
+   1. $CH_3COOH => CH_3COO^- + H^+$
+   2. $K_a = \frac{[H^+][CH_3COO^-]}{[CH_3COOH]}$
+   3. $K_a = \frac{[H^+]^2}{[CH_3COO]}$
+   4. $K_a = [H^+] = \sqrt{K_a \cdot [CH_3OOH]}$
+   5. $K_a = 1.34 \cdot 10^{-3}$
+   6. $pH = log{1.34 \cdot 10^{-3}}$
+   7. $pH = 2.87$
+
+### Obliczenie pH buforów
+
+1. Jak zmieni się pH roztowru buforowego
+
 ## Wykład 5 (09.12.23r.)
 
 - Pewnie coś związanego z zaliczeniem.
