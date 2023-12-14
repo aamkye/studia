@@ -336,7 +336,7 @@ ulegaja dysocjacji
 
 ### pH roztworów
 
-pH: ujemny logarytm stężenia jonó∑ wodorowych
+pH: ujemny logarytm stężenia jonów wodorowych
 
 $\text{pH} = -log_{10}[H^+]$
 
