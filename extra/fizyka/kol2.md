@@ -20,8 +20,12 @@ Gdzie: $p$ - ciśnienie, $\rho$ - gęstość płynu, $v$ - prędkość płynu
 
 **Zad3.2**: Woda płynie w wężu strażacki o średnicy przekroju kołowego $d_1 = 6cm$. Wydatek wody płynącej w wężu przed dyszą $Q_1 = 0.016m^3/s$. Średnica poprzeczna przekroju dyszy $d_2 = 2cm$. Jaka jest prędkośc wypływu wody z dyszy?
 
-$Q = A_1 \cdot v_1 = A_2 \cdot v_2$ (przekształcamy do $v_2 = ...$)
+$s_1 = \frac{\pi d^2_1}{4} = \frac{\pi 0.06^2}{4} = 0.000283 (m^2)$
 
-$v_2 = \frac{A_1}{A_2} \cdot v_1 = \frac{\pi d_1^2}{\pi d_2^2} \cdot v_1 = \frac{d_1^2}{d_2^2} \cdot v_1 = \frac{0.06^2}{0.02^2} \cdot 0.016 = 0.144 (m/s)$
+$s_2 = \frac{\pi d^2_2}{4} = \frac{\pi 0.02^2}{4} = 0.0000314 (m^2)$
 
-Gdzie: $Q$ - wydatek wody, $A$ - pole przekroju, $v$ - prędkość wody, $d$ - średnica przekroju
+$V_1 = \frac{Q_1}{s_1} = \frac{0.016}{0.000283} = 5.66 (m/s)$
+
+$V_2 = \frac{Q_2}{s_2} = \frac{0.016}{0.0000314} = 50.85 (m/s)$
+
+Gdzie: $Q$ - wydatek, $s$ - pole powierzchni przekroju, $V$ - prędkość
