@@ -410,3 +410,195 @@ $\text{pH} = -log_{10}[H^+]$
 ## Wykład 5 (09.12.23r.)
 
 - Pewnie coś związanego z zaliczeniem.
+
+# SEM2
+
+## Wykład 1 (02.03.2024r.)
+
+Egzamin na koniec
+
+Sprawozdania oddawane na papierze (z cwiczen na cwiczenia)
+
+Alkainy węglowodory nienasycone i wegllowodory aromatyczne
+alokohle fenole aldehydy i ketony
+kwasy karboksylowe i ich pochodne
+tluszcze weglwodany aminokwasy i białka
+
+### chemia organiczna
+
+Zwiazki organiczne maja w skladzie wegiel (C) ktory ma zawsze 4 wiazania
+
+#### Nomenklatura
+- grupy funkcyjne (środek łancucha)
+- reakcje charakterystyczne
+- szeregi homologiczne (zbior zwiazkow o zblizonej budowie, np propan, butan, heksan)
+- zwiazki nasycone (tylko wiazania pojedyncze)
+- zwiazki nienasycone (wystepuja wiazania podwojne i potrojne, sa bardziej reaktywne)
+- zwiazki aromatyczne - hexagon (np benzen)
+- zwiazki lancuchowe alifatyczne (jakas linia, nie maja zamknietych pierscieni, np pentan)
+- zwiazki cykliczne (maja cykle, np cyklo-pentan)
+
+## Weglowodory
+
+Wegiel zawsze 4 wiazania
+Wodor zawsze 1 wiazanie
+
+Alkany - tylko jedno wiazanie (nasycone)
+Alkeny - conajmniej podwojne wiazanie
+Alikny - conajmniej potrojne wiazanie
+
+## Alkany (parafiny)
+
+!BEDZIE NA EGZAMINIE!
+
+Metan, Etan, Propan, Butan
+
+$C_n H_{2n+2}$
+
+### Wlasciwosci
+
+- $C_1$ - $C_4$ - Gazy
+- $C_5$ - $C_{15}$ - Ciecze
+- $C_{16+}$ - Ciala stale
+
+nie rozpuszczalne w wodzie (zwiazek z polarnoscia)
+mało reaktywne (maja wszedzie pojedyncze wiazania)
+
+### Reakcje
+
+- Otrzymywanie
+- __Spalanie__
+  - Calkowite ($CO_2 + H_2O$)
+  - Czesciowe ($CO + H_2O$)
+  - Niecalkowite ($C + H_2O$)
+- __Podstawienie wolnorodnikowe__
+  - $Cl_2 \rightarrow_{Hv_{swiatlo}} Cl\cdot + Cl\cdot$
+  - $CH_3-CH_3 + 2Cl \rightarrow CH_3-CH_2 + Cl + HCl$
+  - $CH_3-CH_2 + Cl \rightarrow CH_3-CH_2-Cl$
+- Nitrowanie
+
+## Alkeny (conajmniej dwa wiazania)
+
+$C_n H_{2n}$
+
+Eten, Propen, Buten
+
+## Alkiny (conajmniej 3 wiazania)
+
+$C_n H_{2n-2}$
+
+Etyn, Propyn, Butyn
+
+### Wlasciwosci
+
+- nierozpuszczalne w wodzie
+- bardzo reaktywne
+
+### Otrzymywanie
+
+- __Addycja elektrofilowa__
+  - $CH_2=CH-CH_3 + Br_2 \rightarrow 2(CH_2-Br)-CH_3$
+  - $CH_2=CH_2-CH_3 + H_2O \rightarrow CH_3-(CH_2-OH)-CH_3$ (zasada Markovnikowa)
+- Utlenienie
+- __Polimeryzacja__
+
+Numerujemy od konca ktory ma wiecej wolnych polaczen
+
+$CH_3-(CH-Cl)-CH_2-(CH-Cl)-CH_2-CH_3$
+2,4-dichloroheksan
+
+Numerujemy tak zeby numery byly nizsze
+
+$CH_3-(CH-Cl)-CH_2-(CH-Br)-CH_2-CH_3$
+4-bromo,2-chloro,heksan
+Podstawiniki wymieniamy alfabetycznie (najpierw brom, potem chlor)
+
+$CH_3$ - grupa metylowa
+
+2-chloro 3,4-dimetylo heksan
+
+!!! NA PODSTAWIE WZORU SUMARYCZNEGO NARYSUJ WSZYSTKIE MOZLIWE STRUKTURY !!!
+
+Alkohol (zawiera grupe $OH$)
+
+4-chloro but-1-yn-3-ol
+4-chloro but-2-en-3-ol
+
+## Alkohole, fenole, aldehydy, ketony
+
+Węglowodory < alkohole < aldehydy i ketony < kwasy karboksylowe
+--- utlenienie --->
+
+### Alkohole
+Zwiazki organiczne, które posiadaja przynajmniej jedna hydroksylow grupę funkcyjna $-OH$
+
+Wzór ogólny: $R-OH$
+
+### Fenole
+
+Zwiazki organicznie w ktorych grupa hydroksylowa zwiazana jest z pierscieniem aromatycznym
+
+Wzór ogólny: $Ar-OH$
+
+### Nazwenictwo
+
+butan-1-ol
+pent-1-en-4-ol
+pent-1,4-dien-2-ol
+cyklohexan-1-ol
+5-chloro-3-etylo-4-fluoroheptan-2-ol
+
+### Rzedowosc alkoholi
+
+od czego zalezy rzedowosc alkoholi
+> ilosc innych wegli obok wegla do ktorego podłaczona jest grupa hydroksylowa
+
+### Pozyskiwanie
+
+- Fermentacja alkoholowa
+- Redukcja zwiazkow karboksylowych (proces odwrotny do utleniania)
+- Z halogenopochodnych weglowodorow
+
+aldehyd -> alkohol r1
+keton -> alkohol r2
+
+### Identyfikacja rzedowosci alkoholu
+
+Odczynnik Lucasa: $ZnCl_2/HCl$
+
+r1 -> brak reakcji
+r2 -> po podgrzaniu i po czasie
+r3 -> reakcja zachodzi natychmiast
+
+### Dehydratacja alkoholi
+
+Reguła zajcewa - wiazanie podwojne powstaje w takim miejscu by miec mozliwie najwieksza liczbe grup alkoholowych.
+
+### Tworzenie estrow
+
+alkohol + kwas karboksylowy -> ester
+
+### Utlenianie
+
+r1 -> aldehyd -> kwas karboksylowy
+r2 -> keton
+r3 -> brak reakcji
+
+Odczynnik Jonesa, $KMnO_4$, $CrO_3$, $Na_2Cr_2O_7$
+
+### Aldehydy
+
+Zwiazki organiczne ktore posiadaja przynajmniej jedna aldehydowa grupę fukncyjna przy pierwszym atomie wegla $R-CHO$
+
+### Ketony
+
+Zwiazki organiczne ktore posiadaja przynajmniej jedna karbonylowa grupę fukncyjna przy drugim atomie wegla $R=CO$
+
+Aceton to keton
+
+### Nazewnictwo
+
+propan-1-al
+4-fluoro-4-metylo-pentan-2-ol-1-al
+butan-2-on
+pentan-2-on

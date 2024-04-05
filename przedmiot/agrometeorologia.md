@@ -220,3 +220,63 @@ Fito klimat
  ciepło utajone topnienia
 
 ### Slajd 7
+
+## Chmury
+
+## Układy ciśnienia
+
+### Schemat cyrkulacji atmosfery
+
+- skala globalna
+- skala synoptyczna (do 1000km)
+- skala lokalna (od kilku do kilkudziesięciu km)
+
+## Masa atmosferyczna
+
+Właściwości:
+- Temperatura
+- Zawartość pary wodnej
+- Widzialność
+- Zapylenie
+
+## Powstawanie mas atmosferycznych
+
+Obszary źródłowe
+- masy powietrza akrtycznego
+- masy powietrza polarnego
+- masy powietrza zwrotnikowego
+- masy powietrza równikowego
+
+## Róża wiatrów
+
+## Rodzaje wiatrów
+
+Wiatry geostroficzne
+Wiatry cyklostroficzne
+Wiatry ageostroficzne
+Wiatry geotryptyczne
+
+## Wiatry gradientowe (wielkoskalowe ruchy mas powietrza)
+
+Wpływ:
+- gradient barometryczny
+- rodzaj podłoża
+- siła tarcia
+
+## wiatry lokalne (niewielkie obszary)
+
+## Wiatr halny (fen)
+
+- strona dowietrzna
+- strona zawietrzna
+
+## Bryza dzienna i nocna
+
+## Wiatr dolinny i górski
+
+## Front atmosferyczny
+
+- Front ciepły
+- Front chłodny
+- Front zokludowany
+- Front stacjonarny

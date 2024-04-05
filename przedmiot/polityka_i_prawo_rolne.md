@@ -95,4 +95,7 @@ PSE (producer support equivalent)
 - traktat rzymski
 - wpływa WTO na reformy WPR
 - Trakat z Maastricht
--
+
+## Wykład 4 (14.01.24r.)
+
+### WPR (wspólna polityka rolna)
