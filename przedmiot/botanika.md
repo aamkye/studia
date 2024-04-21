@@ -107,7 +107,6 @@ Powstaje po zakoczeniu mitozy w trakcie podziały cytoplazmy (cytokoineza)
   - Peryderma (korek)
     - Tkanka okrywająca u roślin wieloletnich powstająca w trakcie przyrostu na grubość
     - to jest ten sam materiał który jest wykorzystywany w winniarstwie.
-    -
 - Wzmacniające
 - Przewodzące
   - Ksylem (drewno)
@@ -181,3 +180,150 @@ roslina jednoliscienna
   (trawy, zborza, kukurydza) - przyrost na grubosc ograniczony
 roslina dwulicienna
   (krzewy, drzewa) - przyrost na grubosc nieograniczony
+
+## Liście
+
+### Rodzaje
+
+- liścienie
+- liście młodociane
+- liście listowia (właściwe)
+- liście przykwiatostanowe (podsadki)
+- liście przykwiatowe (przysadki)
+- łuskowate
+
+### Ulistnienie i osadzenie liście
+
+- skrętoległe
+- okółkowe
+- naprzeciwległe
+- naprzemianległe
+- różyczkowe
+
+### Nerwacja liścia
+
+"wiazki przewodzace" oraz unerwienie liścia
+
+### Rola liścia
+
+- Zbieranie światła
+- Wytwarzanie energii (fotosynteza)
+- Magazynowanie wody
+
+### Liście szpilkowe - np. igły sosny
+
+### Ochrona liści przed nadmiernym oświetleniem i transpiracj
+
+- Ustawienie liści do kierunku padajcego światła
+- Układ chloroplastów w komórce
+- Czerwona barwa liście, np. gryka
+- Odpicie promieni swietlnych - gładka lśnica skórka
+- Owłosienie - kutner
+- Liście z "okienkami", np. monstera
+- Zamykanie, zwijanie się liści, np. trawy
+
+### Opadanie liści
+
+- wytwarzanie warstwy odcinajcej
+- pęcznienie i rozpuszczanie blaszki środkowej w komórkach warstwy odcinajcej
+- wytwarzanie warstwy zabliźniajcej
+- opadnięcie liści (ciężar, mróz)
+
+## Rozmnażanie roślin
+
+- bezpółciowe
+  - podział komórek
+  - wegetatywne (podział roślin)
+    - rozłogi naziemne
+    - bulwy
+    - odkłady
+    - kłącza
+    - cebule
+    - szczepienie / oczkowanie
+      - regeneracja/odtwarzanie organizmu na podstawie tylko części organu na podkładce
+  - przez zarodniki
+- generatywne (półciowe)
+  - gameta męska + gameta żeńska -> zygota -> nasionka
+
+### Rozmnażanie to
+
+- wytwarzanie nowych osobników w celu
+  - zachowania ciągłości gatunku
+  - zwiększenia liczby osobników w populacji
+  - rozszerzenia zasięgu gatunku
+
+### Rozmnażanie roślin polega
+
+- podzieleniu całego organizmu na części
+- oddzieleniu od organizmu macierzystego specjalnych części w postaci
+  - poj. komórek
+  - grup komórek
+  - rożnych organów
+
+## Rośliny okrytonasienne/okrytozalążkowych (kwiatowe)
+
+- Kwiat jest organem generatywnym
+
+## Rośliny nagonasienne/nagozalążkowe (szlipkowe)
+
+### Kwiaty
+
+- Gamety męski
+  - Pręciik
+    - pylnik
+      - pyłek
+    - nitka pręcika
+  - Mikrosporogeneza
+- Gamety żeńskie
+  - zalążek
+    - zalążnia
+    - szyjka słupka
+    - znamię słupka
+  - Makrosporogeneza
+
+### Rodzaje kwiatów
+
+- Obopłciowe
+- Męskie
+- żeńskie
+
+ziarna pyłków
+
+### Mikrosporogeneza (pylniki)
+
+- komórka generatywna
+- komórka wegetatywna
+
+### Makrosporogeneza (zalążnie)
+
+- komórka jajowa
+- jądro wtórne (bielmo, skrobia, "pakiet startowy")
+
+### Podwójne zapłodnienie
+
+- jedna komórka w zarodek
+- dróga komórka w bielmo
+
+## Owoce
+
+### Budowa
+
+- Owocnia
+- Nasienie
+- Pestka (jest częścią owocni)
+
+### Podział
+
+- pojedyncze
+  - suche
+    - pękające
+    - niepękające
+  - miesiste
+- zlożone
+  - wielopestkowce
+  - wielomieszkowe
+  - wieloorzeszkowe
+- owocostany
+  - orzeszkowe
+  - pestkowce
+  - jagodowe

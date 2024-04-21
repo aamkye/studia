@@ -451,7 +451,7 @@ Alikny - conajmniej potrojne wiazanie
 
 !BEDZIE NA EGZAMINIE!
 
-Metan, Etan, Propan, Butan
+Metan, Etan, Propan, Butan, Pentan
 
 $C_n H_{2n+2}$
 
@@ -526,7 +526,7 @@ Alkohol (zawiera grupe $OH$)
 
 ## Alkohole, fenole, aldehydy, ketony
 
-Węglowodory < alkohole < aldehydy i ketony < kwasy karboksylowe
+Węglowodory (-) < alkohole (-OH) < aldehydy i ketony  < kwasy karboksylowe
 --- utlenienie --->
 
 ### Alkohole
@@ -602,3 +602,161 @@ propan-1-al
 4-fluoro-4-metylo-pentan-2-ol-1-al
 butan-2-on
 pentan-2-on
+
+## Kwasy karboksylowe i ich pochodne
+
+### Kwasy karboksylowe
+
+Zwiazki organiczne ktore skladaja sie z lancucha alkilowego lub grupy aromatycznej oraz karboksylowej grupy funkcyjnej (-COOH)
+
+- $HCOOH$ - kwas mrówkowy / kwas metanowy
+- $CH_{3}COOH$ - kwas octowy / kwas etanowy
+- $CH_3CH_2CH_2COOH$ - kwas masłowy / kwas butanowy
+
+### Otrzymywanie
+
+- fermentacja octowa
+
+### Redukcja (odwracanie)
+
+### Pochodne
+
+- chlorki kwasowe
+- estry
+- amidy
+- thioestry
+
+### Estry (będzie na egzaminie)
+
+Pochodna alkoholu i kwasu
+
+$R_1-CH_2-OH + (O + HO)-CH_2-R_2 => R_1-CH_2-O-CO-CH_2-R_2$
+
+Wiazanie estrowe - $O-CO$
+
+### Chlorki kwasowe
+
+kwas 2,4,6-Trimetylkobenzoesowego -> chlorek 2,4,6-Trimetylkobenzoesowego
+
+### Bezdodniki kwasowe
+
+- Potrzebna duża temperatura
+
+### Amidy
+
+Grupa aminowa ($NH_2$)
+
+### Kwasy karboksylowe
+
+Kwasy tłuszczowe - jedna grupa -COOH i conajmniej 3 atomy węgla (wliczajac ten z grupy -COOH). Moga występowac jako kwasy nasycone i nienasycone.
+
+NNKT - Niezbędne nienasycone kwasy tłuszczone - takie których nie jesteśmy w stanie syntezowac - trzeba dostarczac je z pokarmem.
+
+### Kwasy nasycone
+
+- tylko pojedyncze wiazania pomiedzy atomami wegla
+
+### Kwasy nienasycone
+
+- występuja wiazania podwojne i potrojne
+
+### Omega3 i 6
+
+Kwasy omega liczy się od tyłu, gdzie zaczynaja się wiazania podwojne
+
+### Lotne kwasy tłuszczowe
+
+LKT - od 2 do 8 atomow wegla - sa produktem fermentacji blonnika pokarmowego
+
+### Lipidy - tłuszcze
+
+- Lipidy
+  - Kwasy tłuszczowe
+    - Woski
+    - TAG
+    - DAG
+    - MAG
+    - Fosfolipidy
+  - Steroidy
+
+### TAGs (Triacyroglicerol)
+
+Glicerol (grupa polioi) + 3 kwas tłuszczowy
+
+### DAGs (Diacyroglicerol)
+
+Glicerol (grupa polioi) + 2 kwas tłuszczowy
+
+### MAGs (Monoacyroglicerol)
+
+Glicerol (grupa polioi) + 1 kwas tłuszczowy
+
+## Aminokwasy peptydy białka i węglowodane
+
+### Aminokwasy
+
+Związki organiczne któe składają się z łańcucha alkinowego lub grupy aromatycznej, aminowej grupy funkcyjnej ($-NH_2$) oraz karboksylowej grupy funkcyjnej ($-COOH$)
+
+#### Przeglad (będzie na kolokwium)
+
+- Endogenne (sami syntezujemy)
+  - Glicyna, Alanina
+- Exogenne (musimy dostarczać z zewnątrz)
+  - tryptofan
+
+#### Punkt izoelektryczny
+
+pI - to wartość pH przy której stężnie jonu obajnaczego aminokwasu przyjmuje maksymalną wartość, przy równoczesnym, minimalnym stężeniu form anionowej i kationowej aminokwasu.
+
+### Peptydy, oligopeptydy
+
+Aminokwasy łączą się tworząc ciągi, które nazywami peptydami i polipeptydami, przez wiązanie peptydowe. (wiązania i końce peptydów)
+
+### Białka
+
+Funkcje:
+- enzymatyczna
+- transportowa
+- ruchowa
+- budulcowa
+- immunologiczne
+- regulatorowa
+
+### Poziomy organizacji białek (aminokwasów)
+
+## Węglowodany (cukry, sacharydy)
+
+Związki organiczne będące ketonami lub aldehydami (-COH) i zawierające hydroksylowe grupy funkcyjne (-OH). Na każdy atom węgla przypadają dwa atomy wodoru i jeden atom tlenu.
+
+- sacharydy
+  - monosacharydy (max 7 węgli $C$)
+  - sacharydy złożone
+    - oligosacharydy (do 10 cząsteczek cukru)
+    - polisacharydy
+
+- Aldozy (aldehydy)
+- Ketozy (ketony)
+
+### Projekcje
+
+- Fishera (prezentacja do zapisywania reakcji)
+- Howortha (prezentacja przestrzenna)
+
+### Konfiguracje wzgledna D i L
+
+- D-Fruktoza
+- L-Fruktoza
+
+## Disacharydy
+
+Sacharoza (Fruktoza + Glukoza)
+Laktoza (Galaktoza + Glukoza)
+Maltoza (Glukoza + Glukoza)
+
+## Polisacharydy (roślinne)
+
+Skrobia (Amyloza x razy)
+
+## Polisacharydy (zwierzęce)
+
+Glikogen (Glukoza x razy)

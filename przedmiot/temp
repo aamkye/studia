@@ -646,21 +646,19 @@ Zespót QRS: prawidlowy (0,06-0,1 sek.)
 
 # Paszkoznawstwo
 
-## Kolokwium 9.06
-- definicja paszy
-- metoda Weedeńska (rysunek)
-- dlaczego popiół nazywamy surowym? (bo może mieć zanieczyszczenia)
-- dlaczego białko nazywamy ogólnym?
-- podaj def strawności
-- podać różnice metoda bilansowa i wskaźnikowa
-- cechy dobrego wskaźnika (indykadora)
-- czynniki wpływające na strawność, zwierze i pasza
+3 kolosy
 
-## Kolokwium pasze 23.06
+- pierwsze 4 tematy
+  -
+  -
+  -
+  -
 - objętościowe (zaproponować przedstawiciela)
 - treściwe (zaproponować przedstawiciela)
 
-## Pasze pochodzenia roślinnego
+- KOLOS PIERWSZE ZAJĘCIA CZERWCA
+
+## Pasze pochodzenia roślinnego (kolokwium)
 
 Pasza - materiał pochodzenia roślinnego, zwierzęcego lub mineralnego stosowany w żywieniu zwierząt gospodarskich
 
@@ -726,8 +724,8 @@ Pasze mogą być jednocześnie z kilku grup.
 
 ##### Sub. mineralne
 
-- Ca 16g / kg s.m.
-- P 3g / kg s.m. (zwierze musi umieć wykorzystać ogólny fosfor)
+- Ca 16g / 1kg s.m.
+- P 3g / 1kg s.m. (zwierze musi umieć wykorzystać ogólny fosfor)
 
 ##### Zastosowanie
 
@@ -924,8 +922,6 @@ BO = 351g/kg
 
 ### Weedeńska (będzie na kolokwium)
 
-![Metoda Weedeńska](../obrazki/fizjologia_zwierzat/metoda_weedenska.png)<br>
-
 - sucha masa
 - popiół surowy
 - włukno surowe
@@ -937,7 +933,7 @@ BO = 351g/kg
 
 Sucha masa + woda = 100%
 
-Suszenie w $105^oC$
+Suszenie w 105*C
 
 ### Zawartość wody
 
@@ -992,96 +988,50 @@ Związki nieorganiczne paszy które oznacza się przez spalenie próbki umieszcz
 
 ## Zawartość składników pokarmowych
 
-### Ćw. 9
+- N% = 0.35%
+- współczynnik podsuszenia = 0.244
+- swieże-suche = 100/23 = 4.35
 
-- N% = $0.35\%$
-- ${\color{red}\text{współczynnik podsuszenia}} = 0.244$
-- swieże-suche = $\frac{100}{23} = 4.35$
+| Składniki pokarmowe % | Materiał świeży                 | Materiał podsuszony | W suchej masie     |
+| --------------------- | ------------------------------- | ------------------- | ------------------ |
+| Woda                  | 100-23 = 77.0                   | -                   | 0.0                |
+| Sucha masa (SM)       | __23.0__                        | -                   | 100                |
+| Białko ogólne         | 0.35% * 6.25 = 2.19             | 2.19/0.244 = 8.98   | 2.19*4.35 = 9.53   |
+| Tłuszcz surowy        | 0.8*0.244 = 0.20                | __0.8__             | 0.8*4.35 = 3.48    |
+| Włókno surowe         | 3.3*0.244 = 0.81                | __3.3__             | 3.3*4.35 = 14.35   |
+| Popiół surowy         | 7.4*0.244 = 1.81                | __7.4__             | 7.4*4.35 = 32.19   |
+| Związki BAW           | 23-(2.19+0.2+0.81+1.81) = 17.99 | 17.99/0.244 = 73.73 | 17.99*4.35 = 78.26 |
+|                       |                                 |                     |                    |
 
-| Składniki pokarmowe % | Materiał świeży                   | Materiał podsuszony           | W suchej masie           |
-| --------------------- | --------------------------------- | ----------------------------- | ------------------------ |
-| Woda                  | $100-23 = 77.0$                   | $-$                           | $0.0$                    |
-| Sucha masa (SM)       | $\color{green}23.0$               | $-$                           | $100$                    |
-| Białko ogólne         | $0.35\% \cdot 6.25 = 2.19$        | $\frac{2.19}{0.244} = 8.98$   | $2.19\cdot4.35 = 9.53$   |
-| Tłuszcz surowy        | $0.8\cdot0.244 = 0.20$            | $\color{green}0.8$            | $0.8\cdot4.35 = 3.48$    |
-| Włókno surowe         | $3.3\cdot0.244 = 0.81$            | $\color{green}3.3$            | $3.3\cdot4.35 = 14.35$   |
-| Popiół surowy         | $7.4\cdot0.244 = 1.81$            | $\color{green}7.4$            | $7.4\cdot4.35 = 32.19$   |
-| Związki BAW           | $23-(2.19+0.2+0.81+1.81) = 17.99$ | $\frac{17.99}{0.244} = 73.73$ | $17.99\cdot4.35 = 78.26$ |
+---
+- N% = 6.068%
+- swieże-suche = 100/88.2 = 1.14
 
-### Ćw. 10
-
-- N% = $6.068\%$
-- swieże-suche = $\frac{100}{88.2} = 1.14$
-
-| Składniki pokarmowe % | Materiał świeży                     | Materiał podsuszony | W suchej masie           |
-| --------------------- | ----------------------------------- | ------------------- | ------------------------ |
-| Woda                  | $100-88.2 = 11.8$                   | $-$                 | $0.0$                    |
-| Sucha masa (SM)       | $\color{green}88.2$                 | $-$                 | $100$                    |
-| Białko ogólne         | $6.068\cdot6.25 = 37.93$            | $-$                 | $37.93\cdot1.14 = 43.24$ |
-| Tłuszcz surowy        | $2.4$                               | $\color{green}2.4$  | $2.4\cdot1.14 = 2.74$    |
-| Włókno surowe         | $11.0$                              | $\color{green}11.0$ | $11.0\cdot1.14 = 12.54$  |
-| Popiół surowy         | $7.5$                               | $\color{green}7.5$  | $7.5\cdot1.14 = 8.55$    |
-| Związki BAW           | $88.2-(37.93+2.4+11.0+7.5) = 29.37$ | $-$                 | $29.37\cdot1.14 = 33.48$ |
+| Składniki pokarmowe % | Materiał świeży                   | Materiał podsuszony | W suchej masie     |
+| --------------------- | --------------------------------- | ------------------- | ------------------ |
+| Woda                  | 100-88.2 = 11.8                   |                     | 0.0                |
+| Sucha masa (SM)       | __88.2__                          |                     | 100                |
+| Białko ogólne         | 6.068*6.25 = 37.93                |                     | 37.93*1.14 = 43.24 |
+| Tłuszcz surowy        | 2.4                               | __2.4__             | 2.4*1.14 = 2.74    |
+| Włókno surowe         | 11.0                              | __11.0__            | 11.0*1.14 = 12.54  |
+| Popiół surowy         | 7.5                               | __7.5__             | 7.5*1.14 = 8.55    |
+| Związki BAW           | 88.2-(37.93+2.4+11.0+7.5) = 29.37 |                     | 29.37*1.14 = 33.48 |
 
 ## Wyznaczanie strawności
 
-### Metoda bilansowa
+### metoda bilansowa
 
-- WS (%) = $\frac{\text{g pobrane z paszy} - \text{g wydalone w kale}}{\text{g pobrane z paszy}} \cdot 100$
-- WS (%) = $\frac{\text{g strawione}}{\text{g pobrane z paszy}} \cdot 100$
+- WS (%) = $\frac{\text{pobranego w paszy} - \text{wydalonego w kale}}{\text{pobranego w paszy}} \cdot 100$
+- WS (%) = $\frac{\text{strawionego}}{\text{pobranego w paszy}} \cdot 100$
 
-### Metoda wskaźnikowa
+### metoda wskaźnikowa
 
-- WS (%) = $100-100\cdot\frac{\text{\% wskaź. w paszy}}{\text{\% wskaź. w kale}}\cdot\frac{\text{\% skł. w kale}}{\text{\% skł. w paszy}}$
+- WS (%) = $100-100\cdot\frac{\text{wskaź. w paszy}}{\text{wskaź. w kale}}\cdot\frac{\text{skł. w kale}}{\text{skł. w paszy}}$
 
-### Ćw. 9
+# Kolokwium 9.06
+- podaj def strawności
+- podać różnice metoda bilansowa i wskaźnikowa
+- cechy dobrego wskaźnika (indykadora)
+- czynniki wpływające na strawność, zwierze i pasza
 
-- pobrano 5.8kg paszy
-- wydalono 3.7kg w kale
-- wsp. wskaźnika: $\frac{0.5}{0.794} = 0.6297$
-
-| Składnik  | Białko | Tłuszcz | Włókno | BAW    | $Cr_2O_3$ |
-| --------- | ------ | ------- | ------ | ------ | --------- |
-| Pasza (%) | $2.2$  | $0.2$   | $0.8$  | $18.0$ | $0.5$     |
-| Kał (%)   | $1.1$  | $0.1$   | $0.4$  | $0.9$  | $0.794$   |
-
-Metoda bilansowa:
-
-| Składnik            | Białko                   | Tłuszcz                | Włókno                  | BAW                         |
-| ------------------- | ------------------------ | ---------------------- | ----------------------- | --------------------------- |
-| Skł. pobrane (g)    | $0.022\cdot5.8 = 128$    | $0.002\cdot5.8 = 12$   | $0.008\cdot5.8 = 46$    | $0.18\cdot5.8 = 1044$       |
-| Skł. wydalone (g)   | $0.011\cdot3.7 = 41$     | $0.001\cdot3.7 = 4$    | $0.004\cdot3.7 = 15$    | $0.009\cdot3.7 = 33$        |
-| Skł. strawione (g)  | $128-41 = 87$            | $12-4 = 8$             | $46-15 = 31$            | $1044-33 = 1011$            |
-| Wsp. strawności (%) | $\frac{87}{128} = 67.97$ | $\frac{8}{12} = 67.00$ | $\frac{31}{46} = 67.40$ | $\frac{1011}{1044} = 96.84$ |
-
-Metoda wskaźnikowa:
-
-| Składnik            | Białko                                           | Tłuszcz                                 | Włókno                                  | BAW                                    |
-| ------------------- | ------------------------------------------------ | --------------------------------------- | --------------------------------------- | -------------------------------------- |
-| Wsp. strawności (%) | $100-100\cdot0.6297\cdot\frac{1.1}{2.2} = 68.51$ | $100-62.97\cdot\frac{0.1}{0.2} = 68.51$ | $100-62.97\cdot\frac{0.4}{0.8} = 68.51$ | $100-62.97\cdot\frac{0.9}{18} = 96.85$ |
-
-### Ćw. 10
-
-- pobrano 0.8kg paszy
-- wydalono 0.32kg w kale
-- wsp. wskaźnika: $\frac{0.5}{1.25} = 0.4$
-
-| Składnik  | Białko | Tłuszcz | Włókno | BAW    | $Cr_2O_3$ |
-| --------- | ------ | ------- | ------ | ------ | --------- |
-| Pasza (%) | $37.9$ | $2.4$   | $11.0$ | $29.4$ | $0.50$    |
-| Kał (%)   | $20.9$ | $2.3$   | $17.1$ | $16.2$ | $1.25$    |
-
-Metoda bilansowa:
-
-| Składnik            | Białko                    | Tłuszcz                 | Włókno                 | BAW                       |
-| ------------------- | ------------------------- | ----------------------- | ---------------------- | ------------------------- |
-| Skł. pobrane (g)    | $0.379\cdot0.8 = 303$     | $0.024\cdot0.8 = 19$    | $0.11\cdot0.8 = 88$    | $0.294\cdot0.8 = 235$     |
-| Skł. wydalone (g)   | $0.209\cdot0.32 = 67$     | $0.023\cdot0.32 = 7$    | $0.171\cdot0.32 = 55$  | $0.162\cdot0.32 = 52$     |
-| Skł. strawione (g)  | $303-67 = 236$            | $19-7 = 12$             | $88-55 = 33$           | $235-52 = 183$            |
-| Wsp. strawności (%) | $\frac{236}{303} = 77.89$ | $\frac{12}{19} = 63.16$ | $\frac{33}{88} = 37.5$ | $\frac{183}{235} = 77.87$ |
-
-Metoda wskaźnikowa:
-
-| Składnik            | Białko                                            | Tłuszcz                                  | Włókno                                  | BAW                                      |
-| ------------------- | ------------------------------------------------- | ---------------------------------------- | --------------------------------------- | ---------------------------------------- |
-| Wsp. strawności (%) | $100-100\cdot0.4\cdot\frac{0.209}{0.379} = 77.94$ | $100-40\cdot\frac{0.023}{0.024} = 61.67$ | $100-40\cdot\frac{0.171}{0.11} = 37.82$ | $100-40\cdot\frac{0.162}{0.294} = 77.96$ |
+# Kolokwium pasze 23.06
