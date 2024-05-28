@@ -346,32 +346,36 @@ Związki nieorganiczne paszy które oznacza się przez spalenie próbki umieszcz
 
 #### bezazotowe wyciągowe
 
+## Mierniki wartości energetycznej
+
+
+
 # Ćwiczenia Pasze
 
 ## Zawartość składników pokarmowych
 
 ### Ćw. 9
 
-- N% = $0.35\%$
+- N$\%$ = $0.35\%$
 - ${\color{red}\text{współczynnik podsuszenia}} = 0.244$
 - swieże-suche = $\frac{100}{23} = 4.35$
 
-| Składniki pokarmowe % | Materiał świeży                   | Materiał podsuszony           | W suchej masie           |
-| --------------------- | --------------------------------- | ----------------------------- | ------------------------ |
-| Woda                  | $100-23 = 77.0$                   | $-$                           | $0.0$                    |
-| Sucha masa (SM)       | $\color{green}23.0$               | $-$                           | $100$                    |
-| Białko ogólne         | $0.35\% \cdot 6.25 = 2.19$        | $\frac{2.19}{0.244} = 8.98$   | $2.19\cdot4.35 = 9.53$   |
-| Tłuszcz surowy        | $0.8\cdot0.244 = 0.20$            | $\color{green}0.8$            | $0.8\cdot4.35 = 3.48$    |
-| Włókno surowe         | $3.3\cdot0.244 = 0.81$            | $\color{green}3.3$            | $3.3\cdot4.35 = 14.35$   |
-| Popiół surowy         | $7.4\cdot0.244 = 1.81$            | $\color{green}7.4$            | $7.4\cdot4.35 = 32.19$   |
-| Związki BAW           | $23-(2.19+0.2+0.81+1.81) = 17.99$ | $\frac{17.99}{0.244} = 73.73$ | $17.99\cdot4.35 = 78.26$ |
+| Składniki pokarmowe $\%$ | Materiał świeży                   | Materiał podsuszony           | W suchej masie           |
+| ------------------------ | --------------------------------- | ----------------------------- | ------------------------ |
+| Woda                     | $100-23 = 77.0$                   | $-$                           | $0.0$                    |
+| Sucha masa (SM)          | $\color{green}23.0$               | $-$                           | $100$                    |
+| Białko ogólne            | $0.35\% \cdot 6.25 = 2.19$        | $\frac{2.19}{0.244} = 8.98$   | $2.19\cdot4.35 = 9.53$   |
+| Tłuszcz surowy           | $0.8\cdot0.244 = 0.20$            | $\color{green}0.8$            | $0.8\cdot4.35 = 3.48$    |
+| Włókno surowe            | $3.3\cdot0.244 = 0.81$            | $\color{green}3.3$            | $3.3\cdot4.35 = 14.35$   |
+| Popiół surowy            | $7.4\cdot0.244 = 1.81$            | $\color{green}7.4$            | $7.4\cdot4.35 = 32.19$   |
+| Związki BAW              | $23-(2.19+0.2+0.81+1.81) = 17.99$ | $\frac{17.99}{0.244} = 73.73$ | $17.99\cdot4.35 = 78.26$ |
 
 ### Ćw. 10
 
-- N% = $6.068\%$
+- N$\%$ = $6.068\%$
 - swieże-suche = $\frac{100}{88.2} = 1.14$
 
-| Składniki pokarmowe % | Materiał świeży                     | Materiał podsuszony | W suchej masie           |
+| Składniki pokarmowe $\%$ | Materiał świeży                     | Materiał podsuszony | W suchej masie           |
 | --------------------- | ----------------------------------- | ------------------- | ------------------------ |
 | Woda                  | $100-88.2 = 11.8$                   | $-$                 | $0.0$                    |
 | Sucha masa (SM)       | $\color{green}88.2$                 | $-$                 | $100$                    |
@@ -385,12 +389,12 @@ Związki nieorganiczne paszy które oznacza się przez spalenie próbki umieszcz
 
 ### Metoda bilansowa
 
-- WS (%) = $\frac{\text{g pobrane z paszy} - \text{g wydalone w kale}}{\text{g pobrane z paszy}} \cdot 100$
-- WS (%) = $\frac{\text{g strawione}}{\text{g pobrane z paszy}} \cdot 100$
+- WS ($\%$) = $\frac{\text{g pobrane z paszy} - \text{g wydalone w kale}}{\text{g pobrane z paszy}} \cdot 100$
+- WS ($\%$) = $\frac{\text{g strawione}}{\text{g pobrane z paszy}} \cdot 100$
 
 ### Metoda wskaźnikowa
 
-- WS (%) = $100-100\cdot\frac{\text{\% wskaź. w paszy}}{\text{\% wskaź. w kale}}\cdot\frac{\text{\% skł. w kale}}{\text{\% skł. w paszy}}$
+- WS ($\%$) = $100-100\cdot\frac{\text{\% wskaź. w paszy}}{\text{\% wskaź. w kale}}\cdot\frac{\text{\% skł. w kale}}{\text{\% skł. w paszy}}$
 
 ### Ćw. 9
 
@@ -400,23 +404,23 @@ Związki nieorganiczne paszy które oznacza się przez spalenie próbki umieszcz
 
 | Składnik  | Białko | Tłuszcz | Włókno | BAW    | $Cr_2O_3$ |
 | --------- | ------ | ------- | ------ | ------ | --------- |
-| Pasza (%) | $2.2$  | $0.2$   | $0.8$  | $18.0$ | $0.5$     |
-| Kał (%)   | $1.1$  | $0.1$   | $0.4$  | $0.9$  | $0.794$   |
+| Pasza ($\%$) | $2.2$  | $0.2$   | $0.8$  | $18.0$ | $0.5$     |
+| Kał ($\%$)   | $1.1$  | $0.1$   | $0.4$  | $0.9$  | $0.794$   |
 
 Metoda bilansowa:
 
-| Składnik            | Białko                   | Tłuszcz                | Włókno                  | BAW                         |
-| ------------------- | ------------------------ | ---------------------- | ----------------------- | --------------------------- |
-| Skł. pobrane (g)    | $0.022\cdot5.8 = 128$    | $0.002\cdot5.8 = 12$   | $0.008\cdot5.8 = 46$    | $0.18\cdot5.8 = 1044$       |
-| Skł. wydalone (g)   | $0.011\cdot3.7 = 41$     | $0.001\cdot3.7 = 4$    | $0.004\cdot3.7 = 15$    | $0.009\cdot3.7 = 33$        |
-| Skł. strawione (g)  | $128-41 = 87$            | $12-4 = 8$             | $46-15 = 31$            | $1044-33 = 1011$            |
-| Wsp. strawności (%) | $\frac{87}{128} = 67.97$ | $\frac{8}{12} = 67.00$ | $\frac{31}{46} = 67.40$ | $\frac{1011}{1044} = 96.84$ |
+| Składnik               | Białko                   | Tłuszcz                | Włókno                  | BAW                         |
+| ---------------------- | ------------------------ | ---------------------- | ----------------------- | --------------------------- |
+| Skł. pobrane (g)       | $0.022\cdot5.8 = 128$    | $0.002\cdot5.8 = 12$   | $0.008\cdot5.8 = 46$    | $0.18\cdot5.8 = 1044$       |
+| Skł. wydalone (g)      | $0.011\cdot3.7 = 41$     | $0.001\cdot3.7 = 4$    | $0.004\cdot3.7 = 15$    | $0.009\cdot3.7 = 33$        |
+| Skł. strawione (g)     | $128-41 = 87$            | $12-4 = 8$             | $46-15 = 31$            | $1044-33 = 1011$            |
+| Wsp. strawności ($\%$) | $\frac{87}{128} = 67.97$ | $\frac{8}{12} = 67.00$ | $\frac{31}{46} = 67.40$ | $\frac{1011}{1044} = 96.84$ |
 
 Metoda wskaźnikowa:
 
 | Składnik            | Białko                                           | Tłuszcz                                 | Włókno                                  | BAW                                    |
 | ------------------- | ------------------------------------------------ | --------------------------------------- | --------------------------------------- | -------------------------------------- |
-| Wsp. strawności (%) | $100-100\cdot0.6297\cdot\frac{1.1}{2.2} = 68.51$ | $100-62.97\cdot\frac{0.1}{0.2} = 68.51$ | $100-62.97\cdot\frac{0.4}{0.8} = 68.51$ | $100-62.97\cdot\frac{0.9}{18} = 96.85$ |
+| Wsp. strawności ($\%$) | $100-100\cdot0.6297\cdot\frac{1.1}{2.2} = 68.51$ | $100-62.97\cdot\frac{0.1}{0.2} = 68.51$ | $100-62.97\cdot\frac{0.4}{0.8} = 68.51$ | $100-62.97\cdot\frac{0.9}{18} = 96.85$ |
 
 ### Ćw. 10
 
@@ -424,10 +428,10 @@ Metoda wskaźnikowa:
 - wydalono 0.32kg w kale
 - wsp. wskaźnika: $\frac{0.5}{1.25} = 0.4$
 
-| Składnik  | Białko | Tłuszcz | Włókno | BAW    | $Cr_2O_3$ |
-| --------- | ------ | ------- | ------ | ------ | --------- |
-| Pasza (%) | $37.9$ | $2.4$   | $11.0$ | $29.4$ | $0.50$    |
-| Kał (%)   | $20.9$ | $2.3$   | $17.1$ | $16.2$ | $1.25$    |
+| Składnik     | Białko | Tłuszcz | Włókno | BAW    | $Cr_2O_3$ |
+| ------------ | ------ | ------- | ------ | ------ | --------- |
+| Pasza ($\%$) | $37.9$ | $2.4$   | $11.0$ | $29.4$ | $0.50$    |
+| Kał ($\%$)   | $20.9$ | $2.3$   | $17.1$ | $16.2$ | $1.25$    |
 
 Metoda bilansowa:
 
@@ -436,10 +440,119 @@ Metoda bilansowa:
 | Skł. pobrane (g)    | $0.379\cdot0.8 = 303$     | $0.024\cdot0.8 = 19$    | $0.11\cdot0.8 = 88$    | $0.294\cdot0.8 = 235$     |
 | Skł. wydalone (g)   | $0.209\cdot0.32 = 67$     | $0.023\cdot0.32 = 7$    | $0.171\cdot0.32 = 55$  | $0.162\cdot0.32 = 52$     |
 | Skł. strawione (g)  | $303-67 = 236$            | $19-7 = 12$             | $88-55 = 33$           | $235-52 = 183$            |
-| Wsp. strawności (%) | $\frac{236}{303} = 77.89$ | $\frac{12}{19} = 63.16$ | $\frac{33}{88} = 37.5$ | $\frac{183}{235} = 77.87$ |
+| Wsp. strawności ($\%$) | $\frac{236}{303} = 77.89$ | $\frac{12}{19} = 63.16$ | $\frac{33}{88} = 37.5$ | $\frac{183}{235} = 77.87$ |
 
 Metoda wskaźnikowa:
 
 | Składnik            | Białko                                            | Tłuszcz                                  | Włókno                                  | BAW                                      |
 | ------------------- | ------------------------------------------------- | ---------------------------------------- | --------------------------------------- | ---------------------------------------- |
-| Wsp. strawności (%) | $100-100\cdot0.4\cdot\frac{0.209}{0.379} = 77.94$ | $100-40\cdot\frac{0.023}{0.024} = 61.67$ | $100-40\cdot\frac{0.171}{0.11} = 37.82$ | $100-40\cdot\frac{0.162}{0.294} = 77.96$ |
+| Wsp. strawności ($\%$) | $100-100\cdot0.4\cdot\frac{0.209}{0.379} = 77.94$ | $100-40\cdot\frac{0.023}{0.024} = 61.67$ | $100-40\cdot\frac{0.171}{0.11} = 37.82$ | $100-40\cdot\frac{0.162}{0.294} = 77.96$ |
+
+## Wyznaczanie wartości energetycznej
+
+### Ćw. 9
+
+Olicz `NEL` w parowanych, kiszonych ziemniakach
+
+| Składnik paszy | Składniki surowe ($\%$/kg) | współczynnik strawności ($\%$) | składniki strawne (kg) |     |     |
+| -------------- | -------------------------- | ------------------------------ | ---------------------- | --- | --- |
+| Białko         | 2.2                        | 68                             | 1.496                  |     |     |
+| Tłuszcz        | 0.2                        | 75                             | 0.15                   |     |     |
+| Włókno         | 0.8                        | 69                             | 0.552                  |     |     |
+| BAW            | 18                         | 97                             | 17.46                  |     |     |
+
+| Składnik paszy | Składniki surowe (g/kg) | składniki strawne (g/kg) | Współczynnik EM | W. EB   | EM (MJ/kg)              | EB (MJ/kg)           |
+| -------------- | ----------------------- | ------------------------ | --------------- | ------- | ----------------------- | -------------------- |
+| Białko         | 22                      | 14.96                    | 0.0152          | 0.0242  | 0.0152 * 14.96 = 0.2274 | 0.0242 * 22 = 0.5324 |
+| Tłuszcz        | 2                       | 1.5                      | 0.0342          | 0.0366  | 0.0342 * 1.5 = 0.0513   | 0.0366 * 2 = 0.0732  |
+| Włókno         | 8                       | 5.52                     | 0.0128          | 0.0209  | 0.0128 * 5.52 = 0.0707  | 0.0209 * 8 = 0.1672  |
+| BAW            | 180                     | 174.6                    | 0.0159          | 0.0170  | 0.0159 * 174.6 = 2.7761 | 0.0170 * 180 = 3.06  |
+| Cukry          | -                       | -                        | -0.0007         | -0.0007 |                         |                      |
+
+Q = 100*EM/EB = **81.74**\
+EM = 0.2274 + 0.0513 + 0.0707 + 2.7761 = **3.1255**\
+EB = 0.5324 + 0.0732 + 0.1672 + 3.06 = **3.8328**\
+NEL (MJ/kg) = 0.6*(1+0.004*(Q-57))*EM = 0.6*(1+0.04*(81.74-57))*3.1255 = **2.0609**
+
+### Ćw. 10
+
+Olicz `NEL` w poekstrakcyjnej śrucie rzepakowej
+
+| Składnik paszy | Składniki surowe ($\%$/kg) | współczynnik strawności ($\%$) | składniki strawne (kg) |     |     |
+| -------------- | -------------------------- | ------------------------------ | ---------------------- | --- | --- |
+| Białko         | 37.9                       | 78                             | 29.562                 |     |     |
+| Tłuszcz        | 2.4                        | 61                             | 1.464                  |     |     |
+| Włókno         | 11                         | 38                             | 4.18                   |     |     |
+| BAW            | 29.4                       | 78                             | 22.932                 |     |     |
+
+| Składnik paszy | Składniki surowe (g/kg) | składniki strawne (g/kg) | Współczynnik EM | W. EB   | EM (MJ/kg)               | EB (MJ/kg)            |
+| -------------- | ----------------------- | ------------------------ | --------------- | ------- | ------------------------ | --------------------- |
+| Białko         | 379                     | 295.62                   | 0.0152          | 0.0242  | 0.0152 * 295.62 = 4.4934 | 0.0242 * 379 = 9.1718 |
+| Tłuszcz        | 24                      | 14.64                    | 0.0342          | 0.0366  | 0.0342 * 14.64 = 0.5007  | 0.0366 * 24 = 0.8784  |
+| Włókno         | 110                     | 41.8                     | 0.0128          | 0.0209  | 0.0128 * 41.8 = 0.535    | 0.0209 * 110 = 2.299  |
+| BAW            | 294                     | 229.32                   | 0.0159          | 0.0170  | 0.0159 * 229.32 = 3.6462 | 0.0170 * 294 = 0.493  |
+| Cukry          | -                       | -                        | -0.0007         | -0.0007 |                          |                       |
+
+Q = 100*EM/EB = **71.42**\
+EM = 4.4934 + 0.5007 + 0.535 + 3.6462 = **9.1718**\
+EB = 9.1718 + 0.8784 + 2.299 + 0.493 = **12.8422**\
+NEL (MJ/kg) = 0.6*(1+0.004*(Q-57))*EM = 0.6*(1+0.004*(71.42-57))*9.1718 = **5.8202**
+
+## Obliczanie białka
+
+### Ćw. 11
+
+Oblicz WBB białka metodą Osera i Blocka-mitchella w parowanych ziemniakach
+
+Zawartość aminokwasów w przeliczeniu na 16g N*
+
+| Aminokwas      | Zawartość aminokwasów w paszy (g/kg) | Pasza* | Jajo* | Stosunek ($\%$) | Stosunek poprawiony ($\%$) | Log. poprawionego stosunku |
+| -------------- | ------------------------------------ | ------ | ----- | --------------- | -------------------------- | -------------------------- |
+| Histydyna      | 0.4                                  | 1.8182 | 2.4   | 75.76           | 76                         | 1.8808                     |
+| Lizyna         | 1.2                                  | 5.4545 | 7.0   | 77.92           | 78                         | 1.8921                     |
+| Fenyloamina    | 0.9                                  | 4.0909 | 6.3   | 64.93           | -                          | -                          |
+| Tyrozyna       | 0.6                                  | 2.7273 | 4.5   | 60.61           | -                          | -                          |
+| Fen + Tyr      | 1.5                                  | 6.8182 | 10.8  | 63.13           | 63                         | 1.7993                     |
+| Tryptofan      | 0.3                                  | 1.3636 | 1.5   | 90.91           | 91                         | 1.959                      |
+| Metionina      | 0.3                                  | 1.3636 | 4.0   | 34.09           | -                          | -                          |
+| Cystyna        | 0.4                                  | 1.8182 | 2.4   | 75.76           | -                          | -                          |
+| Met + Cys      | 0.7                                  | 3.1818 | 6.4   | 49.72           | 50                         | 1.699                      |
+| Teronina       | 0.8                                  | 3.6364 | 4.3   | 84.57           | 85                         | 1.9294                     |
+| Leucyna        | 1.4                                  | 6.3636 | 9.2   | 69.17           | 69                         | 1.8388                     |
+| **Izoleucyna** | 0.7                                  | 3.1818 | 7.7   | 41.32           | 41                         | 1.6128                     |
+| Walina         | 0.9                                  | 4.0909 | 7.2   | 56.82           | 57                         | 1.7559                     |
+| Białko         | 22.0                                 |        |       | np 120          | 100                        | 2                          |
+
+kg   | 22/kg - 0.4
+100g | 100/22 * 0.4
+1.81818
+
+Średni logarytm =
+Wskaźnik aminokwasowy = odwrócony log średniego logarytmu
+Aminokwas ograniczający
+
+### Ćw. 12
+
+Oblicz WBB białka metodą Osera i Blocka-mitchella w nasionach bobiku
+
+Zawartość aminokwasów w przeliczeniu na 16g N*
+
+| Aminokwas   | Zawartość aminokwasów w paszy (g/kg) | Pasza* | Jajo* | Stosunek ($\%$) | Stosunek poprawiony ($\%$) | Log. poprawionego stosunku |
+| ----------- | ------------------------------------ | ------ | ----- | --------------- | -------------------------- | -------------------------- |
+| Histydyna   | 7.2                                  |        | 2.4   |                 |                            |                            |
+| Lizyna      | 17.7                                 |        | 7.0   |                 |                            |                            |
+| Fenyloamina | 11.5                                 |        | 6.3   |                 | -                          | -                          |
+| Tyrozyna    | 8.8                                  |        | 4.5   |                 | -                          | -                          |
+| Fen + Tyr   | 20.4                                 |        | 10.8  |                 |                            |                            |
+| Tryptofan   | 2.4                                  |        | 1.5   |                 |                            |                            |
+| Metionina   | 2.1                                  |        | 4.0   |                 | -                          | -                          |
+| Cystyna     | 3.2                                  |        | 2.4   |                 | -                          | -                          |
+| Met + Cys   | 5.4                                  |        | 6.4   |                 |                            |                            |
+| Teronina    | 9.9                                  |        | 4.3   |                 |                            |                            |
+| Leucyna     | 20.9                                 |        | 9.2   |                 |                            |                            |
+| Izoleucyna  | 11.3                                 |        | 7.7   |                 |                            |                            |
+| Walina      | 12.9                                 |        | 7.2   |                 |                            |                            |
+| Białko      | 268                                  |        |       |                 |                            |                            |
+
+Średni logarytm =
+Wskaźnik aminokwasowy =

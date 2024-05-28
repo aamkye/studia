@@ -643,7 +643,7 @@ Bez U.
 ### Kolokwium
 
 - Potencjał spoczynkowy i czynnosciowy
-  - (spoczynkowy) Cecha komórek pobudliwych jest posiadanie stałego, ujemnego, spoczynkowego potencjatu bonowego.
+  - (spoczynkowy) Cecha komórek pobudliwych jest posiadanie stałego, ujemnego, spoczynkowego potencjatu błonowego.
   - (czynnosciowy) Przejsciowa zmiana potencjatu błonowego komórki, co wiaze sie z przekazywaniem informacji w układzie nerwowym.
 - Synapsy - rodzaje
   - nerwowo-nerwowe
@@ -661,19 +661,19 @@ Bez U.
   - Adrenalina i wzrost temp. przyspiesza
   - Noradrenalina i spadek temp. zwalnia
 - Cykl pracy serca (będzie na 100%)
-  1. Skurcz przedsionków - dopetnia komory krwia
-  2. Skurcz komór - wzrost cisnienia krwi w komorach, krew ptynie w strong przedsionków, gdzie panuje nizsze cisnienie;
+  1. Skurcz przedsionków - dopełnia komory krwia
+  2. Skurcz komór - wzrost cisnienia krwi w komorach, krew płynie w strone przedsionków, gdzie panuje nizsze cisnienie;
   3. Zatrzaskuja sie zastawki przedsionkowo komorowe, stychac pierwszy ton serca - długi i dźwieczny (bum);
   4. Cisnienie w komorach nadal rosnie, krew napiera na wszystkie 4 zastawki.
-  5. Kiedy cisnie w komorach przewy¿szy cisnienie w tetnicach, otwieraja sie zastawki pótksiezycowate aorty i pnia ptucnego, a nastepuje wyrzut krwi z komór do tych tetnic.
+  5. Kiedy cisnie w komorach przewyższy cisnienie w tetnicach, otwieraja sie zastawki półksiezycowate aorty i pnia płucnego, i nastepuje wyrzut krwi z komór do tych tetnic.
   6. Rozkurcz komór i spadek w nich cisnienia.
   7. Krew cofa sie z tetnic do komór - w kierunku nizszego cisnienia.
   8. Poniewaz cisnienie krwi w rozkurczajacych sie komorach wciaz spada, w koncu staje sie nizsze niz w przedsionkach, wskutek czego otwieraja sie zastawki przedsionkowo- komorowe i krew zaczyna naptywac do komór.
-  9. Skurcz przedsionkow - dopetnia komory krwia.
+  9. Skurcz przedsionkow - dopełnia komory krwia.
 - Tony serca
   - ton I - skurczowy (systoliczny) - dłuzszy i niższy (150 ms, 25-45 Hz)
   - ton II - rozkurczowy (diastoliczny) - krótszy i wyższy (120 ms, 50 Hz)
-  - ton III (protodiastoliczny) - cichy (wystuchiwany tylko u mtodych osob), 35 Hz.
+  - ton III (protodiastoliczny) - cichy (wystuchiwany tylko u młodych osob), 35 Hz.
 - Tętno i cechy (będzie na 60%)
   - Falisty ruch naczyń tętniczych zależny od skurczów serca i od elastyczności ścian tętniczych.
   1. Czestosc
@@ -682,7 +682,7 @@ Bez U.
   4. Napiecie
   5. Chybkosc
 - EKG - rysunek + opis załamków (będzie na 90%)
-  - załamek P - jest wyrazem depolaryzacji mięśnia przedsionków (dodatni we wszystkich 11 odprowadzeniach, poza aVR, tam ujemny)
+  - załamek P - jest wyrazem depolaryzacji mięśnia przedsionków
   - zespół QRS - odpowiada depolaryzacji mięśnia komór (w tym czasie następuje również repolaryzacja przedsionków, którą przysłania zespół QRS)
   - załamek T - odpowiada repolaryzacji komór
 - składowe układu bodżczo-przewodzacego serca (będzie na 60%)
@@ -695,9 +695,178 @@ Bez U.
 
 TBD (trzeba przepisać z wykładów)
 
+### Grypy krwi
+
+Dziedziczna cecha powierzchni krwinek czerwonych wykrywana przez swoiste alloprzeciwciała
+
+
+
+### Erytrocyty
+
+- Owca
+
+![erytrocyty](../obrazki/fizjologia_zwierzat/erytrocyty_owca.jpeg)
+
+- Pies
+
+![erytrocyty](../obrazki/fizjologia_zwierzat/erytrocyty_pies.jpeg)
+
+- Kura
+
+![erytrocyty](../obrazki/fizjologia_zwierzat/erytrocyty_kura.jpeg)
+
+- Zaba
+
+![erytrocyty](../obrazki/fizjologia_zwierzat/erytrocyty_zaba.jpeg)
+
+- Wąż
+
+![erytrocyty](../obrazki/fizjologia_zwierzat/erytrocyty_waz.jpeg)
+
+
+| Cecha    | Kura                               | Wąż                                | żaba   | Pies                | Owca                |
+| -------- | ---------------------------------- | ---------------------------------- | ------ | ------------------- | ------------------- |
+| Wielkość | 3/5                                | 5/5                                | 4/5    | 2/5                 | 1/5                 |
+| Kształt  | owalne, długie, jądrzasta, wypukła | owalne, długie, jądrzaste, wypukłe | owalne | okrągłe, dwuwklęsłe | koliste, dwuwklęsłe |
+
+### Leukocyty
+
+- Neutrofil
+- Eozynofil
+- Bazofil
+- Monocyt
+- Limfocyt
+
 ### Kolokwium
 - skład i funkcje krwi (2-3 zdania szczegółowo)
 - narysować wielkość erytrocytów poszczegl. gat. zwierz.
 - roztwory izotoniczny + 2
-- podział leukocytów (granulo + ???) + 2zdania opisu
+- podział leukocytów (granulocyty + agranulocyty) + 2zdania opisu
+  - Granulocyty
+    - Neutrofil
+    - Eozynofil
+    - Bazofil
+  - Agranulocyty
+    - Monocyt
+    - Limfocyty
 - grupy krwi
+
+# Układ pokarmowy
+
+jama ustna
+gardło
+przełyk
+żołądek
+jelito cienkie
+jelito grupe
+jelito ślepe
+
+## Trawienei pokarmu
+
+Węglowodany - cukry proste
+Białka - aminokwasy
+Lipidy - enzymy
+
+## Jama ustna
+
+Wargi, policzki, zęby, język
+
+Funkcje
+- pobieranie pokarmu
+- rozdrabnianie
+- zwilżanie
+- Formowanie kęsów
+- wstępne trawienie cukrów
+- Przesuwanie do gardła i dalej do przełyku
+
+Ślinianki + ślina + skład
+
+## Gardło i przełyk
+
+## żołądek jedno-komorowy
+
+### Trawienie
+
+pepsyna
+podpuszka
+lipaza żołądkowa
+
+kwas solny
+
+## żołądek wiele-komorowy
+
+## jelito cienkie
+
+## jelito grube
+
+## trzustka
+
+## wątroba
+
+## motoryka jelit
+
+# Przeżuwacze
+
+Roślinożerne, jedzą dużo celulozy (żołądek wielokomorowy)
+
+## Trawienie i przemiana węglowodanów
+
+3 etapy:
+- enzymy bakt. rozbijają wiązania poli i disacharydów -> powstają monosacharydy
+- powstałe monosacharydy w wyniku trawienia są pochłanianie przez bakterie. w procesie glikozy powstaje kwas pirogronowy -> lotne kwasy tłuszczowe (LKT),
+- wchłanianie lkt przez śluzówkę, są wchłaniane na drodze biernej dyfuzji
+
+### Proporcje kwasów
+
+kwas octowy | propionowy  | masłowy
+65%         | 20%         | 15%
+13          | 4           | 3
+
+### Fermentacja
+
+### Rola produktów fermentacji żwaczowej
+
+#### Metan
+
+Wpływa na poziom energii metabolicznej krów, której straty powodują spadek wydajności mlecznej.
+
+#### Kwas octowy
+
+Bierze udział w sytntezie tłuszczu w siarze oraz mleku.
+
+#### Kwas propionowy
+
+Jest prekursorem glukozy która bierze udział w produkcji laktozy w siarze i mleku.
+
+#### Kwas masłowy
+
+Wpływa na poziom energii której straty powodują spadek wydajności mlecznej, wpływa na poziom ciał ketonowych.
+
+#### Kwas izomasłowy i izowalerianowy
+
+Świadczy o aktywności bakteri proteolitycznych. Rozkład białka w żwaczu oraz strawność jelitowa wpływa na zawartość białka ogólnego w siarze i mleku.
+
+#### Amoniak
+
+Wpływa na udział mocznika w siarze i mleku, oddziałują na jego skład i wydajność zwierząt.
+
+# Sprawozdanie
+
+Treść zadania/studium przypadku:
+
+Rolnik na Podlasiu, angażuje się w hodowlę krów w 100%. Zdaje sobie sprawę że prawidłowe procesy biochemiczne w żwaczu zapewnią lepsze samopoczucie jego zwierzętom, dlatego rozpoczął studia na kierunku Rolnictwo. Na zajęciach z Fizjologii Zwierząt zapoznał się z fizjologią przeżuwaczy. Jednak chciał pogłębić swoją wiedzę i postanowił sprawdzić jak zmieniają się procesy zachodzące w żwaczu przy zmianie żywienia.
+Na podstawie wykresów w bazie AZONE, określił jak zmienia się profil kwasów tłuszczowych wyrażony w mM (mmol/l) w treści żwacza krów przy zmianie paszy. Ustalił wzajemny stosunek procentowy trzech najważniejszych LKT. Określił wpływ zmiany paszy na produkcję metanu. Opisał procesy powstawania LKT z węglowodanów oraz metanu. Wzorując się na przemyśleniach Rolnika, odczytaj wykresy z bazy AZONE (linki poniżej) oraz określ jak wpływa zmiana paszy na procesy biochemiczne zachodzące w żwaczu krów. Opisz procesy produkcji metanu oraz LKT.
+
+link https://azon.e-science.pl/ -> kolekcje -> Kolekcja Uniwersytetu Przyrodniczego we Wrocławiu
+
+Kiszonka z żyta
+- https://azon.e-science.pl/zasoby/wplyw-zastosowania-kiszonki-z-zyta-na-poziom-produkcji-metanu-w-tresci-zwacza-krow-fermentacja-in,29155/
+- https://azon.e-science.pl/zasoby/wplyw-zastosowania-kiszonki-z-zyta-na-poziom-produkcji-metanu-w-tresci-zwacza-krow-fermentacja-in,29153/
+- https://azon.e-science.pl/zasoby/wplyw-zastosowania-kiszonki-z-zyta-na-poziom-produkcji-lotnych-kwasow-tluszczowych-w-tresci-zwacz,22017/
+- https://azon.e-science.pl/zasoby/wplyw-zastosowania-kiszonki-z-zyta-na-poziom-oraz-profil-lotnych-kwasow-tluszczowych-w-tresci-zwacza,29112/
+
+Kiszonka z kukurydzy
+- https://azon.e-science.pl/zasoby/wplyw-zastosowania-kiszonki-z-kukurydzy-na-poziom-produkcji-metanu-w-tresci-zwacza-krow-fermentacj,29141/
+- https://azon.e-science.pl/zasoby/wplyw-zastosowania-kiszonki-z-kukurydzy-na-poziom-produkcji-metanu-w-tresci-zwacza-krow-fermentacj,29114/
+- https://azon.e-science.pl/zasoby/wplyw-zastosowania-kiszonki-z-kukurydzy-na-poziom-oraz-profil-lotnych-kwasow-tluszczowych-w-tresci-z,29077/
+- https://azon.e-science.pl/zasoby/wplyw-zastosowania-kiszonki-z-kukurydzy-na-poziom-oraz-profil-lotnych-kwasow-tluszczowych-w-tresci-z,29078/

@@ -327,3 +327,198 @@ ziarna pyłków
   - orzeszkowe
   - pestkowce
   - jagodowe
+
+## Systematyka
+
+- protista (jednokomórkowe)
+- mszaki
+- paprotniki
+- __nasienne__
+  - nagonasienne (szpilkowe)
+  - __okrytonasienne__
+
+## Mszaki
+
+- rośliny lądowe
+- występują w środowiskach wilgotnych
+- odznaczają się prostą budową
+- nie mają korzeniu, tylko chwytniki
+- pobierają wodę całą powierzchnią ciała
+- brak typowej tkanki przewodzącej
+- roślony zarodnikowe które potrzebują wody do zapłodnienia
+- są na całej kuli ziemskiej
+- mszaki są roślinami lądowymi
+
+### Rodzaje
+
+- wątrobowce
+- mchy
+
+### Mszaki (właściwe, klasa mchy)
+
+- rośliny pędowe, symetria osiowa
+- są roślinami pionierskimi
+
+### Torfowce
+
+- Rosną na torfowiskach
+- są świetnym rezerwuarem wody
+
+## Paprotniki
+
+- paprotniki dały olbrzymie złoża węgla kamiennego
+- wilgotne i zacienione miejsca
+- cieplolubne
+
+### Semantyka
+
+- Królestwo (Okrytonasienne)
+- Klasa (Dwu liścienne)
+- Rząd (Jaskrowce)
+- Rodzina (Jaskrowate)
+- Rodzaj (Jaskier)
+- Gatunek (Jaskier polny)
+
+### Klasa
+
+- jednoliścienne (monocot)
+  - kukurydza
+  - lilia
+  - wszystkie zboża
+- dwuliścienne (dicot)
+  - rzepak
+  - soja
+  - słonecznik
+  - wszystko inne
+
+## Jaskrowce
+
+Charakterystyka Rodziny
+
+Mak zwyczajny
+Jaskier
+Czarnuszka
+
+## Krzyżowe (kapustne)
+
+Charakterystyka Rodziny
+
+Kapusta
+Rzepak
+Brokuł
+Gorczyca
+Chrzan
+
+## Psiankowate
+
+Charakterystyka Rodziny
+
+Ziemniak
+Pomidor
+Tytoń
+Papryka
+
+## Wargowe
+
+Lawenda
+Mięta
+Oregano (Lebiodka)
+Majeranek
+Rozmaryn
+Szałwia
+Melisa
+Tymianek
+
+## Motylkowane (strączkowe, bobowate)
+
+Kończyna
+Lucerna
+Cieciorka
+Groch
+Soja
+Soczewica
+Bób
+
+Bakterie Brodawkowe (azot z powietrza)
+Kwiatostan obfity w kwiaty
+
+## Różowate
+
+Kwiatostan obfity w kwiaty
+
+### Tawułowe
+
+### Różowe
+
+Poziomka
+Truskawka
+Malina
+Róża
+
+### Jabłkowe
+
+Jabłoń
+Grusza
+Głóg
+Jarząb
+Pigwa
+
+### Śliwowe (pestkowcowe)
+
+Wiśnia
+Czereśnia
+Śliwa tarnina
+Brzoskwinia
+
+### Baldaszkowate
+
+Kminek zwyczajny
+Koper ogrodowy
+Marchew zwyczajna
+Barszcz zwyczajny
+Szalej jadowity
+Pietruszka zwyczajna
+Seler zwyczajny
+Kolędra
+Lubczyk
+
+### Złożone
+
+Słonecznik
+Mniszek (Mlecz)
+Sałata
+Rumianek
+Ostropest
+Stokrotka
+Cykoria
+Oset
+Aster
+Piołun
+
+### Liliowate (Cebulowe)
+
+Lilia
+Tulipan
+Hiacynty
+Konwalia majowa
+Szparagi
+Czosnek
+Cebula
+Por
+
+### Trawy
+
+1. Kwiaty nie posiadają płatków
+2. Liście są wiotkie, długie oraz delikatne i tworzą pochwę liściową obejmującą łodygę
+3. Łodyki są zazwyczaj obłe, międzywęźla puste, a węzły pełne
+
+Żyto
+Pszenica
+Jęczmień
+Perz właściwy
+Owies
+Manna
+Proso (kasza jaglana)
+Trzcina cukrowa
+Ryż
+Kukurydza

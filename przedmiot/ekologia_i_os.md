@@ -16,7 +16,7 @@ geometry: margin=1.5cm
   - https://orcid.org/0000-0002-1890-8899
 - subject_link: N/A
 
-# Etymologia
+## Etymologia
 
 Ekologia nie jest zwizana z polityka.
 
@@ -24,19 +24,19 @@ Funkcjonowanie organizmow w srodowisku
 
 Zagrozenia dla srodowiska zwiazanych z dzialalnoscia rolnicza
 
-# Wplyw rolnictwa na srodowisko
+## Wplyw rolnictwa na srodowisko
 
 - Wykorzystuje ogromne ilosci naturalnych zasobow
 - Wprowadza do srodowiska zwiazki i substancje
 - zmienia krajobraz, ksztaltuje okosystemy, wplywa na roznorodnosc biologiczna
 
-# Czym jest ekologia
+## Czym jest ekologia
 
 __Ekologia__ - nauka zajmujaca sie "domostwem" organizmu i jego srodowiskiem na ktore skladaja się inne organizmy i elementy nieozywione srodowiska. Nauka zajmujaca sie badaniem oddzialywan powiedzy organizmami a ich srodowiskiej i wzajemnie miedzy tymi orgainizmami.
 
 __Sozologia__ - nauka o czynnej ochronie srodowiska naturalnego
 
-## Poziomy ogranizacji
+### Poziomy ogranizacji
 
 - Ekosystem
 - Biosfera
@@ -46,9 +46,9 @@ __Sozologia__ - nauka o czynnej ochronie srodowiska naturalnego
 - Populacja
 - Pojedynczy osobnik
 
-# Tolerancja ekologiczna
+## Tolerancja ekologiczna
 
-## Czynniki srodowiska
+### Czynniki srodowiska
 
 - czynniki abiotyczne, zwiazane z klimatem i gleba (woda, swiatlo, temp, sole min.)
 - czynniki biotyczne, zwiazane z oddzialywaniem miedzy organizmami (fauna, flora, mikroorganizmy)
@@ -57,7 +57,7 @@ Wplywaja na zdolnosc organizmow do zycia w danym srodowisku. Czesto dzialaja wsp
 
 Zdolnosc przystosowania sie organizmow do zmian danego czynnika.
 
-## Zakres tolerancji
+### Zakres tolerancji
 
 - Minimum
 - Optimum
@@ -66,7 +66,7 @@ Zdolnosc przystosowania sie organizmow do zmian danego czynnika.
 Gatunek eurytopowy - ekologicznie slabo wyspecjalizowany (znoszacy duze wahania czynnikow srodowiskowych)
 Gatunek stenotypowy - wysoce wyspecjalizowany (o waskiej tolerancji ekologicznej, w warunkach waskiej zmiennosci czynnkikow srodowiskowych)
 
-# Najwazniejsze czynniki ekologiczne
+## Najwazniejsze czynniki ekologiczne
 
 - Swiatło
   - podstawowe zrodlo energii na ziemi
@@ -101,9 +101,9 @@ Gatunek stenotypowy - wysoce wyspecjalizowany (o waskiej tolerancji ekologicznej
   - Grupy ekologiczne:
     - Halofity (ekstrenalne zasolenie)
 
-# Ekosystem
+## Ekosystem
 
-## Struktura
+### Struktura
 
 Biocenoza + biotop
 
@@ -115,51 +115,51 @@ Typy:
 - prerie
 - góry
 
-### Poziomy troficzne
+#### Poziomy troficzne
 
 - rośliny - Producenci
 - zwierzęta roślinne - konsumenci I rzędu
 - zwierzęta mięsożerne- konsumenci II, III, IV rzędu
 
-### Fotosynteza
+#### Fotosynteza
 
 6 $CO_2$ + 6 $H_2O$ -> $C_6H_{12}O_6$ Glukoza + 6 $O_2$ Tlen
 
-### Organizmy heterotroficzne (I rzędu)
+#### Organizmy heterotroficzne (I rzędu)
 
 Odżywiają się wyłącznie produktami (roślinożercy)
 
-### Organizmy heterotroficzne (II rzędu)
+#### Organizmy heterotroficzne (II rzędu)
 
 Odżywiają się innymi zwierzętami (mięsożercy)
 
-### Reducenci
+#### Reducenci
 
 - Odżywiają się martwymi tkankami
 
-### Reducenci (saprobionty)
+#### Reducenci (saprobionty)
 
 Rozkładają substancje org na związki proste nieorganiczne, np grzyby i bakterie.
 
-### Biocenoza
+#### Biocenoza
 
 - Nie otrzymuje z zewnątrz materii organicznej
 - Każda biocenoza posiada własne proporcje przedstawicieli wszystkich grup troficznych
 - Niezbędni są producenci i reducenci (materia organiczna - kumulacja)
 
 
-## Przepływ energii i obieg materii (C - węgiel, N - azot, P - fosfor), zaburzenia obiegu pierwiastków
+### Przepływ energii i obieg materii (C - węgiel, N - azot, P - fosfor), zaburzenia obiegu pierwiastków
 
 - Zasada zachowania energii - energia nie moze powstać z niczego
 - Każde przemienianie energii towarzyszy strata wolnej energii w systemie
 - W czasie pracy energia ulega degradacji i po wydostaniu się na zewnątrz zostaje wyemitowana w przestrzeń kosmiczną
 - Energia dopływa z zewnątrz i aż 90% ulega zużyciu (rozproszona w postaci ciepła)
 
-### Cykl biogeochemiczne
+#### Cykl biogeochemiczne
 
 W odniesieniu do materii Ziemia jest układem zamkniętym
 
-#### Obieg węgla
+##### Obieg węgla
 
 - Materiał budulcowy białek, kwasów nukleinowych, tłuszczów, węglowodanów
 - W atmosferze w postaci $CO_2$
@@ -174,17 +174,17 @@ Do atmosfery wraca w procesach:
 
 Zmiany liczebności gatunków - Ekstyncja
 
-## Łańcuchy i sieci troficzne
+### Łańcuchy i sieci troficzne
 
-### Łańcuch
+#### Łańcuch
 
 prod -> kons I -> kons II -> reducenci -> prod
 
-## Agroekosystem
+### Agroekosystem
 
 Wytworzone na terenach użytkowyanych rolniczo (pola, łaki, sady), charakteryzujcy się z reguły znacznym uproszczeniem pod wzgledem składu gatunkowego oraz osłabionaymi mozliwościami samoregulacji.
 
-# Zagadnienia na zaliczenie.
+## Zagadnienia na zaliczenie.
 1. Wyjaśnij pokrótce jaki może być wpływ rolnictwa na środowisko.
 2. Wyjaśnij termin: ekologia
 3. Wyjaśnij termin: sozologia
@@ -210,3 +210,74 @@ Wytworzone na terenach użytkowyanych rolniczo (pola, łaki, sady), charakteryzu
 23. Scharakteryzuj pasożytnictwo i półpasożytnictwo. Podaj przykłady
 24. Przedstaw elementy składające się na poziomy troficzne w ekosystemie
 25. Jakie mogą być skutki zmian klimatycznych polegające na wzroście temperatury?
+
+# Ochrona środowiska
+
+## Informacje ogólne
+
+Każde działanie/inwestycje/projekty, których konsekwencją może być zmiana (pogorszenie/polepszenie) stanu środowiska, powinny spełniać następujące kryteria:
+- Pożądanie społecze
+- Dopuszczalne prawnie
+- Bezpiecznie ekologiczie
+- Uzasadnione ekonomicznie
+
+Kryteria te na etapie podejmowania decyzji ostatecznych są __RÓWNOWAŻNE__.
+
+- Problematyka ochrony przyrody i jej zasobów
+- Badanie przyczyn i skótków przemian naturalnych lub zmienionych przez człowieka układach przyrodniczych, zachodzących na skutek proceów naturalnych i antropogenicznych..
+- poszukiwanie skutecznych sposobów zapobiegania degradacji środowiska
+- czynna ochrona środowiska naturalnego
+- zasada zrównoważonego rozwoju
+- problematyka tzw. chorób cywylizacyjnych
+
+- opis i dokumentacja zmiany w środowisku przyrodniczym, zachodzące zwłaszcza pod wpływem czynników postępu technologicznego
+
+- wykorzysyteanie wiedzy, metod badań i dorobku różnych nauk technicznych, ekonomicznych, humanistycznych
+- bardzo ścisłe powiązanie z ekologią, geologią i geografią
+- działania oparte na dorobku i wiedzy pokrewnych nauk
+
+- różnorodność biologiczna
+- siedlisko przyrodnicze
+- środowisko przyrodnicze
+- walory krajobrazowe
+
+- zagrożenia wewnętrzne
+- zagrożenia zewnętrzne
+
+Ochrona przyrody:
+- częściowa
+- ścisła
+- czynna
+- ex situ (zoo, arboreta)
+- in situ (np pomnik przyrody)
+- krajobrazowa
+
+Podstawa prawna: dz.u 2004 nr 92 poz 880 + zmiany
+
+Przyroda - dziecistwo i bogactwo narodowe
+Działalność edukacyjna, informacyjna i promocyjna w dziedzinie przyrody
+
+na czym polega ochrona przyrody
+cele ochrony przyrody
+realizacja ochrony przyrody
+
+Organy ochrony środowiska w polsce:
+- Minister
+- Generalny dyrektor OŚ
+- Wojewoda
+- Regionalny dyrektor
+- Marszałek Woj.
+- Dyrektor PN
+- Starosta
+- Wójt, Burmistrz, Prezydent
+
+obowiązki organów ochrony środowiska
+
+formy ochrony przyrody (10 form)
+
+- Parki Narodowe (+ otulina)
+
+
+## Organizacja ochrony przyrody w polsce
+## Problematyka jakości powietrza w polsce
+## Problemy gospodarki odpadami w skali globalnej i krajowej
