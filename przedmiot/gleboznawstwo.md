@@ -255,7 +255,7 @@ Gleba zaczyna się od 1cm materiału. Powinna być zespolona z podłożem.
 
 - Przestrzennego planowania
 - Rejonizacji upraw
-- Sporządzania planó∑ gospodarczych
+- Sporządzania planów gospodarczych
 - Układania płodozmianów
 - Ustalenia systemu uprawy mechanicznej
 - Normowania pracy traktorów
