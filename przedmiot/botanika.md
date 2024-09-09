@@ -393,15 +393,11 @@ ziarna pyłków
 
 ## Jaskrowce
 
-Charakterystyka Rodziny
-
 Mak zwyczajny
 Jaskier
 Czarnuszka
 
 ## Krzyżowe (kapustne)
-
-Charakterystyka Rodziny
 
 Kapusta
 Rzepak
@@ -410,8 +406,6 @@ Gorczyca
 Chrzan
 
 ## Psiankowate
-
-Charakterystyka Rodziny
 
 Ziemniak
 Pomidor
@@ -440,11 +434,8 @@ Soczewica
 Bób
 
 Bakterie Brodawkowe (azot z powietrza)
-Kwiatostan obfity w kwiaty
 
 ## Różowate
-
-Kwiatostan obfity w kwiaty
 
 ### Tawułowe
 
@@ -482,7 +473,7 @@ Seler zwyczajny
 Kolędra
 Lubczyk
 
-### Złożone
+### Złożone (astrowate)
 
 Słonecznik
 Mniszek (Mlecz)
@@ -506,11 +497,7 @@ Czosnek
 Cebula
 Por
 
-### Trawy
-
-1. Kwiaty nie posiadają płatków
-2. Liście są wiotkie, długie oraz delikatne i tworzą pochwę liściową obejmującą łodygę
-3. Łodyki są zazwyczaj obłe, międzywęźla puste, a węzły pełne
+### Trawy (Wiechlinowate)
 
 Żyto
 Pszenica

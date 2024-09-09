@@ -211,6 +211,30 @@ Opadanie
 - ~2h
 - ił koloidalny ~18-20h
 
+# Oznaczanie składu granulometycznego metodą aerometryczną
+
+| Frakcja                  | t [*C] | odczyt w zawiesienie | odczyt w PK | Suma Frakcji | % Frakcji   |
+| ------------------------ | ------ | -------------------- | ----------- | ------------ | ----------- |
+| < 0.02 (kontrola)        | 23     | 14:18 - 14:28: 56    | 31          | 56-31 = 25   | 25          |
+| 0.1 - 0.05 (pył gruby)   | 23     | 23": 71              | 31          | 71-31 = 40   | 40-30 = 10  |
+| 0.05 - 0.02 (pył drobny) | 23     | 1'37": 61            | 31          | 61-31 = 30   | 30-25 = 5   |
+| < 0.02 (ił, poprawiony)  | 23     | 10'30": 56           | 31          | 56-31 = 25   | 25          |
+| 1 - 0.1 mm (piasek)      | ///    | ///                  | ///         | ///          | 100-40 = 60 |
+
+powyżej 1mm - 1g
+powyżej 0.25mm - 9.1g
+powyżej 0.1mm - 12.6g
+poniżej 0.1mm - 1g
+
+
+
+## Oznaczanie gęstości właściwej gleby przy użyciu piknometru (100cm^3)
+
+# Kolokwium
+- Jakaś skała do opisu, cechy okruchów, czynniki transportujące
+- Skład granulometryczny
+- Oznaczanie gęstości właściwej gleby
+
 # Wykłady
 
 ## Gleboznawstwo

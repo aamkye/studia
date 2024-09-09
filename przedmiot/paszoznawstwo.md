@@ -506,30 +506,26 @@ Oblicz WBB białka metodą Osera i Blocka-mitchella w parowanych ziemniakach
 
 Zawartość aminokwasów w przeliczeniu na 16g N*
 
-| Aminokwas      | Zawartość aminokwasów w paszy (g/kg) | Pasza* | Jajo* | Stosunek ($\%$) | Stosunek poprawiony ($\%$) | Log. poprawionego stosunku |
-| -------------- | ------------------------------------ | ------ | ----- | --------------- | -------------------------- | -------------------------- |
-| Histydyna      | 0.4                                  | 1.8182 | 2.4   | 75.76           | 76                         | 1.8808                     |
-| Lizyna         | 1.2                                  | 5.4545 | 7.0   | 77.92           | 78                         | 1.8921                     |
-| Fenyloamina    | 0.9                                  | 4.0909 | 6.3   | 64.93           | -                          | -                          |
-| Tyrozyna       | 0.6                                  | 2.7273 | 4.5   | 60.61           | -                          | -                          |
-| Fen + Tyr      | 1.5                                  | 6.8182 | 10.8  | 63.13           | 63                         | 1.7993                     |
-| Tryptofan      | 0.3                                  | 1.3636 | 1.5   | 90.91           | 91                         | 1.959                      |
-| Metionina      | 0.3                                  | 1.3636 | 4.0   | 34.09           | -                          | -                          |
-| Cystyna        | 0.4                                  | 1.8182 | 2.4   | 75.76           | -                          | -                          |
-| Met + Cys      | 0.7                                  | 3.1818 | 6.4   | 49.72           | 50                         | 1.699                      |
-| Teronina       | 0.8                                  | 3.6364 | 4.3   | 84.57           | 85                         | 1.9294                     |
-| Leucyna        | 1.4                                  | 6.3636 | 9.2   | 69.17           | 69                         | 1.8388                     |
-| **Izoleucyna** | 0.7                                  | 3.1818 | 7.7   | 41.32           | 41                         | 1.6128                     |
-| Walina         | 0.9                                  | 4.0909 | 7.2   | 56.82           | 57                         | 1.7559                     |
-| Białko         | 22.0                                 |        |       | np 120          | 100                        | 2                          |
+| Aminokwas      | Zawartość aminokwasów w paszy (g/kg) | Pasza*                              | Jajo* | Stosunek ($\%$)                         | Stosunek poprawiony ($\%$) | Log. poprawionego stosunku |
+| -------------- | ------------------------------------ | ----------------------------------- | ----- | --------------------------------------- | -------------------------- | -------------------------- |
+| Histydyna      | 0.4                                  | $\frac{100}{22} \cdot 0.4 = 1.8182$ | 2.4   | $\frac{1.8182}{2.4} \cdot 100 = 75.76$  | 76                         | $\log_{10} 76 = 1.8808$    |
+| Lizyna         | 1.2                                  | $\frac{100}{22} \cdot 1.2 = 5.4545$ | 7.0   | $\frac{5.4545}{7.0} \cdot 100 = 77.92$  | 78                         | $\log_{10} 78 = 1.8921$    |
+| Fenyloamina    | 0.9                                  | $\frac{100}{22} \cdot 0.9 = 4.0909$ | 6.3   | $\frac{4.0909}{6.3} \cdot 100 = 64.93$  | -                          | -                          |
+| Tyrozyna       | 0.6                                  | $\frac{100}{22} \cdot 0.6 = 2.7273$ | 4.5   | $\frac{2.7273}{4.5} \cdot 100 = 60.61$  | -                          | -                          |
+| Tyrozyna       | 0.6                                  | $\frac{100}{22} \cdot 0.6 = 2.7273$ | 4.5   | $\frac{2.7273}{4.5} \cdot 100 = 60.61$  | -                          | -                          |
+| Fen + Tyr      | 1.5                                  | $\frac{100}{22} \cdot 1.5 = 6.8182$ | 10.8  | $\frac{6.8182}{10.8} \cdot 100 = 63.13$ | 63                         | $\log_{10} 63 = 1.7993$    |
+| Tryptofan      | 0.3                                  | $\frac{100}{22} \cdot 0.3 = 1.3636$ | 1.5   | $\frac{1.3636}{1.5} \cdot 100 = 90.91$  | 91                         | $\log_{10} 91 = 1.959$     |
+| Metionina      | 0.3                                  | $\frac{100}{22} \cdot 0.3 = 1.3636$ | 4.0   | $\frac{1.3636}{4.0} \cdot 100 = 34.09$  | -                          | -                          |
+| Cystyna        | 0.4                                  | $\frac{100}{22} \cdot 0.4 = 1.8182$ | 2.4   | $\frac{1.8182}{2.4} \cdot 100 = 75.76$  | -                          | -                          |
+| Met + Cys      | 0.7                                  | $\frac{100}{22} \cdot 0.7 = 3.1818$ | 6.4   | $\frac{3.1818}{6.4} \cdot 100 = 49.72$  | 50                         | $\log_{10} 50 = 1.699$     |
+| Teronina       | 0.8                                  | $\frac{100}{22} \cdot 0.8 = 3.6364$ | 4.3   | $\frac{3.6364}{4.3} \cdot 100 = 84.57$  | 85                         | $\log_{10} 85 = 1.9294$    |
+| Leucyna        | 1.4                                  | $\frac{100}{22} \cdot 1.4 = 6.3636$ | 9.2   | $\frac{6.3636}{9.2} \cdot 100 = 69.17$  | 69                         | $\log_{10} 69 = 1.8388$    |
+| **Izoleucyna** | 0.7                                  | $\frac{100}{22} \cdot 0.7 = 3.1818$ | 7.7   | $\frac{3.1818}{7.7} \cdot 100 = 41.32$  | 41                         | $\log_{10} 41 = 1.6128$    |
+| Walina         | 0.9                                  | $\frac{100}{22} \cdot 0.9 = 4.0909$ | 7.2   | $\frac{4.0909}{7.2} \cdot 100 = 56.82$  | 57                         | $\log_{10} 57 = 1.7559$    |
+| Białko         | 22.0                                 |                                     |       | np 120                                  | 100                        | $\log_{10} 100 = 2$        |
 
-kg   | 22/kg - 0.4
-100g | 100/22 * 0.4
-1.81818
-
-Średni logarytm =
-Wskaźnik aminokwasowy = odwrócony log średniego logarytmu
-Aminokwas ograniczający
+Średni logarytm: $(1.8808 + 1.8921 + 1.7993 + 1.959 + 1.699 + 1.9294 + 1.8388 + 1.6128 + 1.7559) / 9 = \bold{1.8186}$\
+Wskaźnik aminokwasowy: ${10}^{1.8186} = \bold{65.86}$
 
 ### Ćw. 12
 
@@ -537,22 +533,22 @@ Oblicz WBB białka metodą Osera i Blocka-mitchella w nasionach bobiku
 
 Zawartość aminokwasów w przeliczeniu na 16g N*
 
-| Aminokwas   | Zawartość aminokwasów w paszy (g/kg) | Pasza* | Jajo* | Stosunek ($\%$) | Stosunek poprawiony ($\%$) | Log. poprawionego stosunku |
-| ----------- | ------------------------------------ | ------ | ----- | --------------- | -------------------------- | -------------------------- |
-| Histydyna   | 7.2                                  |        | 2.4   |                 |                            |                            |
-| Lizyna      | 17.7                                 |        | 7.0   |                 |                            |                            |
-| Fenyloamina | 11.5                                 |        | 6.3   |                 | -                          | -                          |
-| Tyrozyna    | 8.8                                  |        | 4.5   |                 | -                          | -                          |
-| Fen + Tyr   | 20.4                                 |        | 10.8  |                 |                            |                            |
-| Tryptofan   | 2.4                                  |        | 1.5   |                 |                            |                            |
-| Metionina   | 2.1                                  |        | 4.0   |                 | -                          | -                          |
-| Cystyna     | 3.2                                  |        | 2.4   |                 | -                          | -                          |
-| Met + Cys   | 5.4                                  |        | 6.4   |                 |                            |                            |
-| Teronina    | 9.9                                  |        | 4.3   |                 |                            |                            |
-| Leucyna     | 20.9                                 |        | 9.2   |                 |                            |                            |
-| Izoleucyna  | 11.3                                 |        | 7.7   |                 |                            |                            |
-| Walina      | 12.9                                 |        | 7.2   |                 |                            |                            |
-| Białko      | 268                                  |        |       |                 |                            |                            |
+| Aminokwas     | Zawartość aminokwasów w paszy (g/kg) | Pasza*                              | Jajo* | Stosunek ($\%$)                         | Stosunek poprawiony ($\%$) | Log. poprawionego stosunku |
+| ------------- | ------------------------------------ | ----------------------------------- | ----- | --------------------------------------- | -------------------------- | -------------------------- |
+| Histydyna     | 7.2                                  | $\frac{100}{268} \cdot 7.2 = 2.68$  | 2.4   | $\frac{2.6866}{2.4} \cdot 100 = 111.94$ | 100                        | $\log_{10} 100 = 2$        |
+| Lizyna        | 17.7                                 | $\frac{100}{268} \cdot 17.7 = 6.60$ | 5.0   | $\frac{6.60}{5.0} \cdot 100 = 132.00$   | 100                        | $\log_{10} 100 = 2$        |
+| Fenyloamina   | 11.5                                 | $\frac{100}{268} \cdot 11.5 = 3.72$ | 6.3   | $\frac{3.72}{6.3} \cdot 100 = 59.08$    | -                          | -                          |
+| Tyrozyna      | 8.8                                  | $\frac{100}{268} \cdot 8.8 = 3.28$  | 4.5   | $\frac{3.28}{4.5} \cdot 100 = 72.89$    | -                          | -                          |
+| Fen + Tyr     | 20.4                                 | $\frac{100}{268} \cdot 20.4 = 7.61$ | 10.8  | $\frac{7.61}{10.8} \cdot 100 = 70.46$   | 70                         | $\log_{10} 70 = 1.85$      |
+| Tryptofan     | 2.4                                  | $\frac{100}{268} \cdot 2.4 = 0.90$  | 1.5   | $\frac{0.90}{1.5} \cdot 100 = 60.0$     | 60                         | $\log_{10} 60 = 1.78$      |
+| Metionina     | 2.1                                  | $\frac{100}{268} \cdot 2.1 = 0.78$  | 4.0   | $\frac{0.78}{4.0} \cdot 100 = 19.5$     | -                          | -                          |
+| Cystyna       | 3.2                                  | $\frac{100}{268} \cdot 3.2 = 1.19$  | 2.4   | $\frac{1.19}{2.4} \cdot 100 = 49.58$    | -                          | -                          |
+| **Met + Cys** | 5.4                                  | $\frac{100}{268} \cdot 5.4 = 2.01$  | 6.4   | $\frac{2.01}{6.4} \cdot 100 = 31.41$    | 31                         | $\log_{10} 31 = 1.49$      |
+| Teronina      | 9.9                                  | $\frac{100}{268} \cdot 9.9 = 3.69$  | 4.3   | $\frac{3.69}{4.3} \cdot 100 = 85.81$    | 85                         | $\log_{10} 85 = 1.93$      |
+| Leucyna       | 20.9                                 | $\frac{100}{268} \cdot 20.9 = 7.79$ | 9.2   | $\frac{7.79}{9.2} \cdot 100 = 84.67$    | 85                         | $\log_{10} 85 = 1.93$      |
+| Izoleucyna    | 11.3                                 | $\frac{100}{268} \cdot 11.3 = 4.22$ | 7.7   | $\frac{4.22}{7.7} \cdot 100 = 54.81$    | 55                         | $\log_{10} 55 = 1.74$      |
+| Walina        | 12.9                                 | $\frac{100}{268} \cdot 12.9 = 4.81$ | 7.2   | $\frac{4.81}{7.2} \cdot 100 = 66.81$    | 67                         | $\log_{10} 67 = 1.83$      |
+| Białko        | 268                                  |                                     |       |                                         |                            |                            |
 
-Średni logarytm =
-Wskaźnik aminokwasowy =
+Średni logarytm =$(2 + 2 + 1.85 + 1.78 + 1.49 +1.93 + 1.93 + 1.74 + 1.83) / 9 = \bold{1.8388}$\
+Wskaźnik aminokwasowy = ${10}^{1.8388} = \bold{68.99}$
