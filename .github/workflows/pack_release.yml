@@ -78,7 +78,7 @@ jobs:
           fetch-depth: 2
       - run: tree .
       # Ugly hacks...
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4.1.7
         with:
           path: output-tmp
       - run: mkdir output && mv output-tmp/**/*.pdf output
