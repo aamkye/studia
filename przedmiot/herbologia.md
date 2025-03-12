@@ -1,3 +1,7 @@
+---
+geometry: margin=1.5cm
+---
+
 dr. inż. Elżbieta Pytlarz
 
 # Wykład

@@ -1,4 +1,9 @@
+---
+geometry: margin=1.5cm
+---
+
 # Wykład
+
 ## Kolokwium
 
 - 3 przykłady mechanizmów stosowanych w technice rolniczej

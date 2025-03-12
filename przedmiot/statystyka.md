@@ -1,3 +1,7 @@
+---
+geometry: margin=1.5cm
+---
+
 zaliczenie ćw: excel z zajęć
 zaliczenie wyk.: egzamin
 

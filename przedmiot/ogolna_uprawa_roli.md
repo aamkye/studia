@@ -1,3 +1,7 @@
+---
+geometry: margin=1.5cm
+---
+
 prof. Piotr Sobkowicz
 
 Egzamin w sesji na 5sem
