@@ -82,39 +82,7 @@ Mało szkodliwe
 
 ### Podział biologiczny
 
-- Samożywne
-  - Rozmnażające się generatywnie (nasiona)
-    - Monokarpiczne (tylko jeden cylk rozwojowy)
-      - jednoroczne
-        - jare krótkotrwałe (efemetydy) "gwiazdnica pospolita, żółtlica owłosiona"
-        - jare wcześnie wschodzące (0*C) "owies głuchy, rzodkiew świrzepa"
-        - jare późno wschodzące (10*C) "chwastnica jednostronna ,szarłat szorstki"
-      - zimujące (wysoka mrozoodporność, przewódka) "chaber głowatek, mak polny, pszytulnia czepna, miotła zbożowa"
-      - ozime (musi być przemrożony, jarowizacja)
-      - dwuletnie (pierwszy rok - przygotowuje, drugi rok wydaje nasiona) "oset"
-    - Polikarpiczne (wiele cykli rozwojowych)
-      - darniowe
-      - o korzeniu kępiastym
-      - o korzeniu palowym
-  - Rozmnażające się generatywnie (nasiona) i wegetatywnie ()
-    - Polikarpicznie
-      - Za pomocą pędów
-        - Płożące się
-          - krótkie rozłogi nadziemne
-          - długie rozłogi nadziemne
-        - Kłączowo-rozłogowe
-          - płydko
-          - głęboko
-        - cebulkowate
-        - bulwiaste
-      - za pomocą korzeni
-        - pąki na korzeniu głównym
-        - pąki umieszczone na całym systemie korzeniowym
-- Cudzożywne
-  - pasożyty zielone / półpasożyty "przeniec różowy, szelężnik większy"
-  - pasożyty bezzieleiowe:
-    - atakujące części nadziemne "kanianka bezkończyniowa"
-    - atakujące korzenie "zaraza"
+![Chwasty](../obrazki/herbologia/podzial.png)
 
 ## Sposoby rozprzestrzeniania się chwastów
 

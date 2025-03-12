@@ -86,7 +86,7 @@ P - Parent
 g - Gameta
 
 $P$
-|       | ♀  |     | ♂  |
+|       | $\female$  |     | $\male$  |
 | :---: | :-: | :-: | :-: |
 |   P   | AA  |  x  | aa  |
 |   g   |  A  |  ,  |  a  |
@@ -94,25 +94,25 @@ $P$
 
 
 $F_{1}$
-| ♀\\♂ |  A  |  a  |
-| :----: | :-: | :-: |
-|   A    | AA  | Aa  |
-|   a    | Aa  | aa  |
+| $\female$\\$\male$ |  A  |  a  |
+| :----------------: | :-: | :-: |
+|         A          | AA  | Aa  |
+|         a          | Aa  | aa  |
 
 ---
 
 $P$ = $F_{1}$
-|       |  ♀  |            |  ♂  |
-| :---: | :--: | :--------: | :--: |
-|   P   |  Aa  |     x      |  Aa  |
-|   g   | A, a |     ,      | A, a |
-| $F_2$ |      | AA, Aa, aa |      |
+|       | $\female$ |            | $\male$ |
+| :---: | :-------: | :--------: | :-----: |
+|   P   |    Aa     |     x      |   Aa    |
+|   g   |   A, a    |     ,      |  A, a   |
+| $F_2$ |           | AA, Aa, aa |         |
 
 $F_{2}$
-| ⚥  |  A  |  a  |
-| :-: | :-: | :-: |
-|  A  | AA  | Aa  |
-|  a  | Aa  | aa  |
+| $\female$\\$\male$ |  A  |  a  |
+| :----------------: | :-: | :-: |
+|         A          | AA  | Aa  |
+|         a          | Aa  | aa  |
 
 ---
 
@@ -122,15 +122,15 @@ F (fenotypowo): 3:1 (3 czerwone, 1 bialy)
 ### Krzyżówki Zea (nowa cecha)
 
 $P$
-|        | ♀  |     | ♂  |
-| :----: | :-: | :-: | :-: |
-|   P   | AA  |  x  | aa  |
-|   g   |  A  |  ,  |  a  |
-| $F_1$ |     | Aa  |     |
+|       | $\female$ |     | $\male$ |
+| :---: | :-------: | :-: | :-----: |
+|   P   |    AA     |  x  |   aa    |
+|   g   |     A     |  ,  |    a    |
+| $F_1$ |           | Aa  |         |
 
 
 $F_{1}$
-| ♀\\♂ |  A  |  a  |
+| $\female$\\$\male$ |  A  |  a  |
 | :----: | :-: | :-: |
 |   A    | AA  | Aa  |
 |   a    | Aa  | aa  |
@@ -138,14 +138,14 @@ $F_{1}$
 ---
 
 $P$ = $F_{1}$
-|       |  ♀  |            |  ♂  |
-| :---: | :--: | :--------: | :--: |
-|   P   |  Aa  |     x      |  Aa  |
-|   g   | A, a |     ,      | A, a |
-| $F_2$ |      | AA, Aa, aa |      |
+|       | $\female$ |            | $\male$ |
+| :---: | :-------: | :--------: | :-----: |
+|   P   |    Aa     |     x      |   Aa    |
+|   g   |   A, a    |     ,      |  A, a   |
+| $F_2$ |           | AA, Aa, aa |         |
 
 $F_{2}$
-| ⚥  |  A  |  a  |
+| $\female$\\$\male$  |  A  |  a  |
 | :-: | :-: | :-: |
 |  A  | AA  | Aa  |
 |  a  | Aa  | aa  |
@@ -193,21 +193,21 @@ A - gładkie, a - pomarszczone
 B - żółte, b - zielone
 
 $P$
-|        |  ♀  |      |  ♂  |
-| :----: | :--: | :--: | :--: |
-|   P:   | AABB |  x   | aabb |
-|   g:   |  AB  |  ,   |  ab  |
-| $F_1$: |      | AaBb |      |
+|        | $\female$ |      | $\male$ |
+| :----: | :-------: | :--: | :-----: |
+|   P:   |   AABB    |  x   |  aabb   |
+|   g:   |    AB     |  ,   |   ab    |
+| $F_1$: |           | AaBb |         |
 
 AaBa - Self-fertilize on $F_1$.
 
 $F_{2}$
-| ♀ \\ ♂ |      AB       |      Ab       |      aB       |      ab       |
-| :------: | :-----------: | :-----------: | :-----------: | :-----------: |
-|    AB    | AABB$_{1\|1}$ | AABb$_{2\|2}$ | AaBB$_{3\|2}$ | AaBb$_{5\|4}$ |
-|    Ab    | AABb$_{2\|2}$ | AAbb$_{4\|1}$ | AaBb$_{5\|4}$ | Aabb$_{7\|2}$ |
-|    aB    | AaBB$_{3\|2}$ | AaBb$_{5\|4}$ | aaBB$_{6\|1}$ | aaBb$_{8\|2}$ |
-|    ab    | AaBb$_{5\|4}$ | Aabb$_{7\|2}$ | aaBb$_{8\|2}$ | aabb$_{9\|1}$ |
+| $\female$ \\ $\male$ |      AB       |      Ab       |      aB       |      ab       |
+| :------------------: | :-----------: | :-----------: | :-----------: | :-----------: |
+|          AB          | AABB$_{1\|1}$ | AABb$_{2\|2}$ | AaBB$_{3\|2}$ | AaBb$_{5\|4}$ |
+|          Ab          | AABb$_{2\|2}$ | AAbb$_{4\|1}$ | AaBb$_{5\|4}$ | Aabb$_{7\|2}$ |
+|          aB          | AaBB$_{3\|2}$ | AaBb$_{5\|4}$ | aaBB$_{6\|1}$ | aaBb$_{8\|2}$ |
+|          ab          | AaBb$_{5\|4}$ | Aabb$_{7\|2}$ | aaBb$_{8\|2}$ | aabb$_{9\|1}$ |
 
 $\text{XXyy}_{\text{grupa}|{\text{ilość}}}$\
 G: 1:2:1:2:4:2:1:2:1 (1AABB, 2AABb, 1AaBb, 2AAbb, 4AaBb, 2Aabb, 1aaBB, 2aaBb, 1aabb)\
@@ -232,21 +232,21 @@ Pisum: N - wargowy, n - peloryczny
 Zea: R - czerwony, b - biały
 
 $P$
-|        |  ♀  |      |  ♂  |
-| :----: | :--: | :--: | :--: |
-|   P:   | NNRR |  x   | nnrr |
-|   g:   |  NR  |  ,   |  nr  |
-| $F_1$: |      | NnRr |      |
+|        | $\female$ |      | $\male$ |
+| :----: | :-------: | :--: | :-----: |
+|   P:   |   NNRR    |  x   |  nnrr   |
+|   g:   |    NR     |  ,   |   nr    |
+| $F_1$: |           | NnRr |         |
 
 NnRr - Wargowe, Różowe
 
 $F_{2}$
-| ♀ \\ ♂ |  NR  |  Nr  |  nR  |  nr  |
-| :------: | :--: | :--: | :--: | :--: |
-|    NR    | NNRR | NNRr | NnRR | NnRr |
-|    Nr    | NNRr | NNrr | NnRr | Nnrr |
-|    nR    | NnRR | NnRr | nnRR | nnRr |
-|    nr    | NnRr | Nnrr | nnRr | nnrr |
+| $\female$ \\ $\male$ |  NR  |  Nr  |  nR  |  nr  |
+| :------------------: | :--: | :--: | :--: | :--: |
+|          NR          | NNRR | NNRr | NnRR | NnRr |
+|          Nr          | NNRr | NNrr | NnRr | Nnrr |
+|          nR          | NnRR | NnRr | nnRR | nnRr |
+|          nr          | NnRr | Nnrr | nnRr | nnrr |
 
 G: 1:2:1:2:4:2:1:2:1\
 (1NNRR, 2NNRr, 1NNrr, 2NnRR, 4NnRr, 2Nnrr, 1nnRR, 2nnRr, 1nnrr)\
@@ -263,25 +263,25 @@ U ludzi gen warunkujący oczy piwne dominuje nad generm warunkującym oczy niebi
 Pisum: A - oczy piwne, a - oczy niebieskie
 
 $P_{rodzice\ mężczyzny}$
-|        | ♀  |     | ♂  |
-| :----: | :-: | :-: | :-: |
-|   P:   | Aa  |  x  | Aa  |
+|     | $\female$ |     | $\male$ |
+| :-: | :-------: | :-: | :-----: |
+| P:  |    Aa     |  x  |   Aa    |
 
 $P_{rodzice\ kobiety}$
-|        | ♀  |      | ♂  |
-| :----: | :-: | :--: | :-: |
-|   P:   | aa  |  x   | AA  |
+|     | $\female$ |     | $\male$ |
+| :-: | :-------: | :-: | :-----: |
+| P:  |    aa     |  x  |   AA    |
 
 $P_{rodzice\ dziecka}$
-|        | ♀  |     | ♂  |
-| :----: | :-: | :-: | :-: |
-|   P:   | Aa  |  x  | aa  |
+|     | $\female$ |     | $\male$ |
+| :-: | :-------: | :-: | :-----: |
+| P:  |    Aa     |  x  |   aa    |
 
 $F_{2}$
-| ♀ \\ ♂ |  a  |
-| :------: | :-: |
-|    A     | Aa  |
-|    a     | aa  |
+| $\female$ \\ $\male$ |  a  |
+| :------------------: | :-: |
+|          A           | Aa  |
+|          a           | aa  |
 
 = 50%
 
@@ -294,14 +294,14 @@ Sprawdź jakie jest prawdopodobieństwo pojawienia się dziecka o włosach rudyc
 Pisum: B - brunatne, b - rude
 
 $P_{rodzice}$
-|     | ♀  |     | ♂  |
-| :-: | :-: | :-: | :-: |
-| P:  | Bb  |  x  | Bb  |
+|     | $\female$ |     | $\male$ |
+| :-: | :-------: | :-: | :-----: |
+| P:  |    Bb     |  x  |   Bb    |
 
-| ♀ \\ ♂ |  B  |  b  |
-| :------: | :-: | :-: |
-|    B     | BB  | Bb  |
-|    b     | Bb  | bb  |
+| $\female$ \\ $\male$ |  B  |  b  |
+| :------------------: | :-: | :-: |
+|          B           | BB  | Bb  |
+|          b           | Bb  | bb  |
 
 bb - 25%
 
@@ -316,14 +316,14 @@ A)
 Pisum: A - długie, a - krótkie
 
 $P_{rodzice}$
-|     | ♀  |     | ♂  |
-| :-: | :-: | :-: | :-: |
-| P:  | Aa  |  x  | Aa  |
+|     | $\female$ |     | $\male$ |
+| :-: | :-------: | :-: | :-----: |
+| P:  |    Aa     |  x  |   Aa    |
 
-| ♀ \\ ♂ |  A  |  a  |
-| :------: | :-: | :-: |
-|    A     | AA  | Aa  |
-|    a     | Aa  | **aa**  |
+| $\female$ \\ $\male$ |  A  |   a    |
+| :------------------: | :-: | :----: |
+|          A           | AA  |   Aa   |
+|          a           | Aa  | **aa** |
 
 Tak.
 
@@ -332,13 +332,13 @@ B)
 Pisum: A - długie, a - krótkie
 
 $P_{rodzice}$
-|     | ♀  |     | ♂  |
-| :-: | :-: | :-: | :-: |
-| P:  | aa  |  x  | aa  |
+|     | $\female$ |     | $\male$ |
+| :-: | :-------: | :-: | :-----: |
+| P:  |    aa     |  x  |   aa    |
 
-| ♀ \\ ♂ |  a  |
-| :------: | :-: |
-|    a     | **aa**  |
+| $\female$ \\ $\male$ |   a    |
+| :------------------: | :----: |
+|          a           | **aa** |
 
 Nie.
 
@@ -361,25 +361,25 @@ Pisum: B - normalne, b - karłowate
 
 A)
 $P_{rodzice}$
-|     |   ♀   |     |  ♂  |
-| :-: | :----: | :-: | :--: |
-| P:  |  BBAa  |  x  | bbaa |
-| G:  | BA, Ba |     |  ba  |
+|     | $\female$ |     | $\male$ |
+| :-: | :-------: | :-: | :-----: |
+| P:  |   BBAa    |  x  |  bbaa   |
+| G:  |  BA, Ba   |     |   ba    |
 
-| ♀ \\ ♂ |  ba  |
-| :------: | :--: |
-|    BA    | BbAa |
-|    Ba    | Bbaa |
+| $\female$ \\ $\male$ |  ba  |
+| :------------------: | :--: |
+|          BA          | BbAa |
+|          Ba          | Bbaa |
 
 B)
 $P_{rodzice}$
-|     |  ♀  |     |  ♂  |
-| :-: | :--: | :-: | :--: |
-| P:  | BbAa |  x  | bbaa |
+|     | $\female$ |     | $\male$ |
+| :-: | :-------: | :-: | :-----: |
+| P:  |   BbAa    |  x  |  bbaa   |
 
-| ♀ \\ ♂ |  ba  |
-| :------: | :--: |
-|    BA    | BbAa |
-|    Ba    | Bbaa |
-|    bA    | bbAa |
-|    ba    | bbaa |
+| $\female$ \\ $\male$ |  ba  |
+| :------------------: | :--: |
+|          BA          | BbAa |
+|          Ba          | Bbaa |
+|          bA          | bbAa |
+|          ba          | bbaa |
