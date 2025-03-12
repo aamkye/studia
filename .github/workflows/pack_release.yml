@@ -59,7 +59,7 @@ jobs:
             --to=pdf
             --resource-path=.:obrazki:obrazki/*:przedmiot:przedmiot/*
             "${{ matrix.file }}"
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: ${{ steps.file_without_path_end_extension.outputs.value }}.pdf
           path: output/${{ steps.file_without_path_end_extension.outputs.value }}.pdf
@@ -78,7 +78,7 @@ jobs:
           fetch-depth: 2
       - run: tree .
       # Ugly hacks...
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           path: output-tmp
       - run: mkdir output && mv output-tmp/**/*.pdf output
