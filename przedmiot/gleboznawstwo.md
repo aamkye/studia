@@ -235,6 +235,40 @@ poniżej 0.1mm - 1g
 - Skład granulometryczny
 - Oznaczanie gęstości właściwej gleby
 
+## Właściwości wodne gleby (retencja)
+
+### Wilgnotność aktualna
+
+- Metoda suszarkowa (Grawimetryczna) ~3-5 pomiarów
+- sondy w dwóch miejscach i różnice potencjały (TDR)
+
+### Wartość PF (zdolności ssące gleby), Krzywa osuszania, Krzywa desorbcji wodnej
+- PF 0 - gleba po podsiąku
+- PF 7 - całkowicie pozbawiona jakiejkolwiek formy wody
+- Unikalna dla kazdej gleby, zależy od wielu czynników
+
+### Polowa Pojemność Wodna (przy użyciu wilgotności aktualnej)
+
+- po grawitacyjnym odpływie wody
+- po eliminacji ewaporacji
+
+PF2
+
+### Kapilarna Pojemność Wodna (wyraźnie większa od PPW)
+
+- po bezpośrednim kontakcie z lustrem wody gruntowej
+
+PF0
+
+### Wilgotność początku hamowania wzrostu roślin (trudności z pobieram wody)
+
+PF2.7-3.2
+
+### Wilgotność punktu trałego więdnięcia roślin (obumarcie większości roślin)
+
+PF4.2
+
+
 # Wykłady
 
 ## Gleboznawstwo
@@ -412,3 +446,86 @@ Podział według PTG 2008
 |                          | cz. ilaste | ił pyłowy gruby           |     | .02-.005  |
 |                          |            | ił pyłowy drobny          |     | .005-.002 |
 |                          |            | ił koloidalny             |     | < .002    |
+
+## Właściwości chem. gleb.
+
+### Układ pierwiastków chemicznych wchodzących w skład gleb
+
+- 50% Tlen
+- 25% Krzem
+-
+
+### Makro sładniki
+
+#### Węgliel i jego obieg w przyrodzie
+
+#### Azot i jego obieg przyrodzie
+
+- gleba sucha - N dostępne jako azotany
+- gleba wilgotna - N dostępne jako amoniak (NH4)
+
+Stosunek C:N
+
+>32:1 - spowolnienie
+8-15:1 - większość gleb
+10-12:1 - najczęściej
+
+#### Fostor i jego obieg w przyrodzie
+
+#### Magnez i jego obieg w przyrodzie
+
+#### Potas i jego obieg w przyrodzie
+
+#### Sód i jego obieg w przyrodzie
+
+# Ćwiczenia
+
+| próbka                 | $a_1$      | n    | k    | $H_w$ |
+| ---------------------- | ---------- | ---- | ---- | ----- |
+| glina cieżka pylasta   | 1.8 $cm^3$ | 0.01 | 1.84 | 0.17  |
+| pył                    | 0.7 $cm^3$ | 0.01 | 1.9  | 0.07  |
+| piasek gliniasty lekki | 2.4 $cm^3$ | 0.01 | 1.6  | 0.19  |
+
+$$
+k_w = a_1 \cdot 5 \cdot n \cdot k [me/100g]\\
+\\
+k_{w_1} = 1.8 * 5 * 0.01 * 1.84* = 0.17\\
+k_{w_2} = 0.7 * 5 * 0.01 * 1.9 = 0.07\\
+k_{w_3} = 2.4 * 5 * 0.01 * 1.6 = 0.19\\
+$$
+
+## Typy gleb
+
+![Typy gleb](../obrazki/gleboznawstwo/typy_gleb.png)<br>
+
+### Gleby bielicowe
+
+Redziny powstaly ze zwietrzeliny skat wapiennych (kredy, margli dolomitów lub gipsu). Redziny zajmuja ok. 1% pow. calego kraju. Wystepuja w pid.-wsch. czesci Polski na wyzynach. Profil przedstawia redzine czarnozie-mna wytworzona z wapienia kredo-wego. Klasa bon. Illa, kompleks przydatnosci rolniczej gleb 2-pszenny, dobry. Uprawiane rosliny: pszenica, buraki cukrowe, rzepak, gryka, koniczyna, lucerna, tyton i inne. Roslinnosc drzewiasta: lasy lisciaste lub mieszane.
+
+### Czarnoziemy
+
+Czarnoziemy wytworzyty sie z lessu lub innych skal zawierajacych weglan wapnia, przy udziale roslinnosci stepowej i pod wptywem klimatu stepo-wego. Czarnoziemy zajmuja ok. 1% pow. catego kraju. Wystepuja w pid. Polsce (w rejonie Proszowic i Hrubieszowa). Klasa bon l. kompleks przydatnosci rolniczej gleb 1-pszenny, bardzo dobry. Czarnoziemy wlasciwe stanowia naj-zyzniejsze gleby Polski. Uprawiane rosliny: pszenica, buraki cukrowe, kukurydza, groch, soja, rzepak, stonecznik, tyton i inne. Profil przedstawia czarnoziem wlasci-wy.
+
+### Czarne ziemie
+
+Czarne ziemie powstaly z bogatych w materie organiczne osadów bagiennych lub pojeziernych, czesto zasobnych w weglan wapnia (margle). Czarne ziemie zajmuja ok. 2% powierzchni calego kraju. Wystepuja jako lokaine odmiany geograficzne (cz. ziemne blorskie, kujawskie i inne). Sq to gleby bardzo Zyzne. Uprawiana roslinnosé: pszenica, kuku-rydza, buraki cukrowe, groch, rzepak, koniczyna i inne. Profil przedstawia czarna ziemie wasciwa.
+
+### Gleby brunatne
+
+Gleby brunatne wytworzone sa z róz-nych skat macierzystych przy udziale lasów lisciastych oraz borów mieszanych (brunatne kwasne). Zajmuja facznie z glebami plowymi ponad 50% pow. calego kraju. Wystepuja w wiekszych kompleksach w pin.-wsch. oraz w zach.-srod. czesci Polski, Profil preedstawia glebe brunatna wlasciwa wytworzona z gliny zwato-wej. Klasa bon. 1. kompleks przydatnosci rolniczej 1-pszenny, bardzo dobry. Uprawiane rostiny: pszenica, jeczmien, kukurydza, groch, rzepak, buraki cukrowe, tyton, koniczyna czerwona, lucerna. Lasy lisciaste.
+
+### Gleby płowe
+
+Gleby plowe tworza sie z utworow pytowych, glin, piaskow gliniastych i in. Morfologicznie przypominaja gleby bielicowe. Zajmuja lacznie z glebami brunatnymi ponad 50% powierzchni calego kraju. Wystepuja w róznych czesciach Polski, przewaznie pod uprawami rolnymi. Uprawiane rosliny: pszenica, jeczmien, Zyto, owies, rzepak, groch, buraki cukrowe, ziemniaki, koniczyna, lucerna i inne Lasy mieszane, grady.
+
+### Bielica
+
+Bielice tworza sie z ubogich skal macierzystych, róznego pochodzenia geologicznego, pod wptywem roslinnosci lesnej-borów iglastych. Odczyn w wierzchnich warstwach jest kwasny. Zajmuja tacznie z glebami rdzawymi okoto 26% w tym bielice 2% pow. catego kraju. Wystepuja w róznych czesciach Polski gtównie pod lasami iglastymi. Uprawiane rosliny: malo wymagajace np. ¿yto, owies, ziemniaki, zólty tubin, seradela i inne. W uprawach lesnych sosna, brzoza. Profil przedstawia bielice zelazista spod lasu sosnowego IV-V bon.
+
+### Gleba murszowa (bagienna)
+
+Gleby bagienne tworza sie z organicznych szczatków gromadzonych w trwale beztlenowych warunkach srodowiska silnie wilgotnego, badz tez wodnego. Wyrózniane sa gleby mulowe i tor-fowe. Zajmuja ogótem okolo 8% pow. cale-go kraju. Wystepuja w dolinach rzek i obnize-niach terenu. Wieksze obszary wyste-puja w srodk.-wsch. i pin.-wsch. ' czesci Polski. Profil przedstawia glebe murszowo-torfowa gteboka, wytworzona z torfu, torfowiska przejsciowego na podtozu piasku rzecznego. Klasa bon. IV, kompleks przydatnosci rolniczej gleb 2, uzytek zielony sredni. Uprawiane rosliny: rosliny takowe.
+
+### Mady rzeczne
+
+Mady rzeczne tworza sie w dolinach rzek. Charakteryzuja sie wyraznymi warstwami w profilu, powstatymi, przez osadzanie sie materiatów mineralnych i organicznych. Odczyn tych gleb najczesciej obojetny lub stabo alkaliczny. Zyznosé ich zalezy od jako-sci osadzanego materialu glebowego. Mady zajmuja ok. 5% powierzchni catego kraju. Uprawiane rosliny: zboza, rosliny straczkowe, chmiel, tyton i inne. Z roslin drzewiastych sady owocowe, plantacje topolowe. Znaczna powierzchnie zajmuja taki, Profil przedstawia made srednia, przewarstwiona piaskiem.
