@@ -180,8 +180,8 @@ cos(x) = b/c
 ### Zad
 
 Proszę wyprowadzić wzór i obliczyć wartość kąta wzniosu ($\alpha$) w klinie trójgraniastym, jeśli:
-$\beta = \frac{OC}{OA}$ - kąt (pochylenia) obracania skiby - $25\degree$
-$\gamma = \frac{OA}{OB}$ - kąt przystawienia - $35\degree$
+$\beta = \frac{OC}{OA}$ - kąt (pochylenia) obracania skiby - $25^{\circ}$
+$\gamma = \frac{OA}{OB}$ - kąt przystawienia - $35^{\circ}$
 
 $$
 \tan(\alpha) = \frac{OC}{OB}\\
