@@ -324,3 +324,69 @@ Makowate **Papaveraceae**
 Gat.: chwast zimujący
 Owoc: torebka
 Liścienie nitkowate, lancetowate, ostre. Liście pierwszej pary owalne, ostre, całobrzegie. Dalsze liście coraz liczniejsze wcięcia, długie ogonki. Dolna strona sina, z nerwem. Pierwsze liście tworzą rozetę. Dorosła do 60cm. Po przecięciu wydziela sok mleczny. Łodyga wzniesiona, u dołu się rozgałęzia, owłosiona. Liście poj./podw. pierzastosieczne, pokryte włoskami. Kwiaty pojedyncze na długich szypułkach, czerwone, u nasady czarne. Występowanie w ozimych, okopowych, rzepak. Gleby wylgotne gliniaste. Próg 12-22szt./m^2. Trujący dla bydła, koni i świń.
+
+Nawrot polny _Lithospermum arvense_ **LITAR**
+Ogórecznikowate **Boraginaceae**
+gat. chwast zimujący
+Owoc: rozłupnia
+liścienie szeroko-owalny, na szczycie zaokrąglone, płytkie wsięcie, ogonki krótkie, owłosione, pierwsze liście podłużnie lancetowate, zaokrąglone tępe, bardzo widoczny nerw główny, ku nasadzie klinowaty ogonek, szorstko owłosione, dorosła do ok 15-50cm, cała owłosiona, łodyga sztywna, na szczycie rozgałęziona, dolne liście na ogonkach. Kwiaty drobne barwy białej (są też żółte) z fioletową rurką. Wyst. w zbożach ozimych, okopowych. Gleby niezbyt kwaśne. Brak progów szkodliwości. Nasiona mają długą żywotność. Małe wymagania termiczne, zanieczyszcza materiał siewny.
+
+Niezapominajka polna _Myosotis arvensis_ **MYOAR**
+Ogórecznikowate **Boraginaceae**
+gat. chwast zimujący
+owoc: rozłupnia
+liścienie owalne, prawie okrągłe, owłosione, krótkie ogonki. Pierwsze liście podłużnie jajowate, zaokrąglone, owłosione. Dorosła 10-30cm, cała owłosiona, łodyga wzniesiona, liście małe owłosione, dolne zebrane w rozetę, ogonkowe, górne lancetowate i siedzące. Kwiaty drobne niebieskie. Nasiona małe czarne z połyskiem na szczycie zaostrzone, spłaszczone. Występuje we wszystkich uprawach, ogrodach, ścierniskach, monokultury ozimych. Wszystkie typy gleb. Nie ma progów szkodliwości. Gatunek małoszkodliwy, piętra niskiego, zdolność kiełkowania do 2lat, rozłupki trudne do rozdzielenia od Koniczyny.
+
+Stulicha Psia _Descurainia sophia_ **DESSO**
+Kapustowate **Brasicaceae**
+gat. chwast zimujący
+owoc: łuszczyna
+liścienie podłużne, całobrzegie, długie ogonki. liście pierwszej pary pojedynczo trójsieczne, dalsze liście podwójnie pierzastosieczne, gęsto owłosione. Pierwsze liście tworzą rozetę. Dorosła do 20-80cm, sinozielona, owłosiona, liście 2/3x pierzastosieczne, kwiaty drogne koloru żółtego, zebrane w grona. Zachwaszcza głównie zborza, rzepak, okopowe, ogrody, stanowiska ruderalne. Gleby ubogie, suche, piaszczyste, próchniczne, zasobne. Próg szkodliwości <5m^2, roślina trującą, konkurencyjna dla innych upraw. Nasiona mają zróżnicowaną żywotność, kilka-kilkanaście lat.
+
+Wyka drobnokwiatowa _Vicia hirsuta_ **VICHI**
+Bobowate **Fabaceae**
+gat. chwast zimujący
+owoc: strąk
+siewka bez liścieni, pierwsze liście mają jedną parę równowąskich odcinków, kolejne mają 6-8 par wąskich podługowatych odcinków, starsze zakończone wąsem czepnym. Dorosła łodyga oplata się wokół roślin, kanciasta, owłosiona. Kwiaty drobne, fioletowo-białe. Występuje w zbożach, okopowe, zarośla. Gleby piaszczyste, gliniaste, kwaśne. Brak określonych progów szkodliwości. Utrudnia zbiór - oplata się. Trujące glikozydy.
+
+Generatywne
+---
+Generatywno-wegetatywne
+
+Babka lancetowata Plantago lanceolata **PLALA**
+Babkowate **Plantaginaceae**
+gat. chwast korzeniowy
+owoc: torebka
+liścienie równowąskie, długie, zrośięte u podstawy. Liście ciemnozielone, widoczne nerwy, na szczycie zaostrzone, u podstawy ogonkowate, owłosione. Dorosła do 20-40cm, korzeń krótki, gruby. Liście tworzą rozetę, widoczne unerwienie, lancetowate, ogonkowe. Kwiaty białe, pręciki 2-3x dłuższe niż korona. Występuje w różnych uprawach, koniczyny, lucerny, łąki, pastwiska, nieużytki. Wszystkie rodzaje gleb. Brak okreslonych progów szkodliwości. Ciężko ją zwalczyć.
+
+Mlecz polny _Sonchus arvensis_ **SONAR**
+Astrowate **Asteraceae**
+gat. chwast korzeniowo-odrostowy
+owoc: niełupka
+liścienie zaokrąglone, owalne, krótkie ogonki, zaczerwienione na brzegach. Pierwsze liście nagie, owalnojajowate, na szczycie zaokrąglone, mają włoski kłujące na brzegach. Siewka wydziela sok mleczny. Dorosła błyszczące, lancetowate, wrębne brzegiem kolczasto-ząbkowanym. U dołu zwężone w ogonek. Dorosła, łodyga pusta wzniesiona, górą rozgałęziona. Kwiaty żółte. Występowanie zboża jare, okopowe, ogrody, nieużytki. Gleby żyzne, wilgotne. Brak określonych progów szkodliwości. Umie uodparniać się na herbicydy.
+
+Mniszek pospolity (lekarski) _Taraxacum officinale_ **TAROF**
+Astrowate **Asteraceae**
+gat. chwast korzeniowy
+owoc: niełupka
+Liścienie owalne, na szczycie zakończone wcięciem. Pierwsze liście, odwrotne jajowate, z nielicznymi ząbkami. Dorosła 10-30cm, liście zebrane w rozetę, lancetowate, głęboka wrębność. Łodyga bezlistna, pusta, naga. Kwiaty języczkowe, żółte. Występowanie: żyzne, gliniaste, pola, ogrody, łąki, chwast ruderalny. Brak określonych progów szkodliwości. Zróżnicowany morfologicznie. Zadusza rośliny pastewne.
+
+Ostrożeń polny _Cirsum arvense_ **CIRAR**
+Astrowate **Asteraceae**
+gat. chwast korzeniowo-odrostowy
+owoc: niełupka
+Liścienie owalne, całobrzegie, mięsiste. Pierwsze liście odwrotnie jajowate, na brzegu ząbkowane, przechodzą w szerokie ogonki. Dorosła do 120cm, łodyga wzniesiona, górą rozgałęziona, liscie podłużne lancetowate wrębne, na szczycie ostro zakończone, na brzegach kłujące ząbki, w górnej części, liście owłosione, spodem filcowate. Kwiaty barwy fioletowej. Występuje na wszystkich uprawach, miedze, przydrożne rowy. Wszystkie typy gleb z wyj. najubozszych. Szkodliwość <0.5szt/m^2 -> -5% plonu; 2szt/m^2 -> -15% plonu. Duża konkurencyjność, utrudnia zbiór i pogarsza jakość paszy.
+
+Perz właściwy _Agropyron repens_ **AGRRE**
+Wiechlinowate **Poaceae**
+gat. chwast płytko-rozłogowy
+owoc: ziarniak
+liścienie wąskie, glaszki i pochwy krótko owłosione, języczek krótki del. ząbkowany, uszka wąskie sierpowate, czerwono-fioletowe. Dorosła 40-150cm, długi podziemny system rozłogów. Liście równowąskie, płaskie, na górnej stronei szorstkie, kłoski odstające. Zachwaszcza wszystkie uprawy, pola, łąki, ogrody, chwast ruderalny. Próg szkodliwości 10-60pędów/m^2. Gatunek bardzo żywotny, do 4lat.
+
+Podagrycznik pospolity _Aegopodium podagraria_ **AEGPO**
+Selerowate **Apiaceae**
+gat. chwast korzeniowo-odrostowy
+owoc: rozłupnia
+liścienie podłużne, na długich ogonkach. Pierwszy liść 3-dzielny. Łodyga naga lub owłosiona, od 50-100cm. Łodyga wzniesiona, w górnej częście rozgałęziona. Dolne liście ogonkowe, górne mają rdzeń, gładkie. Kwiaty białe, zebrane w grona. Występowanie, trawniki, łąki, pastwiska, lasy liściaste (ucieka na brzegi), zbiorowiska okrajkowe, roślina lecznicza. Brak określonych progów szkodliwości. Jest trudna do zwalczenia. Gleby żyzne, wilgotne, roślina wskaźnikowa (azot i próchnica).
+
+Powój polny Coonvolvulus arvensis **CONAR**

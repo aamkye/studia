@@ -407,7 +407,38 @@ rzepa śc. ma rude nasiona
 lucerna -
 nostrzyk - pachnie kumaryną
 
+## Ocena materiału siewnego
 
-Uprawki
-Ocena materiału siewnego
-Rozpoznawanie roślin uprawnych
+PIORIN + WIORIN (powiatowy / wojewódzki inspektorat ochrony roślin i nasiennictwa)
+- nadzór nad produkcją mat. siewnego spełniającego wymagania zdrowotnościowe i jakościowe (min. ocena polowa i lab. materiału siewnego)
+
+ISTA
+- ustala procedury w zakresie pobierania prób i oceny materiału siewnego
+
+OECD
+- ujednolica zasady wytwarzania i jakości mat. siewnego w obrocie międzynarodowym
+
+Państwo polskie
+- działalność ustawodawcza - ustawy związane z nasiennictwem publikowane w Dzienniku Ustaw, np. Ustawa o nasiennictwie
+
+### Stopień kwalifikacji
+
+- Elitarny (kat.)
+  - Przedbazowy (stopień); PB_III/PB_II (symbol); biała z fioletowym ukośnym paskiem (kolor etykiety)
+  - Bazowy; B; biała)
+- Kwalifikowany
+  - Pierwszego rozmnożenia; C1; niebieska
+  - Drugiego rozmnożenia; C2; czerwona
+  - Trzeciego rozmnożenia; C3; czerwona
+
+Rozmnażanie materiału siewnego o niskim wsp. rozmnożenia
+mat. hodowlany -> PB_III -> PB_II -> B -> C1 -> C2 -> C3
+_niski współczynnik rozmnożenia to np. wszystkie zboża z wyjątkiem gryki_
+
+100kg -> 3t (pb3)
+3x30 -> 90t (pb2)
+90x30 -> 2700 (b)
+2700x30 -> 81000 (c1)
+81000/200 -> 405000ha
+
+## Uprawki

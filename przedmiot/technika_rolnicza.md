@@ -184,17 +184,67 @@ $\beta = \frac{OC}{OA}$ - kąt (pochylenia) obracania skiby - $25^{\circ}$
 $\gamma = \frac{OA}{OB}$ - kąt przystawienia - $35^{\circ}$
 
 $$
-\tan(\alpha) = \frac{OC}{OB}\\
-OC = \frac{OC}{OA} =  \\
-OB =
-\tan(\alpha) = \frac{}{}\\
+\begin{aligned}
+\tan(\alpha) &= \frac{OC}{OB} \\
+\tan(\beta) &= \frac{OC}{OA} // *OA \\
+OC &= \tan(beta) * OA \\
+\tan(\gamma) &= \frac{OA}{OB} // *OB \\
+OB &= \frac{OA}{\tan(\gamma)} \\
+\tan(\alpha) &= \frac{\tan(\beta) * OA}{\frac{OA}{\tan(\gamma)}} \\
+\tan(\alpha) &= \frac{\tan(\beta) * OA * \tan(\gamma)}{OA} //  OA\\
+\tan(\alpha) &= \tan(\beta) * \tan(\gamma) \\
+\end{aligned}
 $$
 
+## Opory orki
+
 $$
-tan(\alpha) = \frac{OC}{OB}
-\tan(\beta) = \frac{OC}{OA} // *OA
-OC = \tan(beta) * OA
-\tan(\gamma) = \frac{OA}{OB} // *OB
-OB = \tan(\gamma) * OA
-\tan(\alpha) = \frac{\tan(beta)}{\tan(\gamma)}
+\begin{aligned}
+P &= G \cdot f + a \cdot b \cdot k_0 + a \cdot b \cdot \epsilon \cdot v^2
+\end{aligned}
 $$
+
+$P$ - opór całkowity $[kN]$
+$G$ - ciężar pługa $[kN]$
+$f$ - współczynnik oporów jałowych $[-]$
+$a$ - głębokość orki $[m]$
+$b$ - szerokość orki $[m]$
+$k_0$ - współczynnik oporu statycznego $[kN \cdot m^{-2}; kPa]$
+$\epsilon$ - współczynnik oporu dynamicznego $[kN \cdot s^{2} \cdot m^{-4}]$
+$v$ - prędkość orki $[m \cdot s^{-1}]$
+
+### Zad
+
+$P$ - $16kN$
+$b$ - $0.3m$
+$a$ - $0.22m$
+$k_0$ - $20kPa$
+$\epsilon$ - $4$
+$v$ - $10.8 km \cdot h^{-1} = 3m \cdot s^{-2}$
+$f$ - $0.15$
+$G$ - $6kN$
+
+$$
+\begin{aligned}
+P &= G \cdot f + a \cdot b \cdot k_0 + a \cdot b \cdot \epsilon \cdot v^2 \\
+P &= G \cdot f + a \cdot b \cdot (k_0 + \epsilon \cdot v^2) / - G \cdot f \\
+P - G \cdot f &= a \cdot b \cdot (k_0 + \epsilon \cdot v^2) // a \cdot (k_0 + \epsilon \cdot v^2) \\
+\frac{P - G \cdot f}{a \cdot (k_0 + \epsilon \cdot v^2)} &= b \\
+\text{---} \\
+\frac{16 - 6 \cdot 0.15}{0.22 \cdot (20 + 4 \cdot 3^2)} &= b \\
+\frac{16 - 0.9}{0.22 \cdot (20 + 36)} &= b \\
+\frac{15.1}{0.22 \cdot 56} &= b \\
+\frac{15.1}{12.32} &= b \\
+1.22 &= b \\
+\text{---} \\
+x &= \frac{b}{n} \\
+x &= \frac{1.22}{0.3} \\
+x &= 4.08
+\end{aligned}
+$$
+
+## Siew
+
+### Zadanie
+
+![alt text](../obrazki/technika_rolnicza/obliczenia1.png)
