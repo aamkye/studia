@@ -145,6 +145,169 @@ Wnioski
 
 Podczas pomiarów zauważono, że niektóre wartości były trudne do uchwycenia z powodu kształtu obiektów. Na przykład, w przypadku butelki Tymbark, pomiar szerokości boku był trudny do wykonania z powodu zaokrąglonego kształtu. W przypadku kubka, pomiar średnicy był dokładny, ale wymagał precyzyjnego ustawienia w programie. Wnioskując, dokładność pomiarów zależy od kształtu obiektu oraz umiejętności operatora oprogramowania.
 
+## Sprawozdanie 2
+
+![](../obrazki/technika_rolnicza/sprawko2_1.jpeg)
+![](../obrazki/technika_rolnicza/sprawko2_2.jpeg)
+![](../obrazki/technika_rolnicza/sprawko2_3.jpeg)
+![](../obrazki/technika_rolnicza/sprawko2_4.jpeg)
+
+### Teoria
+
+Na każdy pojazd toczący się po płaskim prostoliniowym odcinku działają następujące siły zewnętrzne:
+- siła oporu powietrza, $P_a$
+- siła oporu przetaczania, $P_f$
+- siła bezwładności, $P_b$
+
+Siła oporu powietrza:
+$$
+P_a = \frac{1}{2} \cdot C_x \cdot A \cdot \rho \cdot v^2
+$$
+
+gdzie:
+- $C_x$ - współczynnik oporu powietrza
+- $A$ - powierzchnia czołowa pojazdu (rzut)
+- $\rho$ - gęstość powietrza
+- $v$ - prędkość pojazdu
+
+Siła oporu przetaczania:
+$$
+P_f = G \cdot f
+$$
+
+gdzie:
+- $G$ - siła obciążenia pionowego działającego na koło/gąsienicę
+- $f$ - współczynnik oporu przetaczania
+
+$$
+f = \frac{e}{r_d}
+$$
+
+gdzie:
+- $e$ - poziome przesunięcie reakcji w miejscu styku koła z podłożem
+- $r_d$ - promień dynamiczny koła
+
+Siła bezwładności:
+$$
+P_b = m \cdot a
+$$
+
+gdzie:
+- $m$ - masa pojazdu
+- $a$ - przyspieszenie
+
+Energia kinetyczna:
+$$
+E_k = \frac{m \cdot v^2}{2}
+$$
+
+Praca jaką wykona pojazd po przejechaniu określonego
+dystansu:
+$$
+\begin{aligned}
+\frac{m \cdot v^2}{2} &= m \cdot g \cdot f \cdot s_w \\
+v^2 &= 2 \cdot g \cdot f \cdot s_w \\
+\frac{v^2}{2 \cdot g \cdot s_w} &= f
+\end{aligned}
+$$
+
+gdzie:
+- m - masa pojazdu
+- g - przyspieszenie ziemskie
+- f - współczynnik oporu przetaczania
+- $s_w$ - droga wybiegu
+
+### Założenia
+
+10x 45kg (obciążnik)
+150kg (dwóch kierowców)
+3000kg (ciągnik)
+10m (dystans biegu)
+
+### Pomiary
+
+#### Nr1
+
+| Bieg | Obroty | Czas [s] | Dystans [m] |
+| ---- | ------ | -------- | ----------- |
+| 1    | 1200   | 7.06     | 4.25        |
+| 1    | 1200   | 7.20     | 4.18        |
+| 1    | 1200   | 7.21     | 3.88        |
+
+Średnia: 7.16s; 4.10m
+Prędkość: 1.4m/s
+
+#### Nr2
+
+| Bieg | Obroty | Czas [s] | Dystans [m] |
+| ---- | ------ | -------- | ----------- |
+| 2    | 1200   | 5.21     | 7.35        |
+| 2    | 1200   | 5.30     | 6.80        |
+| 2    | 1200   | 5.16     | 6.60        |
+
+Średnia: 5.22s; 6.92m
+Prędkość: 1.92m/s
+
+#### Nr3
+
+| Bieg | Obroty | Czas [s] | Dystans [m] |
+| ---- | ------ | -------- | ----------- |
+| 3    | 1200   | 4.15     | 9.55        |
+| 3    | 1200   | 4.11     | 9.35        |
+| 3    | 1200   | 4.05     | 9.28        |
+
+Średnia: 4.10s; 9.39m
+Prędkość: 2.44m/s
+
+### Obliczenia
+
+#### Obliczenia dla biegu 1
+
+$$
+\begin{aligned}
+\frac{v^2}{2 \cdot g \cdot s_w} &= f \\
+\frac{1.4^2}{2 \cdot 9.81 \cdot 4.10} &= f \\
+\frac{1.96}{80.44} &= f \\
+0.0244 &= f \\
+\end{aligned}
+$$
+
+#### Obliczenia dla biegu 2
+
+$$
+\begin{aligned}
+\frac{v^2}{2 \cdot g \cdot s_w} &= f \\
+\frac{1.92^2}{2 \cdot 9.81 \cdot 6.92} &= f \\
+\frac{3.6864}{135.56} &= f \\
+0.0272 &= f \\
+\end{aligned}
+$$
+
+#### Obliczenia dla biegu 3
+
+$$
+\begin{aligned}
+\frac{v^2}{2 \cdot g \cdot s_w} &= f \\
+\frac{2.44^2}{2 \cdot 9.81 \cdot 9.39} &= f \\
+\frac{5.9536}{184.56} &= f \\
+0.0323 &= f \\
+\end{aligned}
+$$
+
+#### Średnia
+
+$$
+\begin{aligned}
+\text{Średnia} &= \frac{0.0244 + 0.0272 + 0.0323}{3} \\
+&= \frac{0.0839}{3} \\
+&= 0.02796 \\
+\end{aligned}
+$$
+
+### Wnioski
+
+Na podstawie przeprowadzonych pomiarów i obliczeń można stwierdzić, że współczynnik oporu przetaczania dla pojazdu wynosi średnio 0.02796 względem modelowej wartości 0.04.  Wartość ta wskazuje na stosunkowo niski opór przetaczania, co może być korzystne dla efektywności energetycznej pojazdu. W przyszłości warto byłoby przeprowadzić dodatkowe pomiary w różnych warunkach terenowych oraz z różnymi obciążeniami, aby uzyskać pełniejszy obraz zachowania pojazdu.
+
 ## Budowa korpusu pługów
 
 - lemiesz
