@@ -389,4 +389,45 @@ gat. chwast korzeniowo-odrostowy
 owoc: rozłupnia
 liścienie podłużne, na długich ogonkach. Pierwszy liść 3-dzielny. Łodyga naga lub owłosiona, od 50-100cm. Łodyga wzniesiona, w górnej częście rozgałęziona. Dolne liście ogonkowe, górne mają rdzeń, gładkie. Kwiaty białe, zebrane w grona. Występowanie, trawniki, łąki, pastwiska, lasy liściaste (ucieka na brzegi), zbiorowiska okrajkowe, roślina lecznicza. Brak określonych progów szkodliwości. Jest trudna do zwalczenia. Gleby żyzne, wilgotne, roślina wskaźnikowa (azot i próchnica).
 
-Powój polny Coonvolvulus arvensis **CONAR**
+Powój polny _Coonvolvulus arvensis_ **CONAR**
+Powojowate **Convolvulaceae**
+gat. chwast korzeniowo-odrostowy
+owoc: torebka
+liścienie czworokątne, na końcu sercowato-wcięte z wyraźnym nerwem, ogonki czerwononabiegłe, liście pierwsze - strzałkowate, potem oszczepowate, zaokrąglone na szczycie, **mleczny sok**, u rośliny dorosłej, zaczyna się wicie łodygi, od 20 do 100cm, lekko zeberkowana, liście ogonkowe, strzałkowate, oszczepowate, na szczycie zaokrąglone, (nie ma gadki), kwiaty duże, lejkowate, barwy różowo-białej, pachnie migdałami, występuje w kukurydzy, zborza, okopowe, nieużytki, różne gleby, brak progów szkodliwości, wylega roślin uprawnych, trujący zwłaszcza dla koni, odporny na herbicydy.
+
+Skrzyp polny _Equisetum arvense_ **EQUAR**
+Skrzypowate **Equisetaceae**
+gat. chwast z głębokimi rozłogami, zarodnikujący
+pęd zarodnikowy, bezzieleniowy, barwy brunatnej, nierozgałęziony, bezlistny, pędy zielone pojawiają się później, żeberkowane, rozgałęziające się, wewnątrz puste, dorosła od 15 do 30cm, korzeń na 1m w głąb, rozłogi do 2m, występuje wszędzie, ruderalne, kwaśne gleby, piaszczyste, podmokłe, nie ma progów szkodliwości, toksyczny w sianie, używany w ziołolecznictwie.
+
+Szczaw kędzieżawy Rumex Crispus RUMCR
+Rdestowate Polygonaceae
+gat. korzeniowo odrostowy
+owoc: orzeszek
+liścienie eliptyczne, podłużne, na wierzchołku okrągłe lub ostro zakończone, nasada zwężająca w krótkie ogonki, łodyżka koloru czerwonego, liście ułożone skrętolegle, jajowate, podłużnie eliptycznie, tępo zakończone, długi ogonki, kolejne liście coraz dłuższe, dorosła od 50 do 100cm, liście wydłużone, falisto kędziażawe brzegiem, zaostrzone, łodyga mocno rozgałęziona, prosta, kwiaty mają czerwony kolor, kwiatostan wiecha, gleby gliniaste, kwaśne, miedze, łąki, rośliny zbożowe,
+
+Szczaw polny Rumex acetosella RUMAA
+Rdestowate Polygonaceae
+gat. korzeniowo odrostowy
+owoc: orzeszek
+podłużne liścienie, owalne, krótkie ogonki, pierwsze liście jajowate, wyraźny nerw, zaokrąglone, dorosła od 15 do 30cm, lodyga słabo rozgałęziona, liście dolne w rozetę, liście dalsze oszczepowate, siedzące, kwiatostan wiecha, kwiaty jednopłciowe, czerwone, łąki, pastwiska, zborza, uprawy wieloletnie, gleby ubogie lekkie, zakwaszone, zawiera szczawian potasu - szkodliwy dla zwierząt
+
+Szczaw tępolistny Rumex obtusifolius RUMOB
+Rdestowate Polygonaceae
+gat. korzeniowo odrostowy
+owoc: orzeszek
+liścienie, łodyżka pod liścieniowa brunatna, liście skrętolegle, szerokojajowate, plamiste, drobno punktowane, blaszki całobrzegie, pierzasto unerwione, dorosła od 50-120cm, łodyga wyprostowana, rozgałęziona, czerwononabiegła, kwiatostan grono, korzeń ok 1m w głąb, gleby próchniczne, wilgotne, brzegi pól, orzeszek może przetrwać do 25lat
+
+Szelężnik większy Rhinanthus angustifolis RHIAG
+Zarazowate Orobanchaceae
+gat. jednoroczna półpasożyt
+owoc: torebka
+Liścienie owalne, prawie siedzące, pierwsze liście naprzeciwległe, podłużne, wyraźne unerwienie, brzegiem piłkowane, owłosione. Dorosła od 20-60cm, łodyga sztywna, wzniesiona, słaborozgałęziona, nakrapiana na łodydze, liście naprzeciwległe, zabkowane, kwiaty żółte, zapuszcza ssawki w rośline żywicielską, zboża ozime, łąki, zasobne w wapń, piaszczyste, gliniaste, rozmnaża się z nasion, zróznicowany morfologicznie, zawiera aukubinę.
+
+Kanianka koniczynowa Cuscuta trifolii CUCTR
+Powojowate **Convolvulaceae**
+gat. jednoroczna, pasożyt
+owoc:
+bezlistny pęd, zgrubiały, zapuszcza ssawki. Rozłogi do 1.5m, owija rośliny uprawne, kwiaty bardziej różowe, występuje w kończynie w lucernie, trawach, okopowe, zboża. po zjedzeniu przez zwierzęta nie tracą zdolności kiełkowania, trująca dla bydła.
+
+
